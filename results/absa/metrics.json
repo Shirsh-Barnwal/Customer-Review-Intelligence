@@ -1,0 +1,51 @@
+{
+  "primary_eval": "stratified_grouped_5fold_cv",
+  "cv_n_triplets": 195,
+  "cv_n_reviews": 123,
+  "cv_n_folds": 5,
+  "cv_dl_macro_f1": 0.8187,
+  "cv_dl_weighted_f1": 0.8615,
+  "cv_dl_macro_f1_ci_95": [
+    0.7366,
+    0.8883
+  ],
+  "cv_dl_weighted_f1_ci_95": [
+    0.8065,
+    0.9129
+  ],
+  "cv_lr_macro_f1": 0.3038,
+  "cv_lr_weighted_f1": 0.4395,
+  "cv_lr_macro_f1_ci_95": [
+    0.2358,
+    0.3795
+  ],
+  "cv_lr_weighted_f1_ci_95": [
+    0.3541,
+    0.5352
+  ],
+  "cv_dl_per_aspect_f1": {
+    "audio": 0.5556,
+    "battery": 0.8369,
+    "build": 1.0,
+    "camera": 0.6141,
+    "charging": 0.8744,
+    "connectivity": 0.563,
+    "display": 0.8254,
+    "performance": 0.7567,
+    "software": 0.7238
+  },
+  "cv_lr_per_aspect_f1": {
+    "audio": 0.0392,
+    "battery": 0.2921,
+    "build": 0.0,
+    "camera": 0.0833,
+    "charging": 0.0,
+    "connectivity": 0.0,
+    "display": 0.2831,
+    "performance": 0.1961,
+    "software": 0.0833
+  },
+  "mcnemar_p": 0.0,
+  "winner": "DL",
+  "labels_are_proxy": false
+}

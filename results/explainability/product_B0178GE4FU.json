@@ -1,0 +1,850 @@
+{
+  "parent_asin": "B0178GE4FU",
+  "product_name": "Samsung Galaxy S6 Edge",
+  "n_events": 3,
+  "events": [
+    {
+      "event_month": "2015-12-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "connectivity",
+          "delta": -1.017595294174195,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.013752
+        },
+        {
+          "aspect": "build",
+          "delta": -0.8317446240172204,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 7.933794
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.6212106598904938,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 23.312374
+        },
+        {
+          "aspect": "audio",
+          "delta": -0.4179496731570301,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 29.020721
+        },
+        {
+          "aspect": "display",
+          "delta": -0.2766720305727277,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 1.816479
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "audio",
+          "contribution_pct": 29.020721435546875
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 26.42342758178711
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 23.312374114990234
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 8.26627254486084
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 7.933794021606445
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 3.001333713531494
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 1.816478967666626
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.21184971928596497
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.013752240687608719
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Pretty, pretty buggy.. Pretty phone. Pretty buggy though. The camera randomly freezes my phone once a day requiring a restart. A few times a week my phone loses the ability to connect to WiFi until I restart the device. And a few times a month the phone gets so laugh laggy that it requires a restart (I have nearly nothing additional installed & killing recent apps doesn't help performance). I was...",
+          "aspect": "connectivity",
+          "sentiment": -0.8195121176540852,
+          "stars": 2,
+          "month": "2016-01"
+        },
+        {
+          "text": "Not impressed so far. The phone looks good, but it is not very responsive sometimes. WiFi takes a while to connect, even in my home network. This could be an issue, because I was planning to join Project Fi. Bluetooth it is experiencing the connectivity problem. I had a Moto G before this phone and never had these sort of problems.",
+          "aspect": "connectivity",
+          "sentiment": -0.9901927579194307,
+          "stars": 3,
+          "month": "2015-12"
+        },
+        {
+          "text": "Revolutionary features and crisp android performance...for under 400$. Google nailed tailed this one. Expectations where high in light of the popular Nexus 5 and they delivered. I'm not going to give you a multi-page analysis on the gritty details - for that you can go read a professional write up. What I am going to do is give a run-down of what makes the Nexus 5X so awesome, and then in light...",
+          "aspect": "build",
+          "sentiment": -0.5032457411289215,
+          "stars": 5,
+          "month": "2016-02"
+        },
+        {
+          "text": "I regret that I have to rate this phone so poorly.. As a lover of Google Nexus phones, I regret that I have to rate this phone so poorly. I have had the S, the 3, and the 5 and I bought the 5X and the 6P last Christmas. The problem with this phone is the plastic material that it is made with. It feels light and cheap especially when compared to the Nexus 6P or the Nexus 5. It functions very much...",
+          "aspect": "build",
+          "sentiment": -0.9876836827024817,
+          "stars": 2,
+          "month": "2016-01"
+        },
+        {
+          "text": "Questionable quality at an okay price. Not a bad phone. The battery life is decent. I'm averaging about 3-3.5 hours of on screen time. Stock Android is fantastic. Fast charging works really well. Despite USB-C not being common yet, I love the reversible connector. It fits very snug in the port, to the point where it is a tad difficult to remove. You really need to grip the phone when unplugging...",
+          "aspect": "charging",
+          "sentiment": 0.9987119931611232,
+          "stars": 4,
+          "month": "2016-01"
+        }
+      ]
+    },
+    {
+      "event_month": "2016-04-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "battery",
+          "delta": 1.0407622542439237,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 8.13191
+        },
+        {
+          "aspect": "audio",
+          "delta": 0.8201941546673577,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 5.985486
+        },
+        {
+          "aspect": "connectivity",
+          "delta": 0.7041198455311435,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.005308
+        },
+        {
+          "aspect": "build",
+          "delta": -0.6095857173592474,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "software",
+          "delta": -0.5804084504743514,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 20.498886
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "charging",
+          "contribution_pct": 54.03444290161133
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 20.498886108398438
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 8.204843521118164
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 8.13191032409668
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 5.985485553741455
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 3.1160640716552734
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.023060835897922516
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.005308177787810564
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Call quality is consistently bad. Much worse than my Oneplus One or Nexus .... Call quality is consistently bad. Much worse than my Oneplus One or Nexus 5 on the same network in the same location. It's kind of annoying that the headphone jack is on the bottom of the phone and it uses USB-C, but it's a pretty solid phone with decent battery life that I can easily flash custom ROMs and recoveries...",
+          "aspect": "battery",
+          "sentiment": 0.9956203955225646,
+          "stars": 3,
+          "month": "2016-06"
+        },
+        {
+          "text": "Five Stars. Great phone for the price. Works well with good battery charge.",
+          "aspect": "battery",
+          "sentiment": 0.996641134377569,
+          "stars": 5,
+          "month": "2016-04"
+        },
+        {
+          "text": "4 stars because the speaker could be better, however I love everything else about it and .... 4 stars because the speaker could be better, however I love everything else about it and I mostly use headphones.",
+          "aspect": "audio",
+          "sentiment": 0.41832317411899567,
+          "stars": 4,
+          "month": "2016-04"
+        },
+        {
+          "text": "The Nexus 5x is a (surprisingly) good budget-friendly mid-range phone with flagship features. TL;DR version for those who don't want to read my long review: PROS: + Snapdragon 808 offers good performance without some of the overheating issues it's bigger brother had + Pure stock Android goodness and fast, timely updates + Amazingly good Wi-Fi antenna and connectivity + Almost every U.S. LTE and...",
+          "aspect": "audio",
+          "sentiment": 0.9720950862392783,
+          "stars": 5,
+          "month": "2016-05"
+        }
+      ]
+    },
+    {
+      "event_month": "2016-05-01",
+      "detector": "LSTM-AE",
+      "top_aspects": [
+        {
+          "aspect": "battery",
+          "delta": 0.7157419094356656,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 2.795745
+        },
+        {
+          "aspect": "connectivity",
+          "delta": 0.6135149007968721,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 5.662481
+        },
+        {
+          "aspect": "camera",
+          "delta": -0.41231492545921355,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 11.530238
+        },
+        {
+          "aspect": "software",
+          "delta": -0.37324657050946064,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 3.504156
+        },
+        {
+          "aspect": "performance",
+          "delta": 0.23821351772009317,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 32.024239
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "performance",
+          "contribution_pct": 32.02423858642578
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 27.00125503540039
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 11.530238151550293
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 9.084749221801758
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 5.664045810699463
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 5.662481307983398
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 3.5041556358337402
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 2.795745372772217
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 2.7330868244171143
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "The Nexus 5x is a (surprisingly) good budget-friendly mid-range phone with flagship features. TL;DR version for those who don't want to read my long review: PROS: + Snapdragon 808 offers good performance without some of the overheating issues it's bigger brother had + Pure stock Android goodness and fast, timely updates + Amazingly good Wi-Fi antenna and connectivity + Almost every U.S. LTE and...",
+          "aspect": "battery",
+          "sentiment": 0.9944374560145661,
+          "stars": 5,
+          "month": "2016-05"
+        },
+        {
+          "text": "Call quality is consistently bad. Much worse than my Oneplus One or Nexus .... Call quality is consistently bad. Much worse than my Oneplus One or Nexus 5 on the same network in the same location. It's kind of annoying that the headphone jack is on the bottom of the phone and it uses USB-C, but it's a pretty solid phone with decent battery life that I can easily flash custom ROMs and recoveries...",
+          "aspect": "battery",
+          "sentiment": 0.9956203955225646,
+          "stars": 3,
+          "month": "2016-06"
+        },
+        {
+          "text": "The worst item I have ever ordered from the internet. The worst item I have ever ordered from the internet. Freezes, is not compatible with a lot of items, camera freezes phone, and loses charge within 4 hours",
+          "aspect": "camera",
+          "sentiment": -0.9881115189054981,
+          "stars": 1,
+          "month": "2016-05"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "month": "2015-11-01",
+      "aspects": {
+        "audio": 0.06091217533685267,
+        "battery": 0.20715862737270072,
+        "build": 0.5194564886623994,
+        "camera": 0.4655786993622314,
+        "charging": 0.03384117394064864,
+        "connectivity": 0.5271296632563462,
+        "display": 0.3945658416196238,
+        "performance": -0.05375958510142352,
+        "software": 0.6662012987420894
+      }
+    },
+    {
+      "month": "2015-12-01",
+      "aspects": {
+        "audio": 0.0019701189012266695,
+        "battery": 0.2535503503859218,
+        "build": -0.2401091515008981,
+        "camera": 0.8725152300994523,
+        "charging": 0.9633232639025664,
+        "connectivity": -0.5209570215083659,
+        "display": 0.32747872455608257,
+        "performance": 0.5671836454217555,
+        "software": 0.6073061729694018
+      }
+    },
+    {
+      "month": "2016-01-01",
+      "aspects": {
+        "audio": -0.9834284274838865,
+        "battery": 0.03828975428283835,
+        "build": -0.19350951343464354,
+        "camera": 0.279588481283281,
+        "charging": 0.9609319659721223,
+        "connectivity": -0.4697372182854451,
+        "display": -0.003253679256886244,
+        "performance": -0.14788208068542494,
+        "software": 0.7415986211635754
+      }
+    },
+    {
+      "month": "2016-02-01",
+      "aspects": {
+        "audio": -0.08965418487787247,
+        "battery": -0.37530926664476283,
+        "build": -0.5032457411289215,
+        "camera": 0.6662252440582961,
+        "charging": 0.04090027161873877,
+        "connectivity": -0.48070265295973513,
+        "display": 0.02945638784149196,
+        "performance": -0.2133671652409248,
+        "software": 0.6854652514157351
+      }
+    },
+    {
+      "month": "2016-03-01",
+      "aspects": {
+        "audio": -0.9839571262709796,
+        "battery": 0.17123684410277443,
+        "camera": 0.9972288361168467,
+        "charging": -0.2883076823782176,
+        "connectivity": 0.08485788479447365,
+        "display": 0.997166643559467,
+        "performance": 0.1817674722551601,
+        "software": 0.983084628067445
+      }
+    },
+    {
+      "month": "2016-04-01",
+      "aspects": {
+        "audio": 0.41832317411899567,
+        "battery": 0.996641134377569,
+        "camera": 0.9972319140943,
+        "display": 0.9981484614618239,
+        "performance": -0.0014651519668404944,
+        "software": 0.10696520870260429
+      }
+    },
+    {
+      "month": "2016-05-01",
+      "aspects": {
+        "audio": 0.9720950862392783,
+        "battery": 0.964242564572487,
+        "build": -0.9579633446410298,
+        "camera": 0.00048635495477356017,
+        "charging": -0.7752437288872898,
+        "connectivity": 0.9987665818771347,
+        "display": 0.07675802553421818,
+        "performance": 0.6735299112624489,
+        "software": 0.5238940939925669
+      }
+    },
+    {
+      "month": "2016-06-01",
+      "aspects": {
+        "audio": -0.9868755349889398,
+        "battery": 0.9956203955225646,
+        "camera": 0.9486744569730945,
+        "charging": 0.24713381915353239,
+        "connectivity": -0.16758154844865203,
+        "display": 0.997322214912856,
+        "performance": 0.001961881760507822,
+        "software": 0.03806384652853012
+      }
+    },
+    {
+      "month": "2016-07-01",
+      "aspects": {
+        "build": 0.003947232515201904,
+        "charging": -0.44044821336865425,
+        "performance": 0.006083915184717625,
+        "software": 0.09381743613630533
+      }
+    },
+    {
+      "month": "2016-08-01",
+      "aspects": {
+        "audio": -0.13352395594120026,
+        "battery": -0.3074090906350951,
+        "build": 0.995797064009821,
+        "camera": 0.024476539227180183,
+        "charging": 0.0012719310907414183,
+        "display": 0.6961732980562374,
+        "performance": -0.0297676242965584,
+        "software": 0.9957098543090979
+      }
+    },
+    {
+      "month": "2016-09-01",
+      "aspects": {
+        "battery": -0.9834587280638516,
+        "charging": -0.9145337045192719,
+        "display": -0.9346000538207591,
+        "performance": -0.14920002264746776,
+        "software": -0.982903798809275
+      }
+    },
+    {
+      "month": "2016-10-01",
+      "aspects": {
+        "battery": -0.9880515860859305,
+        "build": -0.978047039359808,
+        "camera": 0.1606089489068836,
+        "charging": -0.1168589498847723,
+        "performance": 0.9208788042888045
+      }
+    },
+    {
+      "month": "2016-11-01",
+      "aspects": {
+        "connectivity": -0.9920513717224821
+      }
+    },
+    {
+      "month": "2016-12-01",
+      "aspects": {
+        "audio": -0.05730106134433299,
+        "battery": -0.985742750344798,
+        "camera": 0.21729075950861443,
+        "display": -0.7057800942760272,
+        "performance": -0.8383247904421296,
+        "software": 0.1506536029628478
+      }
+    },
+    {
+      "month": "2017-01-01",
+      "aspects": {
+        "camera": -0.949844348244369,
+        "display": -0.9483582583488896,
+        "software": -0.9742003292776644
+      }
+    },
+    {
+      "month": "2017-02-01",
+      "aspects": {
+        "battery": -0.2550249695777893,
+        "charging": -0.9532161867246032,
+        "display": 0.685128428041935,
+        "software": 0.8998223906382918
+      }
+    },
+    {
+      "month": "2017-03-01",
+      "aspects": {
+        "audio": -0.9808902181684971,
+        "performance": 0.983763141091913,
+        "software": -0.06338818930089474
+      }
+    },
+    {
+      "month": "2017-04-01",
+      "aspects": {
+        "audio": -0.46948400139808655,
+        "battery": -0.07687575672753155,
+        "camera": 0.3511908714620707,
+        "charging": -0.9427378512918949,
+        "display": 0.9908342589624226,
+        "performance": 0.033489434550574515,
+        "software": 0.9425726589397527
+      }
+    },
+    {
+      "month": "2017-05-01",
+      "aspects": {
+        "camera": 0.9821640667505562
+      }
+    },
+    {
+      "month": "2017-06-01",
+      "aspects": {
+        "audio": -0.9860380217432976,
+        "battery": -0.295768934302032,
+        "charging": -0.00798913836479187,
+        "display": -0.8570505185052752,
+        "performance": -0.9652787984814495,
+        "software": -0.9793234586250037
+      }
+    },
+    {
+      "month": "2017-07-01",
+      "aspects": {
+        "battery": -0.9676935970783234,
+        "camera": 0.9893479426391423,
+        "display": 0.9939672267064452,
+        "performance": -0.9814919759519398
+      }
+    },
+    {
+      "month": "2017-08-01",
+      "aspects": {
+        "build": -0.9922511260956526
+      }
+    },
+    {
+      "month": "2017-09-01",
+      "aspects": {
+        "build": -0.9907647660002112,
+        "software": 0.8761023608967662
+      }
+    },
+    {
+      "month": "2017-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-11-01",
+      "aspects": {
+        "build": -0.9871655195020139,
+        "display": -0.9856078876182437,
+        "software": -0.8035370344296098
+      }
+    },
+    {
+      "month": "2017-12-01",
+      "aspects": {
+        "build": -0.6742145325988531,
+        "performance": -0.9390866407193244
+      }
+    },
+    {
+      "month": "2018-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-05-01",
+      "aspects": {
+        "performance": -0.9751040560659021,
+        "software": 0.0004510059952735901
+      }
+    },
+    {
+      "month": "2019-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-01-01",
+      "aspects": {
+        "audio": -0.9887249781750143,
+        "connectivity": 0.4605262875556946
+      }
+    },
+    {
+      "month": "2022-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-05-01",
+      "aspects": {}
+    }
+  ],
+  "action_items": [
+    {
+      "aspect": "connectivity",
+      "severity": 1.017595294174195,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    },
+    {
+      "aspect": "build",
+      "severity": 0.8317446240172204,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    },
+    {
+      "aspect": "software",
+      "severity": 0.5804084504743514,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "charging",
+      "severity": 0.5018964732710932,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "audio",
+      "severity": 0.4179496731570301,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    }
+  ]
+}

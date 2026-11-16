@@ -1,0 +1,894 @@
+{
+  "parent_asin": "B00OL4DEMC",
+  "product_name": "LG G3",
+  "n_events": 4,
+  "events": [
+    {
+      "event_month": "2015-02-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "camera",
+          "delta": 1.1902376968775772,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 8.732327
+        },
+        {
+          "aspect": "build",
+          "delta": 0.9924569812428672,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 2.410537
+        },
+        {
+          "aspect": "audio",
+          "delta": -0.6892329569931865,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.6457668539272013,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 26.691505
+        },
+        {
+          "aspect": "display",
+          "delta": 0.6286781473478186,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 59.143616
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "display",
+          "contribution_pct": 59.14361572265625
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 26.691505432128906
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 8.73232650756836
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 2.6175878047943115
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 2.4105372428894043
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.4044264554977417
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Good budget phone with some flaws. Overall this phone is good for the price. It is quite fast, I never notice any lag. Multitasking is instantaneous. The 4gb of internal memory is taken up by a large amount of pre-installed software, mostly google in terms of total megabytes. Rooting allowed me to remove a lot of bloatware with titanium backup, freeing up a lot of space. The screen is very high...",
+          "aspect": "camera",
+          "sentiment": 0.22179823368787766,
+          "stars": 4,
+          "month": "2015-03"
+        },
+        {
+          "text": "Love it replaced my old Awe phone for this one .... Love it replaced my old Awe phone for this one and it was worth it i love the longer battery life and nice camera",
+          "aspect": "camera",
+          "sentiment": 0.9981446808669716,
+          "stars": 5,
+          "month": "2015-04"
+        },
+        {
+          "text": "Good phone but still pocket sized. I've had mine since late October. I use a screen protector (skinomi), and a case with it. I'm coming from a LG Optimus F3, which I rooted. Tried everything under the sun to root it, but at this point, I don't care about that anymore. (Unless someone comes up with an exploit that doesn't cause self destruction... ;) ) Apps in 4.4.2 can use the external SD for...",
+          "aspect": "build",
+          "sentiment": 0.9928975235670805,
+          "stars": 5,
+          "month": "2015-02"
+        },
+        {
+          "text": "very impressed. This phone is fantastic for the price (I paid around $50 for it) I like the thin, light design. it is very fast, very easy to use and get started with as it has hands free activation. A little patience and follow the directions-easiest phone to activate ever.. Ive only had it for about a month but I already love love love it.",
+          "aspect": "build",
+          "sentiment": 0.998409989697393,
+          "stars": 5,
+          "month": "2015-02"
+        },
+        {
+          "text": "For $40, there's hardly a better phone.. What you think of this phone depends on what you're expecting. I bought it for $40 to replace/upgrade a Samsung Galaxy Reverb. Both phones only have 4 gigs of memory, so that wasn't an upgrade, but the quad-core processor, bigger screen size and Kit Kat all were factors in my decision, along with the price. I love this phone. My Reverb was incredibly slow,...",
+          "aspect": "audio",
+          "sentiment": 0.587383447214961,
+          "stars": 5,
+          "month": "2015-02"
+        }
+      ]
+    },
+    {
+      "event_month": "2015-04-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "build",
+          "delta": -1.6869166582328035,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 7.252154
+        },
+        {
+          "aspect": "audio",
+          "delta": 1.062365954387739,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 43.487488
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.8715035710483789,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 16.478933
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.40153082049081495,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 4.715937
+        },
+        {
+          "aspect": "connectivity",
+          "delta": 0.367278537578386,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 23.716665
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "audio",
+          "contribution_pct": 43.48748779296875
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 23.716665267944336
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 16.478933334350586
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 7.252154350280762
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 4.715936660766602
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 1.6133625507354736
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 1.501150369644165
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.9983845949172974
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 0.23592102527618408
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "One of the worst phones i ever had!. This has to be the worst phone ever. I'm going to tell you all the bad stuff first. First it has 4gb of memory and as soon as u activate and go back to storage it has 1gb of memory I downloaded 4 things and it already said storage space is running out. The second thing is every time I used the swipe action it always spelled stuff wrong. The third thing is they...",
+          "aspect": "build",
+          "sentiment": -0.9334174729883671,
+          "stars": 1,
+          "month": "2015-06"
+        },
+        {
+          "text": "Four Stars. Warning, the glass on this phone cracks at the slightest provocation.",
+          "aspect": "build",
+          "sentiment": -0.9810853502713144,
+          "stars": 4,
+          "month": "2015-05"
+        },
+        {
+          "text": "Five Stars. Love this phone! Fast, Perfect screen size, Good call quality",
+          "aspect": "audio",
+          "sentiment": 0.9983078505320009,
+          "stars": 5,
+          "month": "2015-04"
+        }
+      ]
+    },
+    {
+      "event_month": "2015-06-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "audio",
+          "delta": -1.2800603620610977,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 50.640667
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.7661990875650402,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 2.79963
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.6638641879111067,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.012013
+        },
+        {
+          "aspect": "software",
+          "delta": -0.623613573562461,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 27.229456
+        },
+        {
+          "aspect": "connectivity",
+          "delta": -0.5706701250637707,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.0
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "audio",
+          "contribution_pct": 50.64066696166992
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 27.229455947875977
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 15.668557167053223
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 3.6496763229370117
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 2.7996296882629395
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.012012702412903309
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Decent, cheap phone. My first smartphone, I knew this would be cheap and utilitarian going in. I've had this a few months and don't regret the purchase. CONS: A 4GB memory really does limit the app selection; Android 4.4.2 won't let you do much with the SD card storage, so the memory runs out pretty quickly and you have to be very vigilant about moving files and clearing data as you go. Its...",
+          "aspect": "audio",
+          "sentiment": -0.9872851867694408,
+          "stars": 4,
+          "month": "2015-08"
+        },
+        {
+          "text": "If you want to cut down on your mobile phone usage, this is the phone for you.. If you want to cut down on your mobile phone usage, this is the phone for you. Set up is simple - but make sure not to slip into accessibility mode or all the buttons become unresponsive. The menu (needed to undo this) is cleverly hidden (hold down the bottom right button for long enough - but you may find this tricky...",
+          "aspect": "audio",
+          "sentiment": -0.9021614636294544,
+          "stars": 1,
+          "month": "2015-08"
+        },
+        {
+          "text": "Good phone, but limited internal storage. I replaced an HTC One with this phone and I'm so glad I did. I really love this phone and the price was great... I paid $39 but I see the price has gone up now (got mine in March). I would have given it five stars except it has one really irritating flaw... storage space. I don't use many apps and it is constantly telling me I'm about out of space. Using...",
+          "aspect": "performance",
+          "sentiment": -0.9653867613524199,
+          "stars": 4,
+          "month": "2015-07"
+        },
+        {
+          "text": "This phone has been a waste of my money. You get what you pay for. I have had the Samsung phones in the past and when I damaged my S3 i bought this as a quick replacement because it was cheap. The camera is not a quality camera at all. The memory seems to always be an issue. I have only downloaded 9 apps and now they don't function correctly. This phone has been a waste of my money.",
+          "aspect": "performance",
+          "sentiment": -0.9930200978415087,
+          "stars": 2,
+          "month": "2015-06"
+        },
+        {
+          "text": "Mehs. Pro: -Fast -Easy to use, good interfaces and software -Phone hardware is durable (not screen, but I have dropped this thing about 7 times and the hardware itself is still functioning) -Battery lasts the whole day Con: -Not a lot of space for apps and games -Screen is absolute crap, I dropped it on the ground from a height of about 8 inches (it fell down one stair step) and the whole screen...",
+          "aspect": "battery",
+          "sentiment": -0.11383002996444702,
+          "stars": 3,
+          "month": "2015-07"
+        },
+        {
+          "text": "I really like this phone. I really like this phone. It's never frozen up on me or anything. The biggest problem I have with it is the internal storage. I take a lot of selfies. So I don't have too much room for other things like app and music and whatnot, even with my sd card. And the battery doesn't last quite as long as I'd like it to. But overall, worth the price. I will be buying another soon...",
+          "aspect": "battery",
+          "sentiment": -0.9852967946790159,
+          "stars": 3,
+          "month": "2015-07"
+        }
+      ]
+    },
+    {
+      "event_month": "2015-12-01",
+      "detector": "LSTM-AE",
+      "top_aspects": [
+        {
+          "aspect": "build",
+          "delta": 1.9846863108687103,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 1.478399
+        },
+        {
+          "aspect": "camera",
+          "delta": 0.9440807041796183,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 11.805018
+        },
+        {
+          "aspect": "display",
+          "delta": 0.9125646274446303,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 77.411293
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.33956429154685125,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 3.602345
+        },
+        {
+          "aspect": "battery",
+          "delta": 0.3390442954405444,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 5.603023
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "display",
+          "contribution_pct": 77.41129302978516
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 11.805018424987793
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 5.603023052215576
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 3.6023449897766113
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 1.478399395942688
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.06777933239936829
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.031540647149086
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.0006051341770216823
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "You get what you pay for.. This phone has so little memory its virtually unusable. Even buying an SD card will not help you bc Android has nerfed SD cards to where you can't install full apps on them anymore. Also the charging port messed up after less than a year. I'd recommend just spending a bit more and getting an LG Stylo with double the memory, a much better screen, and better build quality.",
+          "aspect": "build",
+          "sentiment": 0.996746773715131,
+          "stars": 2,
+          "month": "2016-01"
+        },
+        {
+          "text": "very happy... very happy....this is a PHONE and not the data-done-right device.....the seller was helpful to answer that and make sure I got the right thing....not a super fancy phone, but didn't want that....phone calls, texting, internet and camera were what my son wanted and that's what he got - he is very happy and I am too. THANKS!",
+          "aspect": "camera",
+          "sentiment": 0.7517628682544455,
+          "stars": 5,
+          "month": "2015-12"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "month": "2014-12-01",
+      "aspects": {
+        "audio": 0.9792968379333615,
+        "battery": 0.4329461536544841,
+        "build": -0.9918197661172599
+      }
+    },
+    {
+      "month": "2015-01-01",
+      "aspects": {
+        "battery": -0.005426340940175578,
+        "build": 0.998213316895999,
+        "camera": -0.9881489055696875,
+        "display": -0.1510206044962009,
+        "performance": 0.7816398225647087,
+        "software": -0.1935018033720553
+      }
+    },
+    {
+      "month": "2015-02-01",
+      "aspects": {
+        "audio": 0.19951756909722462,
+        "battery": 0.4422735314525198,
+        "build": 0.9956537566322368,
+        "camera": 0.22576590755488724,
+        "charging": -0.983107483945787,
+        "connectivity": -0.4712238477077335,
+        "display": 0.4185962056653807,
+        "performance": 0.05636059473512101,
+        "software": 0.014968812504472831
+      }
+    },
+    {
+      "month": "2015-03-01",
+      "aspects": {
+        "audio": -0.3276337768087008,
+        "battery": 0.5879891434651654,
+        "camera": 0.2528406008301924,
+        "connectivity": 0.4901797249985975,
+        "display": 0.4184573302263743,
+        "performance": -0.00031213592349862057,
+        "software": 0.2641821896366309
+      }
+    },
+    {
+      "month": "2015-04-01",
+      "aspects": {
+        "audio": 0.9983078505320009,
+        "battery": 0.6931350197216185,
+        "camera": 0.12765986553858966,
+        "display": 0.5959190926630982,
+        "performance": 0.3515704471008995,
+        "software": 0.1538512536291299
+      }
+    },
+    {
+      "month": "2015-05-01",
+      "aspects": {
+        "build": -0.44654876994900405,
+        "camera": 0.017390835389960557,
+        "connectivity": 0.9982277946255635,
+        "display": 0.998304047214333,
+        "performance": -0.11798590559296177,
+        "software": 0.08967307565035298
+      }
+    },
+    {
+      "month": "2015-06-01",
+      "aspects": {
+        "battery": -0.2626023683696985,
+        "build": -0.9334174729883671,
+        "camera": -0.029715623939409852,
+        "charging": -0.11160391289740801,
+        "connectivity": -0.2447148421779275,
+        "display": 0.01359226694330573,
+        "performance": -0.6004887216040515,
+        "software": -0.36303064475456875
+      }
+    },
+    {
+      "month": "2015-07-01",
+      "aspects": {
+        "battery": 0.21599815573426895,
+        "build": -0.025725364685058594,
+        "camera": -0.4401081738760695,
+        "display": 0.22878139500971884,
+        "performance": -0.4777817775029689,
+        "software": -0.023160922341048717
+      }
+    },
+    {
+      "month": "2015-08-01",
+      "aspects": {
+        "audio": -0.9447233251994476,
+        "build": 0.31838536262512207,
+        "connectivity": 0.5917821116745472,
+        "display": 0.9962174497777596,
+        "performance": -0.987054358003661,
+        "software": -0.9769426346756518
+      }
+    },
+    {
+      "month": "2015-09-01",
+      "aspects": {
+        "battery": 0.9968532603234053,
+        "camera": -0.12220826745033264,
+        "display": 0.2308899032359477,
+        "performance": -0.9827469772892072,
+        "software": -0.7267507910728455
+      }
+    },
+    {
+      "month": "2015-10-01",
+      "aspects": {
+        "audio": -0.9840002115815878,
+        "battery": 0.014083282352657989,
+        "camera": 0.5342324915788291,
+        "connectivity": 0.9443735680542886,
+        "display": 0.2550477215263527,
+        "performance": -0.14996657589134493,
+        "software": -0.43831420002970845
+      }
+    },
+    {
+      "month": "2015-11-01",
+      "aspects": {
+        "battery": 0.9649346242076717,
+        "build": -0.9879395371535793,
+        "camera": -0.988977731904015,
+        "charging": -0.9516824018210173,
+        "connectivity": 0.5901349755004048,
+        "display": -0.23274445751061043,
+        "performance": -0.29766926140291616,
+        "software": -0.20708762722400328
+      }
+    },
+    {
+      "month": "2015-12-01",
+      "aspects": {
+        "audio": -0.9775251564569771,
+        "camera": 0.7517628682544455,
+        "charging": -0.9879397503100336,
+        "connectivity": 0.8824527114629745,
+        "performance": -0.5455524446054673,
+        "software": 0.21523263433482498
+      }
+    },
+    {
+      "month": "2016-01-01",
+      "aspects": {
+        "battery": 0.9986721047607716,
+        "build": 0.996746773715131,
+        "charging": -0.9816297075012699,
+        "display": 0.9969623498618603,
+        "performance": -0.986021934018936,
+        "software": -0.9725436316803098
+      }
+    },
+    {
+      "month": "2016-02-01",
+      "aspects": {
+        "battery": 0.9966639307094738,
+        "charging": -0.181817676872015,
+        "performance": -0.9175013105996186,
+        "software": -0.7084250835468993
+      }
+    },
+    {
+      "month": "2016-03-01",
+      "aspects": {
+        "audio": 0.9951726014260203,
+        "connectivity": 0.9970089790876955,
+        "display": 0.9975631310953759,
+        "performance": -0.981797675214087,
+        "software": -0.4163582865148783
+      }
+    },
+    {
+      "month": "2016-04-01",
+      "aspects": {
+        "audio": 0.9987456701346673,
+        "performance": -0.9828879558481276,
+        "software": -0.7427504919469357
+      }
+    },
+    {
+      "month": "2016-05-01",
+      "aspects": {
+        "performance": -0.9504144228994846,
+        "software": 0.27884341776371
+      }
+    },
+    {
+      "month": "2016-06-01",
+      "aspects": {
+        "camera": -0.05629370384849608,
+        "display": -0.9901109541533515,
+        "performance": -0.8396150688640773
+      }
+    },
+    {
+      "month": "2016-07-01",
+      "aspects": {
+        "performance": -0.23893729085102677,
+        "software": -0.7160016978159547
+      }
+    },
+    {
+      "month": "2016-08-01",
+      "aspects": {
+        "battery": -0.003755131270736456,
+        "performance": -0.9913030692550819,
+        "software": -0.8916041469201446
+      }
+    },
+    {
+      "month": "2016-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2016-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2016-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2016-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-07-01",
+      "aspects": {
+        "audio": -0.9855151667725295,
+        "performance": -0.9499676125124097
+      }
+    },
+    {
+      "month": "2017-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-09-01",
+      "aspects": {
+        "performance": -0.989662877516821
+      }
+    },
+    {
+      "month": "2017-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-01-01",
+      "aspects": {
+        "performance": -0.957551789470017
+      }
+    },
+    {
+      "month": "2018-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-07-01",
+      "aspects": {
+        "charging": -0.9493464640108868
+      }
+    }
+  ],
+  "action_items": [
+    {
+      "aspect": "build",
+      "severity": 1.6869166582328035,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "audio",
+      "severity": 1.2800603620610977,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    },
+    {
+      "aspect": "performance",
+      "severity": 0.7661990875650402,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "battery",
+      "severity": 0.6638641879111067,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "software",
+      "severity": 0.623613573562461,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    }
+  ]
+}

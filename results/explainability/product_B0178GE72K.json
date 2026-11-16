@@ -1,0 +1,1312 @@
+{
+  "parent_asin": "B0178GE72K",
+  "product_name": "Samsung Galaxy S6",
+  "n_events": 6,
+  "events": [
+    {
+      "event_month": "2016-03-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "audio",
+          "delta": -0.5588417773930512,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 3.688516
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.48510300057742933,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 9.918946
+        },
+        {
+          "aspect": "performance",
+          "delta": 0.325191938327837,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 2.431798
+        },
+        {
+          "aspect": "connectivity",
+          "delta": -0.2637591516201307,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.905758
+        },
+        {
+          "aspect": "display",
+          "delta": 0.17555157717953113,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 15.621236
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "build",
+          "contribution_pct": 33.58760070800781
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 16.76861000061035
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 15.621235847473145
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 9.918946266174316
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 9.441970825195312
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 7.63556432723999
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 3.68851637840271
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 2.431797504425049
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.9057583212852478
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "I love this phone.. I upgraded from a Nexus 4, which I had since launch and loved for years. It's a little bigger than the 4, and they moved the volume buttons to the other side with the power button for some reason, but it wasn't hard to adjust (it's only awkward when you're trying to take screenshots). The screen is clear and vivid, and the camera is a huge improvement even from the 5. The...",
+          "aspect": "audio",
+          "sentiment": -0.5515697002410889,
+          "stars": 5,
+          "month": "2016-04"
+        },
+        {
+          "text": "Good Overall, excellent design but poor quality. The phone is really good looking. It has a sweet design, it has pure android with latest updates so if you want quick updates this is it. But what really made my choice is the size. A 5.2' screen is more than good for every average user, with a FHD 1080p IPS panel is really amazing. I have two complaints LG: the side buttons (power and volume) are...",
+          "aspect": "audio",
+          "sentiment": -0.9890591506846249,
+          "stars": 4,
+          "month": "2016-03"
+        },
+        {
+          "text": "Look elsewhere. I am a previous Nexus owner. I had a Nexus 4, also by LG, and had several problems with that device. I switched over to a 1st generation Moto G and found that to be a great phone but it's starting to feel dated. I decided to give Nexus another chance. I'm glad I bought it via Amazon and was able to return it. I bought the mint version and, within a few weeks, the color on the...",
+          "aspect": "battery",
+          "sentiment": -0.02790325041860342,
+          "stars": 1,
+          "month": "2016-04"
+        },
+        {
+          "text": "Cons: battery doesn't last long, icons are not .... Update May 5, 2016: I suddenly can type Vietnamese the regular way now without me doing anything. Cons: battery doesn't last long , icons are not uniformly sized (for example, icons in iPhone would all be the same sized squares with round corners), randomly disconnects from wifi, and most important to me, I can't type my other language which is...",
+          "aspect": "battery",
+          "sentiment": -0.9894519837107509,
+          "stars": 3,
+          "month": "2016-03"
+        },
+        {
+          "text": "Awesome. Awesome phone, great camera, fingerprint reader works fast. Delivered on time.",
+          "aspect": "performance",
+          "sentiment": 0.9041569742839783,
+          "stars": 5,
+          "month": "2016-05"
+        },
+        {
+          "text": "Five Stars. It's a good smartphone with pure Android operating system suited for best performance!",
+          "aspect": "performance",
+          "sentiment": 0.9982274281210266,
+          "stars": 5,
+          "month": "2016-03"
+        }
+      ]
+    },
+    {
+      "event_month": "2017-03-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "build",
+          "delta": -1.98012907942757,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "performance",
+          "delta": -1.3765352298214566,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 5.665388
+        },
+        {
+          "aspect": "camera",
+          "delta": 1.2441515606478788,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "display",
+          "delta": -0.6628399487623634,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 65.621147
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.4974518737338561,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 3.134883
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "display",
+          "contribution_pct": 65.62114715576172
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 25.450721740722656
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 5.6653876304626465
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 3.134882926940918
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.12787200510501862
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Nice experience, Poor build quality. worked well for about a year. It has great features, very good integration with Google's services. Runs stock Android with no bloatware. The 16GB version has too little space if you plan on having photos and music stored locally on the device. After about a year of us, the device fails to boot past the starting \"Google screen\". If I divide the price I paid by...",
+          "aspect": "build",
+          "sentiment": -0.9813553136773407,
+          "stars": 1,
+          "month": "2017-05"
+        },
+        {
+          "text": "Useless phone. I've changed my review, it was originally 5 stars but ever since the last update my phone completely took a downward turn in performance. I bought this phone in February of 2016 and I should have known from the very beginning when it gave me issues to change to something else but I wanted to believe it was just bad luck. Well here we are in May of 2017, just shy of a year old and...",
+          "aspect": "performance",
+          "sentiment": -0.9914008516352624,
+          "stars": 1,
+          "month": "2017-05"
+        },
+        {
+          "text": "Worst customer experience EVER. I bought this as a replacement for my daughters HTC One X, which was a faster, better phone. When it was working, it worked just fine. My daughter ended up dropping it and putting a slight crack in the screen. It worked for almost a year and then started to randomly reboot, and freeze up. This is where the nightmare began. I contacted LG to get the phone repaired....",
+          "aspect": "performance",
+          "sentiment": -0.9486203119158745,
+          "stars": 1,
+          "month": "2017-03"
+        },
+        {
+          "text": "good overall look and feel. Worked well while it lasted. Battery died after 15 months which is extremely disappointing. When it worked: camera was solid, good overall look and feel, clear display. One drawback was that the phone used to get stuck when using snapchat",
+          "aspect": "camera",
+          "sentiment": 0.9461086522787809,
+          "stars": 3,
+          "month": "2017-04"
+        },
+        {
+          "text": "Love it but beware. I had my phone for nearly a year and I love every minutes of it. Easy to use, the camera is beautifully made for its price but i couldn't give it a five star since it dies a few days ago. I expected this phone to last more than a year however it did not. Shortly after I updated my phone to a version of android, my phone turned off randomly and it won't turn on. It stuck on...",
+          "aspect": "camera",
+          "sentiment": 0.9797156685963273,
+          "stars": 3,
+          "month": "2017-04"
+        }
+      ]
+    },
+    {
+      "event_month": "2016-09-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "connectivity",
+          "delta": -0.5989954944370159,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 1.510783
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.490539154861102,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 72.98407
+        },
+        {
+          "aspect": "camera",
+          "delta": -0.48507176779439093,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.450705
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.3831681456439482,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 5.374052
+        },
+        {
+          "aspect": "display",
+          "delta": -0.24704133560832514,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 15.833005
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "performance",
+          "contribution_pct": 72.98406982421875
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 15.83300495147705
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 5.374051570892334
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 1.5373666286468506
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 1.5107827186584473
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 1.4271771907806396
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.7391166090965271
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.45070481300354004
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.14372694492340088
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Great phone, deceptive seller. The actual phone is great. No issues. Love everything about it. I would recommend it. The 3 stars is for the seller, AmazingDeals ShipIn0-1day NoUSSalesTax. First the phone is not mint. It's actually not green in any way. It actually is/called ice blue per Google. Which is fine I like blue too just was looking forward to a mint phone. Second, the seller says it's a...",
+          "aspect": "connectivity",
+          "sentiment": -0.38902025669813156,
+          "stars": 3,
+          "month": "2016-09"
+        },
+        {
+          "text": "This is the third Nexus 5x phone I've ordered and .... This is the third Nexus 5x phone I've ordered and none of them have worked! The first one wouldn't connect to the network extender, the second one wouldn't work with Verizon at all and this last one wouldn't even turn on!",
+          "aspect": "connectivity",
+          "sentiment": -0.9823771514929831,
+          "stars": 1,
+          "month": "2016-10"
+        },
+        {
+          "text": "Dead at 14 months.. It dies unless I charge it twice per day. Fortunately it has quick charge, which keeps me going. The SIM card slot is an incredible pain to open...like I almost couldn't activate the phone because it took me a long time to get the slot open. I wish it had a memory card slot, but I didn't want to pay more than twice as much for a Samsung S7. And now, in Nov 2017 (14 months...",
+          "aspect": "performance",
+          "sentiment": -0.5403696950525045,
+          "stars": 1,
+          "month": "2016-11"
+        },
+        {
+          "text": "I would not recommend this device. I bought two Nexus 5x devices. One for me and one for my wife within a year both devices completely stopped working. I had to ship both back to be replaced. My wife's device is starting to give problems again as well. This device has a lot of lag and freezing as well. I would not recommend this device. If you are looking for a budget phone try the Oneplus 3t or...",
+          "aspect": "performance",
+          "sentiment": -0.9925620059948415,
+          "stars": 1,
+          "month": "2016-11"
+        },
+        {
+          "text": "Five Stars. An awesome phone. My wife loves the picture quality.",
+          "aspect": "camera",
+          "sentiment": 0.9960519591113552,
+          "stars": 5,
+          "month": "2016-10"
+        },
+        {
+          "text": "Not good for Samsung users. This is a rough transition from my Galaxy Note7 (which was the best phone of all time). It is slower, the camera isn't nearly as good, and worst of all it does not work nicely with Verizon. I continually have to reboot the phone to get it to recognize the 4G LTE signal. Even when all settings are correct, it periodically disconnects from the towers without warning....",
+          "aspect": "camera",
+          "sentiment": -0.9711930621415377,
+          "stars": 1,
+          "month": "2016-11"
+        }
+      ]
+    },
+    {
+      "event_month": "2017-01-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "charging",
+          "delta": -1.4411255473290416,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 5.585211
+        },
+        {
+          "aspect": "camera",
+          "delta": -1.2591393421494608,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 32.652184
+        },
+        {
+          "aspect": "display",
+          "delta": 0.8884371997749743,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 12.302141
+        },
+        {
+          "aspect": "software",
+          "delta": -0.8711735442093211,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 33.636303
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.5762954770228438,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 1.004191
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "software",
+          "contribution_pct": 33.63630294799805
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 32.652183532714844
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 12.746514320373535
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 12.302141189575195
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 5.585210800170898
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 2.073460102081299
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 1.0041910409927368
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Fool me once, shame on me. Fool me twice, shame on LG Nexus 5X.. I had an LG phone before, and I liked it, except that I didn't like the fact that I couldn't replace the battery myself and had to pay someone to change it out for me and it cost about $80. So I purchased this phone in September 2016. I was pretty sure that I read a review that said it didn't have that battery replacement problem....",
+          "aspect": "charging",
+          "sentiment": -0.8967662933282554,
+          "stars": 1,
+          "month": "2017-02"
+        },
+        {
+          "text": "NOT WORTH the money. So I waited about a year to give this product a review and honestly I am very disappointed! The phone keeps overheating and after a year shuts down randomly! So annoying, especially if I am in the middle of an important phone conversation. Camera: ok, so I am not sure if anyone else has the same problem but my phone slightly distorts the photos in the corners and at first I...",
+          "aspect": "charging",
+          "sentiment": -0.9794282000511885,
+          "stars": 1,
+          "month": "2017-01"
+        },
+        {
+          "text": "Horrible product from Google, LG and Amazon. I am not sure if my issue is due to Amazon selling a poor quality version, i.e. they purposely bought known defective versions at a cheaper price to then resell, or if my issue is a result of just a poor product from Google/LG. Bottom line is that the camera on the phone began to have issues within a few weeks of purchase and no product support.",
+          "aspect": "camera",
+          "sentiment": -0.986579047399573,
+          "stars": 1,
+          "month": "2017-02"
+        },
+        {
+          "text": "Great phone - when it works. Not reliable, poor warranty service and support. I really like this phone, and I hate it. Google seems to really be cutting the corners with its suppliers and there seems to be tons of software issues with Google's own phones. With mine the camera failed after 6 months. There were other issues Google fixed with firmware updates but why are these not perfect in that...",
+          "aspect": "camera",
+          "sentiment": -0.9904685789952055,
+          "stars": 3,
+          "month": "2017-01"
+        },
+        {
+          "text": "Worst customer experience EVER. I bought this as a replacement for my daughters HTC One X, which was a faster, better phone. When it was working, it worked just fine. My daughter ended up dropping it and putting a slight crack in the screen. It worked for almost a year and then started to randomly reboot, and freeze up. This is where the nightmare began. I contacted LG to get the phone repaired....",
+          "aspect": "display",
+          "sentiment": 0.017708410043269396,
+          "stars": 1,
+          "month": "2017-03"
+        },
+        {
+          "text": "great phone for the money. My fifth Android phone and my second of the Nexus line. This phone replaced an original Nexus 5, and is a wonderful upgrade. I always thought the fingerprint readers were gimmicky, but I would describe the feature as being just short of life altering :) Excellent battery, beautiful screen, lots of storage, and affordable. What more do I need?",
+          "aspect": "display",
+          "sentiment": 0.9978879764676094,
+          "stars": 5,
+          "month": "2017-01"
+        }
+      ]
+    },
+    {
+      "event_month": "2016-06-01",
+      "detector": "LSTM-AE",
+      "top_aspects": [
+        {
+          "aspect": "display",
+          "delta": -0.7164659092385489,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 48.595543
+        },
+        {
+          "aspect": "connectivity",
+          "delta": 0.4398183603955355,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 1.35542
+        },
+        {
+          "aspect": "camera",
+          "delta": 0.39358863285574275,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 22.647932
+        },
+        {
+          "aspect": "audio",
+          "delta": 0.3852135289133811,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 3.939118
+        },
+        {
+          "aspect": "build",
+          "delta": 0.35196140874904813,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 1.369633
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "display",
+          "contribution_pct": 48.595542907714844
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 22.647932052612305
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 15.637972831726074
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 5.8719611167907715
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 3.9391181468963623
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 1.3696329593658447
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 1.355420470237732
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.4036186635494232
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.17880015075206757
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "I love LG nexus phones. I love LG nexus phones, I had the nexus 5 for years. MY favorite thing about it is the fingerprint scanner, its so cool, you can turn on and unlock the screen all in just one press.",
+          "aspect": "display",
+          "sentiment": 0.04851766116917133,
+          "stars": 5,
+          "month": "2016-08"
+        },
+        {
+          "text": "Can't answer phone while surfing the net. When I got the phone it was nothing but trouble. Unless the phone was idle, I could not answer the phone. The screen constantly lagged behind. I called LG and they told me to factory reset the phone. I did that and now it works wonderfully. The reason for my 3 star review is not because of the phones performance but rather because of LG's customer...",
+          "aspect": "display",
+          "sentiment": -0.9898880943655968,
+          "stars": 3,
+          "month": "2016-06"
+        },
+        {
+          "text": "I love Nexus phones and don't think spending 300 dollars more .... I love Nexus phones and don't think spending 300 dollars more was worth the price of the 6P. I got the 5x because I've already had a 5 and feel that overall its a good phone to buy. I did try the new Moto G but found that it got so hot and slow that it became unusable and that is why I defaulted back to a Nexus Device. Pro: Its a...",
+          "aspect": "connectivity",
+          "sentiment": 0.7812315579503775,
+          "stars": 4,
+          "month": "2016-08"
+        },
+        {
+          "text": "Decent phone until it nearly caught on fire while charging!. The phone is a good phone at that price having all of the LTE bands and quick updates from google. 2GB of memory can hold it back from time to time though. This is my first review of any product and I wanted to share my experience. My Nexus 5X (5 months old) nearly caught on fire while recharging using the LG supplied charger and...",
+          "aspect": "connectivity",
+          "sentiment": 0.993253598921001,
+          "stars": 1,
+          "month": "2016-08"
+        },
+        {
+          "text": "Disapointment. I got this phone because it was smaller than many 5.5\" phones and had a pretty good camera. However this phone has a mediocre possessor and only 2 gigs of ram. I assumed that at least the build quality would be pretty good. Wrong. This phone heats up when doing anything more than sending a text and is the flimsiest phone I have ever seen. As a cell phone user i have never damaged a...",
+          "aspect": "camera",
+          "sentiment": 0.9932046530302614,
+          "stars": 2,
+          "month": "2016-07"
+        },
+        {
+          "text": "Five Stars. Camera is amazing. Battery life is fantastic. Sizes feels right. All around a perfect phone for the price",
+          "aspect": "camera",
+          "sentiment": 0.9984288810228463,
+          "stars": 5,
+          "month": "2016-08"
+        }
+      ]
+    },
+    {
+      "event_month": "2016-09-01",
+      "detector": "LSTM-AE",
+      "top_aspects": [
+        {
+          "aspect": "connectivity",
+          "delta": -0.5989954944370159,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 1.510783
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.490539154861102,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 72.98407
+        },
+        {
+          "aspect": "camera",
+          "delta": -0.48507176779439093,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.450705
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.3831681456439482,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 5.374052
+        },
+        {
+          "aspect": "display",
+          "delta": -0.24704133560832514,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 15.833005
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "performance",
+          "contribution_pct": 72.98406982421875
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 15.83300495147705
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 5.374051570892334
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 1.5373666286468506
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 1.5107827186584473
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 1.4271771907806396
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.7391166090965271
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.45070481300354004
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.14372694492340088
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Great phone, deceptive seller. The actual phone is great. No issues. Love everything about it. I would recommend it. The 3 stars is for the seller, AmazingDeals ShipIn0-1day NoUSSalesTax. First the phone is not mint. It's actually not green in any way. It actually is/called ice blue per Google. Which is fine I like blue too just was looking forward to a mint phone. Second, the seller says it's a...",
+          "aspect": "connectivity",
+          "sentiment": -0.38902025669813156,
+          "stars": 3,
+          "month": "2016-09"
+        },
+        {
+          "text": "This is the third Nexus 5x phone I've ordered and .... This is the third Nexus 5x phone I've ordered and none of them have worked! The first one wouldn't connect to the network extender, the second one wouldn't work with Verizon at all and this last one wouldn't even turn on!",
+          "aspect": "connectivity",
+          "sentiment": -0.9823771514929831,
+          "stars": 1,
+          "month": "2016-10"
+        },
+        {
+          "text": "Dead at 14 months.. It dies unless I charge it twice per day. Fortunately it has quick charge, which keeps me going. The SIM card slot is an incredible pain to open...like I almost couldn't activate the phone because it took me a long time to get the slot open. I wish it had a memory card slot, but I didn't want to pay more than twice as much for a Samsung S7. And now, in Nov 2017 (14 months...",
+          "aspect": "performance",
+          "sentiment": -0.5403696950525045,
+          "stars": 1,
+          "month": "2016-11"
+        },
+        {
+          "text": "I would not recommend this device. I bought two Nexus 5x devices. One for me and one for my wife within a year both devices completely stopped working. I had to ship both back to be replaced. My wife's device is starting to give problems again as well. This device has a lot of lag and freezing as well. I would not recommend this device. If you are looking for a budget phone try the Oneplus 3t or...",
+          "aspect": "performance",
+          "sentiment": -0.9925620059948415,
+          "stars": 1,
+          "month": "2016-11"
+        },
+        {
+          "text": "Five Stars. An awesome phone. My wife loves the picture quality.",
+          "aspect": "camera",
+          "sentiment": 0.9960519591113552,
+          "stars": 5,
+          "month": "2016-10"
+        },
+        {
+          "text": "Not good for Samsung users. This is a rough transition from my Galaxy Note7 (which was the best phone of all time). It is slower, the camera isn't nearly as good, and worst of all it does not work nicely with Verizon. I continually have to reboot the phone to get it to recognize the 4G LTE signal. Even when all settings are correct, it periodically disconnects from the towers without warning....",
+          "aspect": "camera",
+          "sentiment": -0.9711930621415377,
+          "stars": 1,
+          "month": "2016-11"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "month": "2015-11-01",
+      "aspects": {
+        "audio": -0.9913396353367716,
+        "battery": 0.9915390003006905,
+        "camera": 0.991533178370446,
+        "charging": 0.9569834545254707,
+        "connectivity": 0.743286318029277,
+        "display": 0.9299109131097794,
+        "performance": -0.9620712995529175,
+        "software": 0.865276537835598
+      }
+    },
+    {
+      "month": "2015-12-01",
+      "aspects": {
+        "audio": 0.08564098847273272,
+        "battery": 0.5010980676015606,
+        "build": -0.1320078327844385,
+        "camera": 0.7344933185231639,
+        "charging": 0.2689082486516175,
+        "connectivity": 0.19743940641637892,
+        "display": 0.7096849602705333,
+        "performance": 0.2509978497866541,
+        "software": 0.41029051390942184
+      }
+    },
+    {
+      "month": "2016-01-01",
+      "aspects": {
+        "audio": -0.5544074508361518,
+        "battery": 0.30628002066659976,
+        "build": 0.1914341144563098,
+        "camera": 0.3832567338729859,
+        "charging": -0.413746100384742,
+        "connectivity": 0.9909628696041182,
+        "display": 0.09990368954921988,
+        "performance": 0.13739438683405752,
+        "software": 0.128829376316968
+      }
+    },
+    {
+      "month": "2016-02-01",
+      "aspects": {
+        "audio": 0.9561632189434022,
+        "battery": -0.42358877828519326,
+        "build": 0.5363994275997227,
+        "camera": 0.564668772261939,
+        "charging": 0.1467510355723789,
+        "connectivity": -0.2644162490032613,
+        "display": 0.302981138458967,
+        "performance": 0.21307280551462265,
+        "software": 0.48371620588053094
+      }
+    },
+    {
+      "month": "2016-03-01",
+      "aspects": {
+        "audio": -0.9890591506846249,
+        "battery": -0.9873365698149428,
+        "build": 0.25069575766247,
+        "camera": 0.29016592602905195,
+        "charging": -0.1446595286106458,
+        "connectivity": -0.22990932504762895,
+        "display": 0.9864146496208074,
+        "performance": 0.5048292973806383,
+        "software": 0.20771936261943275
+      }
+    },
+    {
+      "month": "2016-04-01",
+      "aspects": {
+        "audio": 0.07180423686804716,
+        "battery": 0.4418743229616666,
+        "build": 0.42266232578549534,
+        "camera": 0.6178134427482291,
+        "charging": -0.008705507731065154,
+        "connectivity": 0.3183817064855248,
+        "display": 0.5280986437137472,
+        "performance": 0.6211440883853356,
+        "software": 0.6218459431672402
+      }
+    },
+    {
+      "month": "2016-05-01",
+      "aspects": {
+        "audio": -0.27187366178259254,
+        "battery": -0.5260574448960446,
+        "build": -0.02390731032937765,
+        "camera": 0.3876638135795171,
+        "charging": 0.19462250760989264,
+        "display": 0.12471122648275923,
+        "performance": 0.4510674713528715,
+        "software": 0.2478694353028134
+      }
+    },
+    {
+      "month": "2016-06-01",
+      "aspects": {
+        "audio": 0.9988176682672929,
+        "battery": -0.2948671661724802,
+        "build": 0.42822665348649025,
+        "camera": 0.9886101147906933,
+        "charging": -0.9703732134075835,
+        "connectivity": 0.984896280511748,
+        "display": -0.9008535450557247,
+        "performance": 0.330041463355883,
+        "software": 0.07513909449750956
+      }
+    },
+    {
+      "month": "2016-07-01",
+      "aspects": {
+        "audio": -0.4764039284782484,
+        "battery": -0.21021861930369465,
+        "build": 0.7813486605882645,
+        "camera": 0.5529091685085505,
+        "charging": -0.09669432802184019,
+        "connectivity": 0.20546409576199948,
+        "display": 0.4856300636965898,
+        "performance": -0.2829795312543865,
+        "software": 0.4847535523440456
+      }
+    },
+    {
+      "month": "2016-08-01",
+      "aspects": {
+        "audio": -0.5559017286480715,
+        "battery": -0.12212243069370743,
+        "build": 0.49575968529097736,
+        "camera": 0.9348897976247826,
+        "charging": 0.18113566550891846,
+        "connectivity": 0.26180327706970274,
+        "display": -0.09494972653919831,
+        "performance": 0.5069983928530876,
+        "software": 0.3483635921875248
+      }
+    },
+    {
+      "month": "2016-09-01",
+      "aspects": {
+        "audio": 0.22408060949965147,
+        "battery": -0.2758553253021091,
+        "build": 0.5802974788821302,
+        "camera": 0.9970572827733122,
+        "charging": -0.3164128028632452,
+        "connectivity": -0.1924829939380288,
+        "display": 0.7013578984624473,
+        "performance": -0.9778580879016469,
+        "software": 0.48304187191533854
+      }
+    },
+    {
+      "month": "2016-10-01",
+      "aspects": {
+        "audio": 0.33468156792999554,
+        "battery": -0.0211906934370442,
+        "build": 0.10775713296607137,
+        "camera": 0.9953295569090793,
+        "charging": -0.3638180154375732,
+        "connectivity": 0.007616494520334527,
+        "display": -0.9826686534797773,
+        "performance": 0.38246664631878957,
+        "software": 0.6501718592830003
+      }
+    },
+    {
+      "month": "2016-11-01",
+      "aspects": {
+        "audio": -0.8693349286913872,
+        "battery": 0.3339755146104532,
+        "camera": -0.9711930621415377,
+        "charging": 0.9438033793121576,
+        "connectivity": -0.15995633054990321,
+        "display": -0.9699864597059786,
+        "performance": -0.3221656980458647,
+        "software": 0.30580930784344673
+      }
+    },
+    {
+      "month": "2016-12-01",
+      "aspects": {
+        "audio": -0.971472566947341,
+        "battery": -0.4860290372307645,
+        "build": 0.9987737657502294,
+        "camera": 0.995081692293752,
+        "charging": 0.9589606328227092,
+        "connectivity": -0.9353254465386271,
+        "display": 0.12576396012445912,
+        "performance": 0.484086639538873,
+        "software": 0.42788524291245267
+      }
+    },
+    {
+      "month": "2017-01-01",
+      "aspects": {
+        "battery": -0.322827768366551,
+        "camera": -0.8527142208185978,
+        "charging": -0.927982616238296,
+        "connectivity": -0.7946621079463512,
+        "display": 0.9978879764676094,
+        "performance": 0.32896265655290335,
+        "software": -0.2862025407841429
+      }
+    },
+    {
+      "month": "2017-02-01",
+      "aspects": {
+        "battery": -0.5976997266407125,
+        "camera": -0.9860856721061282,
+        "charging": -0.9283044806215912,
+        "display": 0.48139990866184235,
+        "software": -0.2749901183124166
+      }
+    },
+    {
+      "month": "2017-03-01",
+      "aspects": {
+        "battery": -0.9816031521186233,
+        "connectivity": -0.9725741457659751,
+        "display": -0.6408674388658255,
+        "performance": -0.9486203119158745,
+        "software": -0.6684615634925043
+      }
+    },
+    {
+      "month": "2017-04-01",
+      "aspects": {
+        "battery": -0.9293584488332272,
+        "camera": 0.9629121604375541,
+        "display": 0.9795094709843397,
+        "software": -0.6099463646921018
+      }
+    },
+    {
+      "month": "2017-05-01",
+      "aspects": {
+        "battery": -0.9879505524877459,
+        "build": -0.9813553136773407,
+        "display": -0.7221100331516936,
+        "performance": -0.9914008516352624,
+        "software": 0.3671496881725034
+      }
+    },
+    {
+      "month": "2017-06-01",
+      "aspects": {
+        "display": -0.38726808223873377,
+        "software": -0.5897492666263133
+      }
+    },
+    {
+      "month": "2017-07-01",
+      "aspects": {
+        "audio": -0.9900434201117605,
+        "performance": -0.6242143660783768,
+        "software": 0.09727733000181615
+      }
+    },
+    {
+      "month": "2017-08-01",
+      "aspects": {
+        "build": -0.6641541230492294,
+        "camera": 0.9981906156754121,
+        "display": -0.9668327327817678,
+        "software": 0.6428054198622704
+      }
+    },
+    {
+      "month": "2017-09-01",
+      "aspects": {
+        "battery": 0.0072808611002983525,
+        "build": 0.28932699793949723,
+        "camera": 0.26477309316396713,
+        "charging": -0.6194052393548191,
+        "connectivity": -0.993976776197087,
+        "display": -0.936968669295311,
+        "software": 0.5654954587225802
+      }
+    },
+    {
+      "month": "2017-10-01",
+      "aspects": {
+        "battery": -0.3913897590828128,
+        "build": 0.9795842971652746,
+        "charging": -0.12322980910539627,
+        "display": -0.335007211077027,
+        "performance": 0.39986765990033746,
+        "software": -0.9883058161940426
+      }
+    },
+    {
+      "month": "2017-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2017-12-01",
+      "aspects": {
+        "battery": -0.4996018048841506,
+        "build": 0.04111632287094835,
+        "camera": 0.9970783460885286,
+        "charging": -0.3280092562781647,
+        "connectivity": 0.21069130674004555,
+        "display": 0.9025897409301251,
+        "software": -0.10783336078748107
+      }
+    },
+    {
+      "month": "2018-01-01",
+      "aspects": {
+        "software": -0.7084113992750645
+      }
+    },
+    {
+      "month": "2018-02-01",
+      "aspects": {
+        "display": -0.9832074772566557
+      }
+    },
+    {
+      "month": "2018-03-01",
+      "aspects": {
+        "battery": -0.44638183736242354,
+        "camera": 0.995810515480116
+      }
+    },
+    {
+      "month": "2018-04-01",
+      "aspects": {
+        "battery": -0.9663843158632517,
+        "software": -0.9892833752091974
+      }
+    },
+    {
+      "month": "2018-05-01",
+      "aspects": {
+        "display": -0.8872441328130662
+      }
+    },
+    {
+      "month": "2018-06-01",
+      "aspects": {
+        "software": -0.9909172765910625
+      }
+    },
+    {
+      "month": "2018-07-01",
+      "aspects": {
+        "build": 0.9951547272503376
+      }
+    },
+    {
+      "month": "2018-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-09-01",
+      "aspects": {
+        "software": 0.09639817383140326
+      }
+    },
+    {
+      "month": "2018-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-04-01",
+      "aspects": {
+        "battery": -0.40750226378440857,
+        "performance": 0.4382967948913574
+      }
+    },
+    {
+      "month": "2019-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-06-01",
+      "aspects": {
+        "audio": 0.9846905008889735,
+        "display": 0.9983293029945344
+      }
+    },
+    {
+      "month": "2019-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-09-01",
+      "aspects": {
+        "display": -0.9878583318786696
+      }
+    },
+    {
+      "month": "2019-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-03-01",
+      "aspects": {
+        "build": -0.9859210281865671,
+        "software": -0.986666246317327
+      }
+    },
+    {
+      "month": "2020-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2020-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-01-01",
+      "aspects": {
+        "display": -0.8365934732137248
+      }
+    }
+  ],
+  "action_items": [
+    {
+      "aspect": "build",
+      "severity": 1.98012907942757,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    },
+    {
+      "aspect": "charging",
+      "severity": 1.4411255473290416,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "performance",
+      "severity": 1.3765352298214566,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "camera",
+      "severity": 1.2591393421494608,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "software",
+      "severity": 0.8711735442093211,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    }
+  ]
+}

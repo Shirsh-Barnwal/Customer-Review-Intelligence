@@ -1,0 +1,102 @@
+# SentinelDrift conda environment
+# --------------------------------
+# NOTE: PyTorch (cu128) is NOT included here -- it requires a custom index URL
+# that would break resolution for other pip packages.
+#
+# After creating this environment, install PyTorch separately:
+#   conda run -n sentineldrift python -m pip install torch torchvision torchaudio ^
+#       --index-url https://download.pytorch.org/whl/cu128 ^
+#       --extra-index-url https://pypi.org/simple
+#
+# Or run setup_env.ps1 which handles everything automatically.
+
+name: sentineldrift
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # --- Python ---------------------------------------------------------------
+  - python=3.11
+
+  # --- Core scientific stack (conda for MKL / BLAS) -------------------------
+  - numpy=1.26.4            # hard pin: pyabsa -> spacy -> thinc needs <2.0
+  - pandas>=2.3
+  - scipy>=1.17
+  - scikit-learn>=1.8
+  - matplotlib>=3.10
+  - seaborn>=0.13
+  - statsmodels>=0.14
+  - h5py>=3.14
+  - pillow>=12.0
+  - sympy>=1.14
+  - networkx>=3.6
+
+  # --- Data I/O -------------------------------------------------------------
+  - openpyxl>=3.1
+  - xlsxwriter>=3.2
+  - beautifulsoup4>=4.14
+  - pyarrow>=23.0
+  - requests>=2.32
+
+  # --- NLP ------------------------------------------------------------------
+  - nltk>=3.9
+
+  # --- Jupyter --------------------------------------------------------------
+  - jupyter
+  - jupyterlab>=4.5
+  - notebook>=7.5
+  - ipykernel>=7.2
+  - ipywidgets>=8.1
+
+  # --- Utilities ------------------------------------------------------------
+  - tqdm>=4.67
+  - joblib>=1.5
+  - pyyaml>=6.0
+  - rich>=14.3
+  - gitpython>=3.1
+  - pydantic>=2.12
+  - tabulate>=0.10
+
+  # --- Pip-only packages ----------------------------------------------------
+  - pip
+  - pip:
+      # HuggingFace ecosystem
+      - transformers>=5.4
+      - datasets>=4.8
+      - tokenizers>=0.22
+      - safetensors>=0.7
+      - huggingface-hub>=1.7
+
+      # ABSA
+      - pyabsa==2.4.2          # pinned: known transformers 5.x compat patch
+
+      # Drift detection
+      - ruptures>=1.1
+
+      # Explainability (Phase 4)
+      - captum>=0.8
+
+      # NLP tools
+      - langdetect>=1.0
+      - sentencepiece>=0.2
+      - regex>=2024.0
+
+      # Visualization
+      - plotly>=6.6
+      - altair>=6.0
+      - streamlit>=1.55
+      - pydeck>=0.9
+      - tikzplotlib>=0.10
+
+      # TensorFlow / Keras
+      - tensorflow>=2.21
+      - keras>=3.13
+
+      # Training utilities
+      - pytorch-warmup>=0.2
+      - autocuda>=0.16
+
+      # Misc
+      - natsort>=8.4
+      - metric-visualizer>=0.9

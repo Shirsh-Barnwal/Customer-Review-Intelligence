@@ -1,0 +1,60 @@
+{
+  "n_products": 5,
+  "products": [
+    {
+      "parent_asin": "B097M74GSR",
+      "product_name": "Apple iPhone 11",
+      "n_events": 15,
+      "top_action": {
+        "aspect": "connectivity",
+        "severity": 1.2354095288477158,
+        "direction": "deterioration",
+        "evidence_strength": "low"
+      }
+    },
+    {
+      "parent_asin": "B086RM3DQS",
+      "product_name": "Apple iPhone 8",
+      "n_events": 8,
+      "top_action": {
+        "aspect": "connectivity",
+        "severity": 1.2737179859412007,
+        "direction": "deterioration",
+        "evidence_strength": "low"
+      }
+    },
+    {
+      "parent_asin": "B09JJCXC2M",
+      "product_name": "Samsung Galaxy S10e",
+      "n_events": 5,
+      "top_action": {
+        "aspect": "performance",
+        "severity": 1.2713221187871466,
+        "direction": "deterioration",
+        "evidence_strength": "high"
+      }
+    },
+    {
+      "parent_asin": "B07H8PXT7K",
+      "product_name": "Samsung Galaxy Note 9",
+      "n_events": 2,
+      "top_action": {
+        "aspect": "battery",
+        "severity": 0.6234833937160955,
+        "direction": "deterioration",
+        "evidence_strength": "high"
+      }
+    },
+    {
+      "parent_asin": "B07RWPFQLM",
+      "product_name": "Google Pixel 3a",
+      "n_events": 11,
+      "top_action": {
+        "aspect": "camera",
+        "severity": 1.1704305306775495,
+        "direction": "deterioration",
+        "evidence_strength": "low"
+      }
+    }
+  ]
+}

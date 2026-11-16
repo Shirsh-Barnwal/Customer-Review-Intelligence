@@ -1,0 +1,24 @@
+{
+  "aspects": [
+    "audio",
+    "battery",
+    "build",
+    "camera",
+    "charging",
+    "connectivity",
+    "display",
+    "performance",
+    "software"
+  ],
+  "labels": [
+    "none",
+    "positive",
+    "negative",
+    "neutral"
+  ],
+  "sha256": {
+    "clf.joblib": "21a8eb4e78897132a07018b528598735eb4b3984d754d52442b24efa645d7a4f",
+    "tfidf_char.joblib": "a0158129369ce8e4bf0ea6366451bfb74a5a04cf0b769c2e83e2baa82370f23a",
+    "tfidf_word.joblib": "cccccca638c4586bc211fd9f765d43a79ead9f16ab10aacf052e10baf4466a91"
+  }
+}

@@ -1,0 +1,1559 @@
+{
+  "parent_asin": "B07HD2X91Q",
+  "product_name": "Samsung Galaxy S9+",
+  "n_events": 9,
+  "events": [
+    {
+      "event_month": "2018-12-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "build",
+          "delta": 0.42540137020148994,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.076033
+        },
+        {
+          "aspect": "camera",
+          "delta": 0.37216755087392817,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 5.841854
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.37081154576577924,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 5.058237
+        },
+        {
+          "aspect": "display",
+          "delta": -0.22407339291493417,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 24.320578
+        },
+        {
+          "aspect": "audio",
+          "delta": 0.12444659443262471,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 45.299236
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "audio",
+          "contribution_pct": 45.29923629760742
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 24.32057762145996
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 9.154990196228027
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 5.841853618621826
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 5.058236598968506
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 4.531317234039307
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 4.103878498077393
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 1.6138728857040405
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.07603295147418976
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Great phone, don't think twice - BUY. I have purchased this phone as soon as it became available, i had a feeling it would be a great phone, and OH MY GOD it is! I have had many phones in the last 10 years and this is BY FAR my favorite phone in the last 3-4 years. I was always a Nokia user before the whole smartphone revolution and could not wait to get back to using their product again. I am...",
+          "aspect": "build",
+          "sentiment": 0.998018633457832,
+          "stars": 5,
+          "month": "2019-02"
+        },
+        {
+          "text": "Great build. Decent camera. Mediocre battery.. I've had the phone for 2 days now. Quality build that'd I'd expect from Nokia. The glass back isn't as slippery as I thought it would be and looks great. All around, it's a great phone. I love that Android One keeps the phone lite, transitions are smooth, and apps open fast. I haven't noticed any lag as of yet. Battery gets pretty warm while gaming;...",
+          "aspect": "build",
+          "sentiment": 0.9982019287999719,
+          "stars": 4,
+          "month": "2018-12"
+        },
+        {
+          "text": "Died LITERALLY the day after the factory coverage ended!. Decent picture quality, well designed, and otherwise smooth running system. Today (3 days after the Amazon return window closed and 1 day after Nokia support ended), 60 days after purchasing the phone, it died. No problems whatsoever until today, when it shut off and wont power up. A $350 brick!!! Not even covered for 6 months?!",
+          "aspect": "camera",
+          "sentiment": 0.9891083179973066,
+          "stars": 1,
+          "month": "2019-02"
+        },
+        {
+          "text": "Great phone, especially for the price.. This phone is a gem for the price. I had a Nexus 5X before, and this phone is a much higher quality version of that. First, it almost fit perfectly in the cases I had for the 5X, except for the buttons on on the side, which are opposite (Nokia style). But while I was waiting for my new case to arrive, it was sufficient for a couple of days. And for running,...",
+          "aspect": "camera",
+          "sentiment": 0.99858709135151,
+          "stars": 5,
+          "month": "2018-12"
+        },
+        {
+          "text": "Remember its a midrange phone. Overall I was pleased during the time I used it. I will say that overall impressions was that it is an attractive phone that has a decent camera. I bought it to act as a bridge from OnePlus 6 to 6T after my Oneplus was stolen. Solid Android one device. So solid I gave the phone to my technically inept mother. Pros nice design(Chin perhaps is a little long) Android...",
+          "aspect": "battery",
+          "sentiment": 0.9597689621150494,
+          "stars": 4,
+          "month": "2019-01"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-04-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "audio",
+          "delta": -0.3956914799734174,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 2.534653
+        },
+        {
+          "aspect": "charging",
+          "delta": -0.3809341058012149,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 18.400311
+        },
+        {
+          "aspect": "software",
+          "delta": -0.3628856665562212,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 1.20556
+        },
+        {
+          "aspect": "performance",
+          "delta": 0.3103740826230182,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 2.123709
+        },
+        {
+          "aspect": "connectivity",
+          "delta": -0.2252719310668504,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 6.608158
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "camera",
+          "contribution_pct": 29.816696166992188
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 26.292217254638672
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 18.400310516357422
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 7.134798049926758
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 6.608157634735107
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 5.883896827697754
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 2.5346529483795166
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 2.123709201812744
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 1.2055599689483643
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Good overall, Great screen...but poor battery life. Nice quality phone for the price. I thought it had an excellent screen resolution with vivid color, and a good camera too. I wanted to like this phone (I had a Nokia a few years ago and it was great), and gave it a good chance to win me over...however, what ultimately sunk it for me was the very poor battery life plus a few other quirks. I went...",
+          "aspect": "audio",
+          "sentiment": -0.9825679073110223,
+          "stars": 4,
+          "month": "2019-05"
+        },
+        {
+          "text": "Poor quality phone, sound issues, charging port issue after 4 months.. The phone is a mediocre phone at best. Acceptable speed, battery life, screen and camera for casual use. Call quality was terrible using the phone mic, better on speakerphone. I had constant complaints about people not being able to hear me if I was using the handset. Disabling 'Enhanced LTE' features seemed to help a lot....",
+          "aspect": "audio",
+          "sentiment": -0.989463631180115,
+          "stars": 2,
+          "month": "2019-06"
+        },
+        {
+          "text": "Nokia 7.1 phone is pure garbage! UPDATE - dead after two years. UPDATE February 2021 - phone is now completely dead. Worked one day and was dead the next. No longer takes a charge. Reverted back to a much older Motorola phone that still works after four years. I bought this phone mid-January 2019. It is now the beginning of May 2019 and the USB C charging port is failing. I have to send it off to...",
+          "aspect": "charging",
+          "sentiment": -0.979815308470279,
+          "stars": 1,
+          "month": "2019-05"
+        },
+        {
+          "text": "Warranty Issues. First day owner, Love the overall quality and system. Camera good, battery live great. Android One means updates every month. The phone is an a truly wonderful value. Now, why one star. The phone has developed a reputation for a poorly designed USB-C port. The Connector gets loose and creates intermittent connections. Mine has developed this condition. I just spent the last hour...",
+          "aspect": "charging",
+          "sentiment": -0.9923453003866598,
+          "stars": 1,
+          "month": "2019-04"
+        },
+        {
+          "text": "Speaker Phone doesn't work. Speaker phone doesn't work. Purchased the first 7.1 and the people on the other end of the call cannot hear me when on speaker phone. Replaced it thinking it was just that phone, got a new 7.1 and it does the exact same thing. Nokia just wants me to send it back again for them to look at it. Two phones same issue makes you think its a design problem, most likely needs...",
+          "aspect": "software",
+          "sentiment": -0.366264327429235,
+          "stars": 1,
+          "month": "2019-05"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-06-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "audio",
+          "delta": 0.69471610499305,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 2.02459
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.5211583575563226,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 61.44659
+        },
+        {
+          "aspect": "build",
+          "delta": 0.42596978715547945,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 14.09351
+        },
+        {
+          "aspect": "performance",
+          "delta": 0.23153159823968528,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 12.000523
+        },
+        {
+          "aspect": "connectivity",
+          "delta": -0.15866599571503076,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.91015
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "battery",
+          "contribution_pct": 61.446590423583984
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 14.093509674072266
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 12.00052261352539
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 4.7718634605407715
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 2.0561273097991943
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 2.024590492248535
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 1.9736273288726807
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.9101503491401672
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.7230275869369507
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Very similar to the pixel 3a for about $150 less. Ditched apple over the headphone jack issue. This phone works well, although I wish Nokia had spent more on the battery and processor and less on aping Apple\u2019s notch and glass back. Almost got the pixel 3a, but it costs $150 more right now and spec comparisons show it to be very similar.",
+          "aspect": "audio",
+          "sentiment": -0.9836502382531762,
+          "stars": 5,
+          "month": "2019-08"
+        },
+        {
+          "text": "Happy With My First Smart Phone. Kicking and screaming into the 21st century! I was finally forced to purchase a smart phone. After days of research, I finally settled on the Nokia 7.1, and I love it! I realized there are \"better\" phones out there, but for someone just transitioning to a smart phone, I highly recommend this one. Battery life isn't too bad, and I am very happy with the screen...",
+          "aspect": "audio",
+          "sentiment": 0.9983361490885727,
+          "stars": 5,
+          "month": "2019-08"
+        },
+        {
+          "text": "Warranty not Honored. Do NOT buy Nokia products. From the get go this was a sub par product. Call reception is very bad. I wound up having to use google Hangouts Dialer to make calls over wifi. The main problem came after just a few short months. The phone stopped charging due to a loose USB C port, a known Nokia issue. I sent it in June 11, and I just got it back today, July 11. It sat there for...",
+          "aspect": "battery",
+          "sentiment": -0.03936658124439418,
+          "stars": 1,
+          "month": "2019-07"
+        },
+        {
+          "text": "Do not buy, especially if you live in a rural area.. I get incredibly poor service with this phone. Signal strength is usually half that of my wife's iPhone. Unfortunately, this usually means between 0 and 1 bar of service. The upload speeds are particularly bad. If I need to send an email at home, I have to go on a walk to find adequate signal. Like others have said, the battery life isn't very...",
+          "aspect": "battery",
+          "sentiment": -0.9919643577886745,
+          "stars": 1,
+          "month": "2019-08"
+        },
+        {
+          "text": "bad phone..... I bought this phone in October 2018. I bought it, because I wanted to give Nokia a chance. I used to have one of their super sturdy little brick phones. This one worked well until the new update of google 8.0, the WIFI would turn on and off by itself, the settings would readjust and the screen would turn the autobright adjustment by itself. The experience was sort of medium, it is...",
+          "aspect": "build",
+          "sentiment": 0.9704638319090009,
+          "stars": 1,
+          "month": "2019-07"
+        },
+        {
+          "text": "Great phone. This cellphone is the great return for Nokia, good design and the camera is impressive in this price level.",
+          "aspect": "build",
+          "sentiment": 0.9985789648198988,
+          "stars": 5,
+          "month": "2019-08"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-10-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "connectivity",
+          "delta": 0.8993631164080902,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 50.485825
+        },
+        {
+          "aspect": "software",
+          "delta": -0.5409747455629432,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 2.720972
+        },
+        {
+          "aspect": "camera",
+          "delta": -0.5303572798930829,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 27.815338
+        },
+        {
+          "aspect": "build",
+          "delta": -0.5059206822902308,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 1.761773
+        },
+        {
+          "aspect": "audio",
+          "delta": -0.47901303204829065,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 14.039406
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 50.48582458496094
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 27.815338134765625
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 14.039405822753906
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 2.7209720611572266
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 2.5838534832000732
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 1.761772632598877
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.5758048892021179
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.016618674620985985
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.00040905564674176276
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Do NOT upgrade your 7.1 to Android 10!!!. I did SO much research before buying this phone, and right up until two days ago was pretty happy with it, just hadn't gotten around to writing a review. If I'd done one earlier, I would have said most everything works pretty well, except the screen tends to be dimmer than I like, and the sound not quite loud enough for 'old' ears. Calls / service would...",
+          "aspect": "connectivity",
+          "sentiment": -0.03346568101551384,
+          "stars": 2,
+          "month": "2019-12"
+        },
+        {
+          "text": "Great phone! except for USB-C connector. This is the fastest phone in my family, which includes late model Samsung phones that cost almost $1000 when new. WiFi and 4G are quick connecting and seemingly high bandwidth. I'm totally baffled why anyone complains about performance. Having standard Android is great, because recent versions are feature rich and easy to use. Security fixes arrive...",
+          "aspect": "connectivity",
+          "sentiment": 0.9859852730296552,
+          "stars": 4,
+          "month": "2019-11"
+        },
+        {
+          "text": "USB-C Port failed, Nokia won't Repair.. Do NOT buy. As with many others the USB port started having intermittent connection problems. Sent to Nokia for warranty repair and as others have said Nokia refused to repair it saying it had water intrusion. It has never gotten wet in any way and just like everyone else this looks like them making excuses to not fix a design problem. With the number of...",
+          "aspect": "software",
+          "sentiment": -0.6370250415056944,
+          "stars": 1,
+          "month": "2019-10"
+        },
+        {
+          "text": "Lasted 9 months. Last security update froze the phone into download mode. Phone is a total brick. According to the Nokia forums, this is VERY common, and Nokia refuses to fix it. They will invent a reason not to honor the warranty. THEY bricked the phone with THEIR corrupted update. Never again Nokia. You all used to be the best cell manufacturer in the world. Now I wish I had stayed with the...",
+          "aspect": "software",
+          "sentiment": -0.9842817655298859,
+          "stars": 1,
+          "month": "2019-11"
+        },
+        {
+          "text": "Great phone for the price!. Finally gave up my Windows Phone when Microsoft announced the new Surface phone would run Android. I like the automatic updates (like Windows Mobil). I like the user interface (I was able to set up my home screen just like I had it on my Windows Phone). I like having all the apps I couldn't get for the Windows Phone. I don't like that if I really use it hard, the...",
+          "aspect": "camera",
+          "sentiment": -0.7252404391765594,
+          "stars": 5,
+          "month": "2019-11"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-12-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "software",
+          "delta": -1.1037532523558993,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.281329
+        },
+        {
+          "aspect": "build",
+          "delta": -1.0790832891394126,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 33.806164
+        },
+        {
+          "aspect": "battery",
+          "delta": -1.029779339720133,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.005534
+        },
+        {
+          "aspect": "camera",
+          "delta": 0.7853382048973193,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.735047
+        },
+        {
+          "aspect": "display",
+          "delta": 0.667593712574065,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.49516
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 62.09245300292969
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 33.8061637878418
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 1.3009309768676758
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 1.2833759784698486
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.7350466847419739
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 0.49515998363494873
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.2813287675380707
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.00553443469107151
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Do NOT upgrade your 7.1 to Android 10!!!. I did SO much research before buying this phone, and right up until two days ago was pretty happy with it, just hadn't gotten around to writing a review. If I'd done one earlier, I would have said most everything works pretty well, except the screen tends to be dimmer than I like, and the sound not quite loud enough for 'old' ears. Calls / service would...",
+          "aspect": "software",
+          "sentiment": -0.8290850762277842,
+          "stars": 2,
+          "month": "2019-12"
+        },
+        {
+          "text": "Good phone that fails with android 10. It was a good phone until Android 10 update. With Android 10 came a host of problems. Phone would freeze and would need to be rebooted to fix. Also mic issue when calling out. I tried their so called fixes but none of it fixed the problem. The system works perfectly when using a bt headset but completely fails with the hardware mic. It's a software issue...",
+          "aspect": "software",
+          "sentiment": -0.9496182668954134,
+          "stars": 2,
+          "month": "2020-02"
+        },
+        {
+          "text": "Avoid this phone like the 7th plague. After 5 months of usage any person called said my voice faded to unintelligible during the phone call. At the same time, when calling voice mail, all that could be heard in the VM greeting was garbled, so VM's could not be heard or understood if heard. Submitted this twice for repairs to Nokia and it was returned as fixed but, in fact, nothing had been done....",
+          "aspect": "build",
+          "sentiment": -0.9230252029374242,
+          "stars": 1,
+          "month": "2020-01"
+        },
+        {
+          "text": "Major Defect When Using Google Voice Match. When Google Voice Match is enabled, the phone\u2019s microphone produces severe audio noise/distortion in recorded videos. When Google Voice Match is turned off or the Google app is denied access to the microphone, the problem goes away. I\u2019ve tested this multiple times. This appears to be a design defect related to the way Google\u2019s voice app interacts with...",
+          "aspect": "build",
+          "sentiment": -0.9913316841702908,
+          "stars": 1,
+          "month": "2020-01"
+        },
+        {
+          "text": "Worst Phones Ever. I bought this phone at the end of 2018 for $349.00. Within the first few months, a yellow ring developed inside of the screen. Was reading a news article, and all of the sudden, there was a yellow ring in upper right corner. It almost looked like it was burnt from the inside. On top of that, the battery was draining at an insanely fast rate. Even with Battery Saver turned on....",
+          "aspect": "battery",
+          "sentiment": -0.9564527962356806,
+          "stars": 1,
+          "month": "2020-02"
+        },
+        {
+          "text": "Battery Life is not good. A little disappointed with this phone. The battery life is terrible. Drains quickly. Love everything else about the phone.",
+          "aspect": "battery",
+          "sentiment": -0.9861410250887275,
+          "stars": 3,
+          "month": "2020-01"
+        }
+      ]
+    },
+    {
+      "event_month": "2020-06-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "display",
+          "delta": 0.844748853440251,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "audio",
+          "delta": -0.6068396129800628,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.335837
+        },
+        {
+          "aspect": "connectivity",
+          "delta": 0.4072490443359129,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 20.904938
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.3094349084616018,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.741805
+        },
+        {
+          "aspect": "software",
+          "delta": 0.17236082646801754,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 75.076546
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "software",
+          "contribution_pct": 75.07654571533203
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 20.904937744140625
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 2.9408745765686035
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.741805374622345
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.33583661913871765
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Not user friendly. This phone is not user friendly at all, the screen is very nice. If you would just like it for text and call perfect. Anything else not user friendly.",
+          "aspect": "display",
+          "sentiment": 0.9033958092331886,
+          "stars": 4,
+          "month": "2020-07"
+        },
+        {
+          "text": "Switching back to Samsung. I like that the screen is solid but after 6 months of usage, the phone keep shutting off. Very very disappointed.",
+          "aspect": "display",
+          "sentiment": 0.9828075561672449,
+          "stars": 2,
+          "month": "2020-06"
+        },
+        {
+          "text": "Disappointed in Nokia. I bought one to start with and after it worked well at first I got one for my wife and daughter. Since then all three have had to be sent in to have the plug replaced. Call quality is also disappointing despite me living in a big city with full signal.",
+          "aspect": "audio",
+          "sentiment": -0.9886307404376566,
+          "stars": 2,
+          "month": "2020-08"
+        },
+        {
+          "text": "Great for its price. WiFi and overall data speed seems a little lack luster. But for on the go anything it's damn good",
+          "aspect": "connectivity",
+          "sentiment": -0.9790257052518427,
+          "stars": 4,
+          "month": "2020-08"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-05-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "software",
+          "delta": -0.3840364313252235,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 7.0069
+        },
+        {
+          "aspect": "camera",
+          "delta": -0.30521513019116797,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 34.109219
+        },
+        {
+          "aspect": "connectivity",
+          "delta": -0.28313944078076425,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.170132
+        },
+        {
+          "aspect": "display",
+          "delta": 0.23002430676955665,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 10.163837
+        },
+        {
+          "aspect": "charging",
+          "delta": -0.18636514513855218,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 13.493258
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "camera",
+          "contribution_pct": 34.10921859741211
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 16.764562606811523
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 15.086382865905762
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 13.493257522583008
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 10.163837432861328
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 7.006899833679199
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 2.555361032485962
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.6503525376319885
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.17013190686702728
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Nokia Does Not Honor Warranty. I bought the Nokia 7.1 through Amazon and made sure that the seller was indeed from Nokia itself. I bought it November of 2018. My understanding is that if the phone is defective it would be covered under Nokia's one-year warranty. So in February, I started noticing that the USB-C port was wobbling side to side which cut off charging. I also noticed it cut off my...",
+          "aspect": "software",
+          "sentiment": -0.3884546556510031,
+          "stars": 1,
+          "month": "2019-06"
+        },
+        {
+          "text": "Nokia 7.1 phone is pure garbage! UPDATE - dead after two years. UPDATE February 2021 - phone is now completely dead. Worked one day and was dead the next. No longer takes a charge. Reverted back to a much older Motorola phone that still works after four years. I bought this phone mid-January 2019. It is now the beginning of May 2019 and the USB C charging port is failing. I have to send it off to...",
+          "aspect": "software",
+          "sentiment": -0.9792133518494666,
+          "stars": 1,
+          "month": "2019-05"
+        },
+        {
+          "text": "Good overall, Great screen...but poor battery life. Nice quality phone for the price. I thought it had an excellent screen resolution with vivid color, and a good camera too. I wanted to like this phone (I had a Nokia a few years ago and it was great), and gave it a good chance to win me over...however, what ultimately sunk it for me was the very poor battery life plus a few other quirks. I went...",
+          "aspect": "camera",
+          "sentiment": 0.9933054626453668,
+          "stars": 4,
+          "month": "2019-05"
+        },
+        {
+          "text": "Worst purchase ever.. UPDATE 1/24/2019: Now I can't make phone calls. An update occurred and all i get is static when I make a phone call. This is the worst phone i've ever had. UPDATE 8/23/2019: They've had my phone for a week. I was emailed by their support claiming my phone was under evaluation, however when I checked the phone repair tracker website it was not under review. So not only are...",
+          "aspect": "camera",
+          "sentiment": -0.9890153626911342,
+          "stars": 1,
+          "month": "2019-07"
+        },
+        {
+          "text": "Warranty not Honored. Do NOT buy Nokia products. From the get go this was a sub par product. Call reception is very bad. I wound up having to use google Hangouts Dialer to make calls over wifi. The main problem came after just a few short months. The phone stopped charging due to a loose USB C port, a known Nokia issue. I sent it in June 11, and I just got it back today, July 11. It sat there for...",
+          "aspect": "connectivity",
+          "sentiment": -0.9920278959907591,
+          "stars": 1,
+          "month": "2019-07"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-09-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "audio",
+          "delta": -0.9881750434688001,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 16.020882
+        },
+        {
+          "aspect": "camera",
+          "delta": -0.8740352579874785,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 43.494991
+        },
+        {
+          "aspect": "display",
+          "delta": -0.7479450912337698,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 17.131792
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.4156987470269086,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 6.994481
+        },
+        {
+          "aspect": "software",
+          "delta": 0.38143339722384034,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 1.881658
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "camera",
+          "contribution_pct": 43.494991302490234
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 17.131792068481445
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 16.02088165283203
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 12.108161926269531
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 6.994480609893799
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 1.8816577196121216
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 1.6291306018829346
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.6609876751899719
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.07792031764984131
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Not as expected. Doesn't catch network well, call quality is very low, touch screen is not sensitive.",
+          "aspect": "audio",
+          "sentiment": -0.9900432745926082,
+          "stars": 1,
+          "month": "2019-09"
+        },
+        {
+          "text": "Phone is not very functional in the important areas. 1.I don't like the volume is so low when making a call compare to the volume when dialing the digits. Therefore I have to use it on speaker which causes lots of feedback issues and the call starts to ricochet. Very annoying 2. I can't press the phone against my ear to free my hands to do anything without all sorts of other applications engaging...",
+          "aspect": "audio",
+          "sentiment": -0.9919760170159861,
+          "stars": 2,
+          "month": "2019-10"
+        },
+        {
+          "text": "USB-C Port failed, Nokia won't Repair.. Do NOT buy. As with many others the USB port started having intermittent connection problems. Sent to Nokia for warranty repair and as others have said Nokia refused to repair it saying it had water intrusion. It has never gotten wet in any way and just like everyone else this looks like them making excuses to not fix a design problem. With the number of...",
+          "aspect": "camera",
+          "sentiment": -0.023921193554997444,
+          "stars": 1,
+          "month": "2019-10"
+        },
+        {
+          "text": "Great phone for the price!. Finally gave up my Windows Phone when Microsoft announced the new Surface phone would run Android. I like the automatic updates (like Windows Mobil). I like the user interface (I was able to set up my home screen just like I had it on my Windows Phone). I like having all the apps I couldn't get for the Windows Phone. I don't like that if I really use it hard, the...",
+          "aspect": "camera",
+          "sentiment": -0.7252404391765594,
+          "stars": 5,
+          "month": "2019-11"
+        },
+        {
+          "text": "2 foot drop. I dropped the phone about 2 feet and the screen cracked and the charging mechanism malfunctioned. It is useless.",
+          "aspect": "display",
+          "sentiment": -0.8291887827217579,
+          "stars": 2,
+          "month": "2019-10"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-05-01",
+      "detector": "LSTM-AE",
+      "top_aspects": [
+        {
+          "aspect": "software",
+          "delta": -0.3840364313252235,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 7.0069
+        },
+        {
+          "aspect": "camera",
+          "delta": -0.30521513019116797,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 34.109219
+        },
+        {
+          "aspect": "connectivity",
+          "delta": -0.28313944078076425,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.170132
+        },
+        {
+          "aspect": "display",
+          "delta": 0.23002430676955665,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 10.163837
+        },
+        {
+          "aspect": "charging",
+          "delta": -0.18636514513855218,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 13.493258
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "camera",
+          "contribution_pct": 34.10921859741211
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 16.764562606811523
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 15.086382865905762
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 13.493257522583008
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 10.163837432861328
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 7.006899833679199
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 2.555361032485962
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.6503525376319885
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.17013190686702728
+        }
+      ],
+      "agreement": "N/A",
+      "quotes": [
+        {
+          "text": "Nokia Does Not Honor Warranty. I bought the Nokia 7.1 through Amazon and made sure that the seller was indeed from Nokia itself. I bought it November of 2018. My understanding is that if the phone is defective it would be covered under Nokia's one-year warranty. So in February, I started noticing that the USB-C port was wobbling side to side which cut off charging. I also noticed it cut off my...",
+          "aspect": "software",
+          "sentiment": -0.3884546556510031,
+          "stars": 1,
+          "month": "2019-06"
+        },
+        {
+          "text": "Nokia 7.1 phone is pure garbage! UPDATE - dead after two years. UPDATE February 2021 - phone is now completely dead. Worked one day and was dead the next. No longer takes a charge. Reverted back to a much older Motorola phone that still works after four years. I bought this phone mid-January 2019. It is now the beginning of May 2019 and the USB C charging port is failing. I have to send it off to...",
+          "aspect": "software",
+          "sentiment": -0.9792133518494666,
+          "stars": 1,
+          "month": "2019-05"
+        },
+        {
+          "text": "Good overall, Great screen...but poor battery life. Nice quality phone for the price. I thought it had an excellent screen resolution with vivid color, and a good camera too. I wanted to like this phone (I had a Nokia a few years ago and it was great), and gave it a good chance to win me over...however, what ultimately sunk it for me was the very poor battery life plus a few other quirks. I went...",
+          "aspect": "camera",
+          "sentiment": 0.9933054626453668,
+          "stars": 4,
+          "month": "2019-05"
+        },
+        {
+          "text": "Worst purchase ever.. UPDATE 1/24/2019: Now I can't make phone calls. An update occurred and all i get is static when I make a phone call. This is the worst phone i've ever had. UPDATE 8/23/2019: They've had my phone for a week. I was emailed by their support claiming my phone was under evaluation, however when I checked the phone repair tracker website it was not under review. So not only are...",
+          "aspect": "camera",
+          "sentiment": -0.9890153626911342,
+          "stars": 1,
+          "month": "2019-07"
+        },
+        {
+          "text": "Warranty not Honored. Do NOT buy Nokia products. From the get go this was a sub par product. Call reception is very bad. I wound up having to use google Hangouts Dialer to make calls over wifi. The main problem came after just a few short months. The phone stopped charging due to a loose USB C port, a known Nokia issue. I sent it in June 11, and I just got it back today, July 11. It sat there for...",
+          "aspect": "connectivity",
+          "sentiment": -0.9920278959907591,
+          "stars": 1,
+          "month": "2019-07"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "month": "2018-10-01",
+      "aspects": {
+        "audio": 0.338812939725661,
+        "battery": 0.6838130771066062,
+        "build": 0.4755068564596253,
+        "camera": 0.44985272967023776,
+        "charging": -0.022293879184871912,
+        "connectivity": 0.00837873134878464,
+        "display": 0.7355592192741044,
+        "performance": 0.4305096440250054,
+        "software": 0.5229800407396397
+      }
+    },
+    {
+      "month": "2018-11-01",
+      "aspects": {
+        "audio": -0.008296707183874857,
+        "battery": 0.20591227352949015,
+        "build": 0.6651790398027515,
+        "camera": 0.24252909168523426,
+        "charging": -0.04606305887379373,
+        "connectivity": 0.2727543262968538,
+        "display": 0.4435301865978545,
+        "performance": 0.0017643416932615866,
+        "software": 0.3641851858922746
+      }
+    },
+    {
+      "month": "2018-12-01",
+      "aspects": {
+        "audio": 0.8557182710355846,
+        "battery": 0.1870678523719107,
+        "build": 0.9961599474190734,
+        "camera": 0.22423644397167664,
+        "charging": -0.4688073501456529,
+        "connectivity": 0.06729210296180099,
+        "display": -0.11340682482114062,
+        "performance": 0.5244822741769894,
+        "software": 0.6127478976688709
+      }
+    },
+    {
+      "month": "2019-01-01",
+      "aspects": {
+        "battery": 0.029060701657726895,
+        "build": 0.9930543741211295,
+        "camera": 0.9417306226860092,
+        "charging": -0.6520075002529969,
+        "connectivity": 0.31506000466955203,
+        "display": 0.7354332730174065,
+        "performance": 0.003142482601106167,
+        "software": 0.5458691505898189
+      }
+    },
+    {
+      "month": "2019-02-01",
+      "aspects": {
+        "audio": -0.27630884962854907,
+        "battery": 0.006024834627169184,
+        "build": 0.998018633457832,
+        "camera": 0.9891083179973066,
+        "charging": 0.973943927558139,
+        "connectivity": -0.05632546986453235,
+        "display": 0.4743874818668701,
+        "performance": -0.2117595001279066,
+        "software": 0.33983876343700103
+      }
+    },
+    {
+      "month": "2019-03-01",
+      "aspects": {
+        "audio": -0.1892085373013591,
+        "battery": 0.17525854550088601,
+        "build": 0.10800668516215713,
+        "camera": 0.4375478458056353,
+        "charging": -0.9119266542838886,
+        "connectivity": 0.2881894145005693,
+        "display": 0.5489666580227398,
+        "performance": 0.49964998029255575,
+        "software": 0.056290606888069306
+      }
+    },
+    {
+      "month": "2019-04-01",
+      "aspects": {
+        "audio": -0.9007450765930116,
+        "battery": 0.4326839077657496,
+        "build": 0.9956306126259733,
+        "camera": 0.9795029308172941,
+        "charging": -0.9843943915620912,
+        "connectivity": 0.006516465917229652,
+        "display": 0.1719492331696009,
+        "performance": 0.5875302397122141,
+        "software": 0.31287901022005826
+      }
+    },
+    {
+      "month": "2019-05-01",
+      "aspects": {
+        "audio": -0.9833249291405082,
+        "battery": 0.6032386124134064,
+        "build": -0.16693788553238847,
+        "camera": 0.38321780933620175,
+        "charging": -0.18432699446566403,
+        "connectivity": -0.6976979672908783,
+        "display": 0.5021302640307113,
+        "performance": -0.1895198282232741,
+        "software": -0.32939950980445637
+      }
+    },
+    {
+      "month": "2019-06-01",
+      "aspects": {
+        "audio": -0.0012805145815946162,
+        "battery": -0.4624784314655699,
+        "build": 0.9981421440897975,
+        "camera": 0.9568688728177221,
+        "charging": -0.5640711583546363,
+        "connectivity": 0.5622896574786864,
+        "display": 0.5825649028003681,
+        "performance": 0.8241447991458699,
+        "software": -0.1301379791693762
+      }
+    },
+    {
+      "month": "2019-07-01",
+      "aspects": {
+        "audio": 0.004807331108168,
+        "battery": 0.14289119258755817,
+        "build": 0.9704638319090009,
+        "camera": 0.15042702189280785,
+        "charging": -0.7330744008831971,
+        "connectivity": -0.47562960197683424,
+        "display": 0.8006811265368015,
+        "performance": 0.6849425562904798,
+        "software": 0.016436575543290626
+      }
+    },
+    {
+      "month": "2019-08-01",
+      "aspects": {
+        "audio": 0.007342955417698249,
+        "battery": -0.03270676811091387,
+        "build": 0.2460027977233819,
+        "camera": 0.9903111092384539,
+        "charging": -0.7643687891411699,
+        "connectivity": -0.9656501295200238,
+        "display": 0.3085514706375155,
+        "performance": 0.08316783106420189,
+        "software": 0.08260778808367572
+      }
+    },
+    {
+      "month": "2019-09-01",
+      "aspects": {
+        "audio": -0.9771275552920997,
+        "battery": -0.28968916537511785,
+        "camera": 0.22466286271810532,
+        "charging": -0.9690360213280655,
+        "connectivity": -0.9895887515740469,
+        "display": -0.4572908953705337,
+        "performance": -0.4879618047270924,
+        "software": 0.904000686481595
+      }
+    },
+    {
+      "month": "2019-10-01",
+      "aspects": {
+        "audio": -0.9919760170159861,
+        "battery": 0.998877773701679,
+        "build": 0.33633459810516797,
+        "camera": -0.023921193554997444,
+        "charging": -0.9722063720858257,
+        "display": -0.23319188403062677,
+        "performance": 0.9976921248016879,
+        "software": 0.15939753130078316
+      }
+    },
+    {
+      "month": "2019-11-01",
+      "aspects": {
+        "battery": 0.008160421071806923,
+        "build": 0.9608545714581851,
+        "camera": -0.7252404391765594,
+        "charging": -0.9575572732913619,
+        "connectivity": 0.8471209776180331,
+        "display": 0.13844500567453602,
+        "performance": -0.1645713746547699,
+        "software": 0.04980835834673295
+      }
+    },
+    {
+      "month": "2019-12-01",
+      "aspects": {
+        "audio": -0.6093682262580842,
+        "battery": -0.45828876446466893,
+        "build": -0.9902512719854712,
+        "camera": 0.5234907869016752,
+        "charging": -0.6875735690118745,
+        "connectivity": -0.6689737335157891,
+        "display": 0.0028305292362347245,
+        "software": -0.8290850762277842
+      }
+    },
+    {
+      "month": "2020-01-01",
+      "aspects": {
+        "audio": -0.19335675725596957,
+        "battery": -0.957247429061681,
+        "build": -0.30513254116037086,
+        "camera": 0.9892661892808974,
+        "charging": -0.8924298782367259,
+        "connectivity": -0.011068060994148254,
+        "display": 0.9956877992954105,
+        "performance": 0.3345532917010132,
+        "software": -0.8434178084135056
+      }
+    },
+    {
+      "month": "2020-02-01",
+      "aspects": {
+        "audio": -0.6315000558194394,
+        "battery": -0.9564527962356806,
+        "build": 0.003917700072634034,
+        "camera": 0.3187588684959337,
+        "charging": -0.953191960696131,
+        "connectivity": -0.005575085058808327,
+        "display": 0.45222503546392545,
+        "performance": -0.9118900513276458,
+        "software": -0.5255502962972969
+      }
+    },
+    {
+      "month": "2020-03-01",
+      "aspects": {
+        "audio": -0.993788456893526,
+        "battery": -0.354139114691255,
+        "build": 0.33249568939208984,
+        "camera": 0.8891946915537119,
+        "charging": -0.9855100311979186,
+        "connectivity": 0.46687687491066754,
+        "display": 0.5348784621528466,
+        "performance": -0.9933588473359123,
+        "software": -0.987313091987744
+      }
+    },
+    {
+      "month": "2020-04-01",
+      "aspects": {
+        "audio": -0.9917306624120101,
+        "battery": -0.9930139663629234,
+        "charging": -0.9827478490769863,
+        "connectivity": -0.9905508565134369,
+        "software": -0.8524909047991969
+      }
+    },
+    {
+      "month": "2020-05-01",
+      "aspects": {
+        "audio": 0.8401457369327545,
+        "charging": -0.9860884894587798,
+        "connectivity": -0.9580480462173,
+        "display": -0.9821701352484524,
+        "software": -0.9508474133908749
+      }
+    },
+    {
+      "month": "2020-06-01",
+      "aspects": {
+        "battery": -0.9900576160289347,
+        "charging": -0.9819752669039493,
+        "display": 0.3388102245517075,
+        "performance": -0.9807901820167899,
+        "software": -0.757856310257921
+      }
+    },
+    {
+      "month": "2020-07-01",
+      "aspects": {
+        "display": 0.9033958092331886
+      }
+    },
+    {
+      "month": "2020-08-01",
+      "aspects": {
+        "audio": -0.9886307404376566,
+        "battery": -0.9759652819484472,
+        "charging": -0.98337381798774,
+        "connectivity": -0.08665829827077687,
+        "performance": -0.98073222162202
+      }
+    },
+    {
+      "month": "2020-09-01",
+      "aspects": {
+        "charging": -0.9899011141387746,
+        "performance": -0.9880882384022698,
+        "software": 0.9175520418211818
+      }
+    },
+    {
+      "month": "2020-10-01",
+      "aspects": {
+        "software": -0.8503652065992355
+      }
+    },
+    {
+      "month": "2020-11-01",
+      "aspects": {
+        "battery": -0.9783535962342285,
+        "camera": -0.8742498625069857,
+        "charging": -0.9764496464049444,
+        "display": -0.04258885746821761,
+        "performance": -0.989697432378307,
+        "software": -0.9417657325975597
+      }
+    },
+    {
+      "month": "2020-12-01",
+      "aspects": {
+        "battery": -0.9944470743066631,
+        "charging": -0.994194844912272
+      }
+    },
+    {
+      "month": "2021-01-01",
+      "aspects": {
+        "battery": 0.19184092432260513,
+        "camera": 0.9790230011567473,
+        "charging": -0.9801791277714074
+      }
+    },
+    {
+      "month": "2021-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-04-01",
+      "aspects": {
+        "battery": -0.5538273160345852,
+        "charging": -0.9739938469914099
+      }
+    },
+    {
+      "month": "2021-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-08-01",
+      "aspects": {
+        "battery": 0.998415700829355,
+        "display": 0.9965103666472714,
+        "performance": 0.7854977007955313,
+        "software": -0.9692022036761045
+      }
+    },
+    {
+      "month": "2021-09-01",
+      "aspects": {
+        "battery": -0.9534608358517289,
+        "connectivity": 0.6195181701332331,
+        "performance": -0.44405752420425415
+      }
+    },
+    {
+      "month": "2021-10-01",
+      "aspects": {
+        "audio": -0.9511313471011817,
+        "battery": -0.9838901842013001,
+        "display": -0.8359266147017479
+      }
+    },
+    {
+      "month": "2021-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2021-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-03-01",
+      "aspects": {
+        "connectivity": -0.9792014663107693
+      }
+    },
+    {
+      "month": "2022-04-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-07-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-09-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-10-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-12-01",
+      "aspects": {}
+    },
+    {
+      "month": "2023-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2023-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2023-03-01",
+      "aspects": {
+        "charging": -0.9862416305113584,
+        "software": -0.9902120716869831
+      }
+    }
+  ],
+  "action_items": [
+    {
+      "aspect": "software",
+      "severity": 1.1037532523558993,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "build",
+      "severity": 1.0790832891394126,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "battery",
+      "severity": 1.029779339720133,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "audio",
+      "severity": 0.9881750434688001,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "camera",
+      "severity": 0.8740352579874785,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    }
+  ]
+}

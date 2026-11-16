@@ -1,0 +1,779 @@
+{
+  "parent_asin": "B07H8PXT7K",
+  "product_name": "Samsung Galaxy Note 9",
+  "n_events": 2,
+  "events": [
+    {
+      "event_month": "2019-12-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "software",
+          "delta": 0.9964307982396956,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 44.026966
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.6234833937160955,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.424536
+        },
+        {
+          "aspect": "connectivity",
+          "delta": 0.5729610202057909,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.49414655869057045,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 2.016174
+        },
+        {
+          "aspect": "display",
+          "delta": 0.261705152966897,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 1.143776
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "software",
+          "contribution_pct": 44.0269660949707
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 36.2685546875
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 16.083175659179688
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 2.016174077987671
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 1.143776297569275
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.42453551292419434
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.03378501161932945
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.0030277168843895197
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Love love love my new phone.. I ordered my phone from Chubbiestech, it was indeed unlocked (I am using on MetroPCS) and look almost brand new! I love my new phone and hopefully they have more in stock soon so I can order one for my husband! Will update with pictures soon!",
+          "aspect": "software",
+          "sentiment": 0.691951263230294,
+          "stars": 5,
+          "month": "2020-02"
+        },
+        {
+          "text": "Happy so far. Recieved my Note 9 in the color I ordered. Came with 1 tiny scratch on screen (so small only noticed when cleaning to put on protector) and scratches on one outer corner (not large enough to be concerned with). Being a \"renewed\" phone it isn't surprising that it isn't completely perfect. But the physical flaws are minute. I'm new to android so I might not be the best on a tech...",
+          "aspect": "software",
+          "sentiment": 0.7509525567293167,
+          "stars": 4,
+          "month": "2019-12"
+        },
+        {
+          "text": "Sold by: RUSS Cellular. I just received this flawless Note 9 yesterday. I ordered from RUSS Cellular. My lavender phone arrived in perfect condition - not a single scratch or scuff on the screen or body. It looks completely brand new. As expected, it did not come with headphones. It did however, come with brand new (or at least looks brand new) white Samsung wall chargers and usb cord, along with...",
+          "aspect": "battery",
+          "sentiment": 0.07447628304362297,
+          "stars": 5,
+          "month": "2020-01"
+        },
+        {
+          "text": "Wondering if I should return it. I'm really disappointed in the battery life of this refurbished phone. It barely lasts a day on standby without running down the battery completely. Also, the touch screen is not responsive enough and I constantly have to swipe over and over again for drop down menus. I really wish it had a printed manual with it. Perhaps it wasn't listed as coming with one, but...",
+          "aspect": "battery",
+          "sentiment": -0.9914757489459589,
+          "stars": 2,
+          "month": "2019-12"
+        },
+        {
+          "text": "Excellent Phone. Samsung Note 9 is easy to use. Connected to my cell phone company network with no problem. The battery life is great, holds a charge for the entire day.",
+          "aspect": "connectivity",
+          "sentiment": 0.9802939407527447,
+          "stars": 5,
+          "month": "2020-01"
+        }
+      ]
+    },
+    {
+      "event_month": "2021-09-01",
+      "detector": "LSTM-AE",
+      "top_aspects": [
+        {
+          "aspect": "connectivity",
+          "delta": 1.1367344542134865,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "performance",
+          "delta": 0.8507833394845269,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "software",
+          "delta": 0.6009348468214739,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 16.744167
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.5576353036987711,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.004013
+        },
+        {
+          "aspect": "battery",
+          "delta": 0.3428026519605838,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 83.245895
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "battery",
+          "contribution_pct": 83.24589538574219
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 16.74416732788086
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 0.005922289565205574
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.004012628458440304
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "New Info to Update S/Ware and should get LTE 2-3. Updated S/W And now is 2-3G and LTE Should now operate on 4G. according to Input. Before only had 2-3G will see.",
+          "aspect": "connectivity",
+          "sentiment": 0.02780531719326973,
+          "stars": 1,
+          "month": "2021-11"
+        },
+        {
+          "text": "I love it. I could not afford a note 9 when they first came out. I was afraid it would not update to 5g but it did and it works perfect I am so glad I bought it",
+          "aspect": "connectivity",
+          "sentiment": 0.9742802710970864,
+          "stars": 5,
+          "month": "2021-11"
+        },
+        {
+          "text": "Fast shipping nice phone. Nice phone but I guess with buying refurbished no cable or tool to open sim card slot bummer but good customer service thus far fast shipping",
+          "aspect": "performance",
+          "sentiment": 0.996604545856826,
+          "stars": 5,
+          "month": "2021-10"
+        },
+        {
+          "text": "I love the stylus!. I never could afford a graphic tablet with the screen in it. I'm so pleased to have this lil stylus and art note pad app to doodle with! I'm not very good with digital medium, but it's fun. ^_^ Battery also puts my old phone to shame.",
+          "aspect": "software",
+          "sentiment": 0.9688204790581949,
+          "stars": 5,
+          "month": "2021-09"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "month": "2018-11-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-12-01",
+      "aspects": {
+        "charging": -0.94698541238904
+      }
+    },
+    {
+      "month": "2019-01-01",
+      "aspects": {
+        "battery": 0.8661473752581514,
+        "build": -0.98652525304351,
+        "display": 0.5477251783013344,
+        "performance": -0.9004016714170575
+      }
+    },
+    {
+      "month": "2019-02-01",
+      "aspects": {}
+    },
+    {
+      "month": "2019-03-01",
+      "aspects": {
+        "battery": 0.002184450626373291,
+        "build": 0.7025378048419952,
+        "camera": 0.9919241489842534,
+        "display": -0.8021120755001903,
+        "performance": 0.690726213157177,
+        "software": 0.7726067453622818
+      }
+    },
+    {
+      "month": "2019-04-01",
+      "aspects": {
+        "battery": -0.0563443394494243,
+        "build": -0.3459785506129265,
+        "display": -0.8420567397843115,
+        "software": -0.583661967801163
+      }
+    },
+    {
+      "month": "2019-05-01",
+      "aspects": {
+        "performance": 0.9910536716342904
+      }
+    },
+    {
+      "month": "2019-06-01",
+      "aspects": {
+        "battery": 0.9978952016099356,
+        "connectivity": -0.3379146559163928,
+        "software": -0.007640816271305084
+      }
+    },
+    {
+      "month": "2019-07-01",
+      "aspects": {
+        "battery": -0.4380374609863793,
+        "camera": 0.9986517441575415,
+        "charging": 0.33911247935611755,
+        "display": -0.13913105800747871,
+        "performance": 0.4183862662430329,
+        "software": 0.0999768078327179
+      }
+    },
+    {
+      "month": "2019-08-01",
+      "aspects": {
+        "audio": 0.007239443926664535,
+        "battery": -0.9804503712803125,
+        "camera": 0.9986210864153691,
+        "charging": -0.9912321890005842,
+        "connectivity": -0.924856060068123,
+        "display": -0.4612083764586714
+      }
+    },
+    {
+      "month": "2019-09-01",
+      "aspects": {
+        "battery": 0.5038081877864897,
+        "display": 0.99807992920978,
+        "performance": 0.991434178664349,
+        "software": -0.9480646457523108
+      }
+    },
+    {
+      "month": "2019-10-01",
+      "aspects": {
+        "battery": 0.008235163608333096,
+        "build": 0.8977895362768322,
+        "charging": -0.9803268192335963,
+        "connectivity": -0.7178092151880264,
+        "display": -0.06896416064410005,
+        "performance": 0.8166967174038291,
+        "software": -0.8470271453261375
+      }
+    },
+    {
+      "month": "2019-11-01",
+      "aspects": {
+        "battery": 0.48800773193943314,
+        "build": -0.9795825912151486,
+        "charging": -0.07404930610209703,
+        "connectivity": 0.12251547444611788,
+        "display": -0.4583868529492368,
+        "performance": 0.05038079246878624,
+        "software": -0.000514586572535336
+      }
+    },
+    {
+      "month": "2019-12-01",
+      "aspects": {
+        "audio": -0.986824837513268,
+        "battery": -0.9673591307946481,
+        "build": -0.04164315131492913,
+        "camera": -0.659361874529471,
+        "charging": -0.5121666952036321,
+        "display": -0.33303835553427535,
+        "performance": 0.28712892536229145,
+        "software": 0.7509525567293167
+      }
+    },
+    {
+      "month": "2020-01-01",
+      "aspects": {
+        "battery": 0.4237117488868535,
+        "camera": 0.9978841113916133,
+        "charging": 0.00339546799659729,
+        "connectivity": 0.27531414983483654,
+        "display": 0.5901893527770881,
+        "performance": 0.0826232422987232,
+        "software": 0.3597734859213233
+      }
+    },
+    {
+      "month": "2020-02-01",
+      "aspects": {
+        "audio": -0.9874636363238096,
+        "battery": -0.32675171590623603,
+        "camera": 0.6637454949474583,
+        "charging": -0.9663465927587822,
+        "display": 0.9986933772743214,
+        "performance": 0.006319844804238528,
+        "software": 0.08295997441746294
+      }
+    },
+    {
+      "month": "2020-03-01",
+      "aspects": {
+        "audio": -0.3360202759504318,
+        "battery": 0.2692105373425875,
+        "camera": 0.9977868615533225,
+        "charging": 0.0658554220572114,
+        "connectivity": -0.9610249144025147,
+        "display": -0.9868345314171165,
+        "performance": 0.9169270601123571,
+        "software": 0.9869069424457848
+      }
+    },
+    {
+      "month": "2020-04-01",
+      "aspects": {
+        "battery": 0.37009876696780947,
+        "camera": -0.2376599315321073,
+        "charging": 0.9909987082646694,
+        "display": -0.9270556624978781,
+        "performance": 0.955313776852563,
+        "software": 0.404183906968683
+      }
+    },
+    {
+      "month": "2020-05-01",
+      "aspects": {
+        "battery": -0.8263070872053504,
+        "build": 0.5711762704886496,
+        "camera": -0.21873486042022705,
+        "charging": 0.08613066445104778,
+        "display": 0.05881160916760564,
+        "performance": 0.99730134481797,
+        "software": 0.7974287960678339
+      }
+    },
+    {
+      "month": "2020-06-01",
+      "aspects": {
+        "audio": -0.47153031919151545,
+        "battery": -0.055255484068766236,
+        "camera": 0.978653808531817,
+        "charging": 0.38236665073782206,
+        "display": 0.9799842158099636,
+        "performance": 0.9976729900226928,
+        "software": 0.794774129986763
+      }
+    },
+    {
+      "month": "2020-07-01",
+      "aspects": {
+        "audio": -0.9711154415272176,
+        "battery": 0.010295099273207597,
+        "build": -0.3161553107202053,
+        "charging": 0.01375633291900158,
+        "display": 0.26831827459682245,
+        "performance": -0.03296726057305932
+      }
+    },
+    {
+      "month": "2020-08-01",
+      "aspects": {
+        "battery": -0.41980600357055664,
+        "charging": -0.982807956635952,
+        "display": 0.6107661227967279,
+        "software": -0.9755716868676245
+      }
+    },
+    {
+      "month": "2020-09-01",
+      "aspects": {
+        "audio": -0.01192316529341042,
+        "battery": 0.1795467077754438,
+        "build": 0.5686940335726831,
+        "camera": 0.9980505592538975,
+        "charging": 0.08423649379983544,
+        "connectivity": 0.9791881252021994,
+        "display": 0.0059425136423669755,
+        "performance": 0.8653678683719287,
+        "software": 0.022537113400176167
+      }
+    },
+    {
+      "month": "2020-10-01",
+      "aspects": {
+        "build": 0.9928076243959367,
+        "display": -0.7201983407139778
+      }
+    },
+    {
+      "month": "2020-11-01",
+      "aspects": {
+        "battery": -0.9674012726172805,
+        "camera": -0.9589891638606787,
+        "charging": -0.2998167611658573,
+        "performance": -0.8943270780146122,
+        "software": -0.06180647574365139
+      }
+    },
+    {
+      "month": "2020-12-01",
+      "aspects": {
+        "battery": -0.9512931872159243,
+        "camera": -0.8332792352885008,
+        "connectivity": -0.26651831713388674,
+        "display": -0.09894725540652871,
+        "software": -0.9836655567632988
+      }
+    },
+    {
+      "month": "2021-01-01",
+      "aspects": {
+        "battery": 0.3174208350465051,
+        "charging": -0.9760058100800961,
+        "connectivity": -0.5450994049897417,
+        "performance": -0.9742443868890405,
+        "software": -0.10285119363106787
+      }
+    },
+    {
+      "month": "2021-02-01",
+      "aspects": {
+        "build": 0.564941518008709,
+        "charging": -0.008427828550338745,
+        "display": 0.502236008644104,
+        "performance": 0.9656134946853854
+      }
+    },
+    {
+      "month": "2021-03-01",
+      "aspects": {
+        "battery": 0.996744471238344,
+        "build": 0.83714734390378,
+        "display": -0.06819271529093385,
+        "performance": 0.9890382969460916,
+        "software": -0.96786220849026
+      }
+    },
+    {
+      "month": "2021-04-01",
+      "aspects": {
+        "audio": 0.9981698331102962,
+        "battery": -0.9920525988563895,
+        "build": 0.998497815526207,
+        "camera": 0.1333046136496705,
+        "connectivity": -0.2681529466062784,
+        "display": -0.9936471584951505,
+        "software": 0.18372410535812378
+      }
+    },
+    {
+      "month": "2021-05-01",
+      "aspects": {
+        "battery": -0.9870629562065005,
+        "build": -0.6908117234706879,
+        "camera": 0.4839840807253495,
+        "display": 0.05373626830987632,
+        "performance": 0.9847180807264522,
+        "software": -0.03245477378368378
+      }
+    },
+    {
+      "month": "2021-06-01",
+      "aspects": {
+        "battery": 0.9389636530831922,
+        "connectivity": -0.9841397795826197,
+        "display": 0.1960887007880956,
+        "performance": 0.4509671479463577
+      }
+    },
+    {
+      "month": "2021-07-01",
+      "aspects": {
+        "audio": -0.9909026038367301,
+        "battery": 0.3341147260168024,
+        "build": 0.9984785971755628,
+        "camera": 0.9973887180094607,
+        "charging": 0.178029111129581,
+        "connectivity": 0.0695133957779035,
+        "display": -0.32499325403477997,
+        "performance": 0.9788897145299416,
+        "software": 0.10344109160359949
+      }
+    },
+    {
+      "month": "2021-08-01",
+      "aspects": {
+        "battery": -0.3246415830217302,
+        "build": -0.4433907016646117,
+        "charging": -0.9918497244361788,
+        "connectivity": -0.9924485964002088,
+        "display": -0.49299472547136247,
+        "performance": -0.9923932433594018
+      }
+    },
+    {
+      "month": "2021-09-01",
+      "aspects": {
+        "battery": 0.9816101033017427,
+        "charging": 0.4338862709701061,
+        "display": -0.4022412607446313,
+        "software": 0.9688204790581949
+      }
+    },
+    {
+      "month": "2021-10-01",
+      "aspects": {
+        "battery": 0.3362863980049345,
+        "charging": -0.8774298392236233,
+        "performance": 0.996604545856826
+      }
+    },
+    {
+      "month": "2021-11-01",
+      "aspects": {
+        "charging": 0.8957185593899339,
+        "connectivity": 0.501042794145178,
+        "display": 0.3281890572980046,
+        "software": 0.4399313977919519
+      }
+    },
+    {
+      "month": "2021-12-01",
+      "aspects": {
+        "battery": -0.9920353580964729,
+        "build": -0.021267222240567207,
+        "charging": 0.05563913382745037,
+        "performance": -0.011538408056367189,
+        "software": -0.9844896800350398
+      }
+    },
+    {
+      "month": "2022-01-01",
+      "aspects": {
+        "battery": -0.9743647119030356,
+        "camera": -0.014594329986721277,
+        "display": -0.06965219753328711
+      }
+    },
+    {
+      "month": "2022-02-01",
+      "aspects": {
+        "battery": 0.9731491166166961,
+        "camera": 0.998497292646789,
+        "connectivity": -0.9932765413541347,
+        "software": 0.7250392825808376
+      }
+    },
+    {
+      "month": "2022-03-01",
+      "aspects": {
+        "battery": 0.315426603735735,
+        "display": -0.13052559797264016
+      }
+    },
+    {
+      "month": "2022-04-01",
+      "aspects": {
+        "audio": -0.26859574764966965,
+        "battery": 0.9182097786761005,
+        "display": 0.9987065693421755
+      }
+    },
+    {
+      "month": "2022-05-01",
+      "aspects": {
+        "build": -0.041643391363322735,
+        "display": -0.9205670403316617
+      }
+    },
+    {
+      "month": "2022-06-01",
+      "aspects": {
+        "battery": 0.04050826374441385
+      }
+    },
+    {
+      "month": "2022-07-01",
+      "aspects": {
+        "audio": 0.9961372489342466,
+        "battery": -0.9782887480299299,
+        "camera": -0.5176893340540119,
+        "charging": -0.8099326340598054
+      }
+    },
+    {
+      "month": "2022-08-01",
+      "aspects": {}
+    },
+    {
+      "month": "2022-09-01",
+      "aspects": {
+        "camera": 0.9987657861493062,
+        "display": -0.985945284133777
+      }
+    },
+    {
+      "month": "2022-10-01",
+      "aspects": {
+        "battery": 0.9978505117760506,
+        "camera": 0.0007646828889846802,
+        "charging": -0.8665803438052535,
+        "display": 0.9975894487579353,
+        "performance": 0.9049849919974804
+      }
+    },
+    {
+      "month": "2022-11-01",
+      "aspects": {
+        "charging": -0.936618591658771,
+        "connectivity": 0.28819792182184756,
+        "performance": 0.9985664542764425
+      }
+    },
+    {
+      "month": "2022-12-01",
+      "aspects": {
+        "battery": -0.9861687126103789,
+        "build": -0.9839870415162295,
+        "camera": -0.9745168210938573,
+        "display": -0.9704873722803313
+      }
+    },
+    {
+      "month": "2023-01-01",
+      "aspects": {}
+    },
+    {
+      "month": "2023-02-01",
+      "aspects": {
+        "battery": -0.9853706384310499,
+        "build": 0.5341460853815079,
+        "connectivity": 0.605399377644062,
+        "display": -0.7039020359516144,
+        "performance": -0.8383145108819008
+      }
+    },
+    {
+      "month": "2023-03-01",
+      "aspects": {
+        "audio": -0.9915794407716021,
+        "battery": 0.9840573451510863,
+        "build": 0.9908220315119252,
+        "camera": -0.6538341715931892,
+        "charging": 0.9951230278238654,
+        "display": 0.4048035074956715,
+        "performance": 0.997965446440503,
+        "software": 0.9985285776783712
+      }
+    },
+    {
+      "month": "2023-04-01",
+      "aspects": {
+        "battery": 0.972750922665,
+        "camera": 0.1601092293858528,
+        "display": -0.6201918972656131
+      }
+    },
+    {
+      "month": "2023-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2023-06-01",
+      "aspects": {
+        "display": -0.9850273716729134,
+        "performance": 0.9356509502977133
+      }
+    },
+    {
+      "month": "2023-07-01",
+      "aspects": {
+        "display": 0.8804172447416931,
+        "performance": 0.9777198866941035
+      }
+    },
+    {
+      "month": "2023-08-01",
+      "aspects": {}
+    }
+  ],
+  "action_items": [
+    {
+      "aspect": "battery",
+      "severity": 0.6234833937160955,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "performance",
+      "severity": 0.49414655869057045,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    }
+  ]
+}

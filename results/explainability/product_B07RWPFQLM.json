@@ -1,0 +1,1918 @@
+{
+  "parent_asin": "B07RWPFQLM",
+  "product_name": "Google Pixel 3a",
+  "n_events": 11,
+  "events": [
+    {
+      "event_month": "2019-06-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "audio",
+          "delta": 0.40446376790804073,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 11.662104
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.3851329840894482,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 53.919022
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.2810367001322837,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 10.322765
+        },
+        {
+          "aspect": "display",
+          "delta": -0.22343337619697978,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 15.849066
+        },
+        {
+          "aspect": "software",
+          "delta": 0.21620564302794482,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 0.8299
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "performance",
+          "contribution_pct": 53.91902160644531
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 15.849065780639648
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 11.662103652954102
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 10.322765350341797
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 3.3586483001708984
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 2.4913690090179443
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 1.1391717195510864
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.8298996090888977
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.4279504120349884
+        }
+      ],
+      "agreement": "strong",
+      "quotes": [
+        {
+          "text": "The Pixel 3a is a good choice for photo and video users. Is this Pixel 3a better than a $130 phone? I bought an Amazon Prime Moto X4 for $130 a month before I received this Pixel 3a which had a suggested retail around $400. The Pixel 3a is better in two areas: 1) camera and 2) screen display quality. Otherwise they feel exactly the same to me in speed and function. The camera is good a focusing...",
+          "aspect": "audio",
+          "sentiment": 0.4691915437579155,
+          "stars": 4,
+          "month": "2019-07"
+        },
+        {
+          "text": "Best Camera and worth to money. This is the best camera amongst all the phones in the market, good battery life, Nice display, call quality is good, Stereo audio is amazing overall it's a must buy under 500$ price tag",
+          "aspect": "audio",
+          "sentiment": 0.9984822656551842,
+          "stars": 5,
+          "month": "2019-06"
+        },
+        {
+          "text": "Maybe the best phone on the Plannet (especially for the price). I love my Pixel 3a. Have been using Android phones since 2012. I have tested an reviewed hundreds of phones. My most recent phone was a Nexus 5x. Positives: #1 Excellent Camera: The photos come out great every time. The double tap power loads quickly and I'm able to get the camera running in time to catch good photos and videos of my...",
+          "aspect": "performance",
+          "sentiment": 0.9101534262299538,
+          "stars": 5,
+          "month": "2019-08"
+        },
+        {
+          "text": "Not a great replacement for a flagship phone. Pros: - nice back-facing camera. Cons: - front camera is off to the side, which makes your selfies look like you're looking off to a side a little bit or slightly cross-eyed. - battery life is below expectations. With frequent usage, it will run out before nighttime unless you recharge it halfway through the day (not an issue with my previous android...",
+          "aspect": "performance",
+          "sentiment": -0.9915908356197178,
+          "stars": 3,
+          "month": "2019-07"
+        },
+        {
+          "text": "Keep your charger close. Lightweight, sleek and the plastic body feels great! Easy and simple to use.",
+          "aspect": "charging",
+          "sentiment": 0.013819413725286722,
+          "stars": 5,
+          "month": "2019-06"
+        },
+        {
+          "text": "This is a solid, reliable phone/device. I have only had android devices and always went on the cheap side. This one works markedly better and has great battery life while also charging fast. I don't use it much, but every aspect of it seems top notch. The camera is versatile and very easy to use.",
+          "aspect": "charging",
+          "sentiment": 0.9983240928850137,
+          "stars": 4,
+          "month": "2019-07"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-08-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "audio",
+          "delta": -0.28250377216817657,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 24.542009
+        },
+        {
+          "aspect": "charging",
+          "delta": -0.23901126976966802,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 12.812418
+        },
+        {
+          "aspect": "display",
+          "delta": -0.20013416609517853,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 18.20265
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.08804179440983573,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 1.877112
+        },
+        {
+          "aspect": "build",
+          "delta": 0.047728709193167934,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 17.987385
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "audio",
+          "contribution_pct": 24.542009353637695
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 18.20265007019043
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 17.987384796142578
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 15.850231170654297
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 12.812417984008789
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 7.554615497589111
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 1.8771119117736816
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.6345637440681458
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.5390123724937439
+        }
+      ],
+      "agreement": "strong",
+      "quotes": [
+        {
+          "text": "Is \"2 out of 3\" good odds when describing a new phone?. Bought three phones back in May 2019. One has already died. Stopped playing audio for incoming call ring tones, timers, alarms, and the speaker phone feature; but the speaker still played media. Customer service was terrible. The other 2 phones work good for the price. Nothing special.",
+          "aspect": "audio",
+          "sentiment": -0.8175092772580683,
+          "stars": 2,
+          "month": "2019-09"
+        },
+        {
+          "text": "Buyer's remorse. The Good - the camera. The Bad - everything else. Feels cheap and plasticy - particularly the Power and Volume switches. The 3a size is fractionally too small - my last phone was a Samsung J6. Awkward placement of the back-button in lower left corner of the screen if you are right-handed. Poor battery life vs the much older J6. As an update 1 month after use, my opinion of this...",
+          "aspect": "audio",
+          "sentiment": -0.9928439607610926,
+          "stars": 1,
+          "month": "2019-10"
+        },
+        {
+          "text": "Better than an iPhone 6, not better than an iPhone 7 /Samsung S8 or newer. Just to set the record, I do have a Pixel 3a and also have an iPhone XR. Previously had an iPhone 7. Just shooting out a warning here..it is not a better phone than an iPhone 7 . Camera is something, but if you are a previous iphone user or perhaps have something like a 7 7Plus or newer, please don't think you are...",
+          "aspect": "charging",
+          "sentiment": -0.3303505852818489,
+          "stars": 3,
+          "month": "2019-08"
+        },
+        {
+          "text": "Phone does not charge. I have had this phone for just over a month now and have had problems charging this phone almost from the start.",
+          "aspect": "charging",
+          "sentiment": -0.9890066687949002,
+          "stars": 1,
+          "month": "2019-09"
+        },
+        {
+          "text": "slight issue on left side of screen. Screen is insensitive on portions of far left side. In future I will not buy a refurbished phone through a 2nd party.",
+          "aspect": "display",
+          "sentiment": -0.9895996500272304,
+          "stars": 3,
+          "month": "2019-10"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-11-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "connectivity",
+          "delta": -0.32107898633996096,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 33.759789
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.1704770070480196,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 4.316164
+        },
+        {
+          "aspect": "build",
+          "delta": 0.1523507275617567,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 10.686113
+        },
+        {
+          "aspect": "software",
+          "delta": -0.10943520700712184,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 2.196994
+        },
+        {
+          "aspect": "audio",
+          "delta": 0.10107717629542157,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 7.914439
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 33.759788513183594
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 23.47235870361328
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 10.686113357543945
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 7.914438724517822
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 6.513123989105225
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 6.485757827758789
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 4.655251979827881
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 4.316164016723633
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 2.196993589401245
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Only 3 g speed. Only 3g speed not 4g lte.",
+          "aspect": "connectivity",
+          "sentiment": -0.5914515852928162,
+          "stars": 3,
+          "month": "2019-11"
+        },
+        {
+          "text": "Not good. I hate this. I can't connect to my bluetooth headphones no matter what I try. There are not as many options as my Galaxy S9. There are no widgets, which I like because it let me organize my apps how I want.",
+          "aspect": "connectivity",
+          "sentiment": -0.9897947458084673,
+          "stars": 1,
+          "month": "2019-11"
+        },
+        {
+          "text": "It's a great phone, period.. I have had this phone a couple of weeks and it is great. Easily the best cell phone I have ever had, and Android 10 is really cool. Battery is good, charges quickly, very nice screen, super camera, vast selection of apps in the Play Store, the Internet page loading is really quick (at least compared to my old phone). It does not have cordless charging, and is not...",
+          "aspect": "charging",
+          "sentiment": -0.663455456495285,
+          "stars": 5,
+          "month": "2019-12"
+        },
+        {
+          "text": "Best phone out now. I'm in love with this phone Good battery life and fast charging Good quality pictures Very slim and light weight",
+          "aspect": "charging",
+          "sentiment": 0.9988105283555342,
+          "stars": 5,
+          "month": "2019-11"
+        },
+        {
+          "text": "I have to admit, I'm impressed. I buy a LOT of smartphones. Too many. It's a real problem. I usually just buy the flagships. I want the best features and the maximum amount of power. I wanted the Pixel experience, though, and this phone was on sale, so I picked it up. I have to say, I'm impressed. You do not get what you pay for. You get much more. This phone punches well above it's weight. Let's...",
+          "aspect": "build",
+          "sentiment": 0.897416640073061,
+          "stars": 4,
+          "month": "2020-01"
+        },
+        {
+          "text": "Love this Pixel 3a XL. Just love the build quality and how everything is solid. For the price range, I would recommend this to anyone looking for a nice phone without worrying too much on the upgrades and camera.",
+          "aspect": "build",
+          "sentiment": 0.9988145964889554,
+          "stars": 5,
+          "month": "2019-12"
+        }
+      ]
+    },
+    {
+      "event_month": "2020-09-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "charging",
+          "delta": -0.6037323364501828,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 41.698025
+        },
+        {
+          "aspect": "build",
+          "delta": -0.4922642543749952,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 22.492908
+        },
+        {
+          "aspect": "software",
+          "delta": -0.2881376808966687,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 10.306029
+        },
+        {
+          "aspect": "display",
+          "delta": -0.26213385808383133,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 3.023444
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.17814349148790667,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 11.777412
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "charging",
+          "contribution_pct": 41.69802474975586
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 22.492908477783203
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 11.777412414550781
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 10.306029319763184
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 4.840407371520996
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 3.115020275115967
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 3.023444175720215
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 2.6962621212005615
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.05049332231283188
+        }
+      ],
+      "agreement": "strong",
+      "quotes": [
+        {
+          "text": "Great and fairly cheap phone. My old phone died, the Pixel 4 is out, so the Pixel 3a's are on sale. It's a great phone, but because it's cheap, it's missing a few things that a more expensive phone might have, like an SD card slot and wireless charging, but that's okay for me. The camera is excellent.",
+          "aspect": "charging",
+          "sentiment": -0.9685972086153924,
+          "stars": 5,
+          "month": "2020-09"
+        },
+        {
+          "text": "Unreliable usb-c port and wifi selection.. Main problems are the usb c port becomes unreliable, and the inefficient way it selects which wifi network to use. Otherwise very good.",
+          "aspect": "charging",
+          "sentiment": -0.9927907723467797,
+          "stars": 4,
+          "month": "2020-09"
+        },
+        {
+          "text": "Whatever you do, don't drop this in the toilet. You'll be buying a new phone.. Not water resistant in the least. It's gone to an early grave.",
+          "aspect": "build",
+          "sentiment": -0.9847329368349165,
+          "stars": 1,
+          "month": "2020-09"
+        },
+        {
+          "text": "Good phone but fragile. Got this for my adult daughter. She does like the phone but it is not sturdy. Everyone drops their phone from time to time and of course we shouldn't do that, but this phone has broken more times in more ways from ordinary drops than any phone I've every been around.",
+          "aspect": "build",
+          "sentiment": -0.9888501663226634,
+          "stars": 3,
+          "month": "2020-09"
+        },
+        {
+          "text": "A Disappointment. The camera was the great marketing point of this Google device and I was super underwhelmed by its performance and results. It is incredible for up close macro photos and simple point and shoot portrait pictures but failed to deliver proper color and decent images in any other environment. The processor is too slow and after watching the documentaries 'Hacked' and 'The Social...",
+          "aspect": "software",
+          "sentiment": 0.3405357897281647,
+          "stars": 1,
+          "month": "2020-10"
+        },
+        {
+          "text": "CHEAP PHONE DON'T RUN THE UPDATE. I purchased garbage. I am so disappointed! I barely paid it off and now it's junk! I let the latest update run... Huge mistake!!! The Bluetooth now has issues and music cuts in and out!! The battery is not lasting like it was either. A fix was supposed to be to turn off adaptive battery so I tried that... Didn't work. I guess you get what you pay for!",
+          "aspect": "software",
+          "sentiment": -0.9855019338428974,
+          "stars": 1,
+          "month": "2020-10"
+        }
+      ]
+    },
+    {
+      "event_month": "2020-12-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "build",
+          "delta": -0.6561323571950197,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.34897982759866863,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 14.511524
+        },
+        {
+          "aspect": "camera",
+          "delta": 0.21343332043890972,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 1.141772
+        },
+        {
+          "aspect": "software",
+          "delta": -0.18917764446412638,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 22.604437
+        },
+        {
+          "aspect": "display",
+          "delta": 0.1322590399582479,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 2.933317
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "battery",
+          "contribution_pct": 40.25513458251953
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 22.60443687438965
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 17.825841903686523
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 14.511524200439453
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 2.933316946029663
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 1.141771912574768
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.6749417781829834
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.05302760377526283
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "none",
+      "quotes": [
+        {
+          "text": "Great phone! Minor downsides, lots of upsides.. Overall I love my Pixel 3a! I've had it for almost a whole year and there are a lot of things I love about it. The fingerprint reader works great, the camera is awesome (my favorite feature) and the screen resolution is really nice. The 3a has a gyroscope so you can download a compass app and it will work, and you can view YouTube 360 videos. GPS...",
+          "aspect": "build",
+          "sentiment": -0.9888376640155911,
+          "stars": 5,
+          "month": "2021-02"
+        },
+        {
+          "text": "Why spend 1K?. Why spend $1,000 on the latest samsung or iPhone when you get the same features with the Google Pixel. The 3a has an amazing camera (with portrait and night modes. I've had this phone over a year and love everything about it. The only drawback is that it's not waterproof.. I highly recommend this phone over 2 year contract phones.",
+          "aspect": "build",
+          "sentiment": -0.9782117544673383,
+          "stars": 5,
+          "month": "2021-01"
+        },
+        {
+          "text": "Great phone... IF the speakerphone works(known issue of this phone)!!!. Awesome camera for sure. Software is fairly nice, yet Google Pixel phones still may need some modifications to bring some excellent features that are sadly missing(such as delayed text, removal of Google bar, back/home/recents non-customizable by deafult, and most importantly NOTIFICATION LIGHT! is missing so a workaround is...",
+          "aspect": "charging",
+          "sentiment": 0.9980643427697942,
+          "stars": 4,
+          "month": "2021-02"
+        },
+        {
+          "text": "Absolutely love this phone!. Pro's: price, camera, latest android OS system with all the latest upgrades immediately. Con's: sometimes, on rare occasions its buggy and will act strange, but if you do a restart, its great for another month. I've been using this phone for well over a year! For the most part I give it an A+. Why anyone would pay $500-900 for a phone I just don't get when you can get...",
+          "aspect": "camera",
+          "sentiment": 0.9976324408198707,
+          "stars": 5,
+          "month": "2021-02"
+        }
+      ]
+    },
+    {
+      "event_month": "2021-03-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "build",
+          "delta": 0.702879405580461,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.454484
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.363202054965465,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 3.407876
+        },
+        {
+          "aspect": "software",
+          "delta": 0.331000085604804,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 8.831887
+        },
+        {
+          "aspect": "performance",
+          "delta": 0.23735028411950523,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 46.831665
+        },
+        {
+          "aspect": "audio",
+          "delta": -0.17135196644166073,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.862688
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "performance",
+          "contribution_pct": 46.8316650390625
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 34.362579345703125
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 8.831887245178223
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 5.24882173538208
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 3.4078757762908936
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.8626881837844849
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.45448386669158936
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 1.981216200874769e-06
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Great deal. The phone was great. Better then I expected and worked like a charm. There was a slight tint like color to the screen but it didn't bother me too much. After a few days I forgot it was like that. I do suggest that anyone buying this one, buy a case at the same time. This phone is slippery and easy to drop. The design want as good as earlier pixel phones and it's not water proof either.",
+          "aspect": "build",
+          "sentiment": 0.39041805267333984,
+          "stars": 5,
+          "month": "2021-05"
+        },
+        {
+          "text": "Expected better. Floored to receive a used like new phone missing the sim card tray, repair shop discovered someone had jammed sim card inside. Possibly able to remove but glass might break costing $160. Not operable in that condition, very disappointed. Fortunately YouTube saved the day for extrication.",
+          "aspect": "build",
+          "sentiment": -0.9517086599953473,
+          "stars": 1,
+          "month": "2021-03"
+        },
+        {
+          "text": "It's OK so far. Phone generally runs pretty smoothly, and seems to have a lot of storage (a lot more than my old phone, anyways). My main gripe is that the overlay menu functions weirdly. When it's supposed to disappear completely, it often just hangs out at the edges of the screen. Or it will just stay and not disappear, every once in a while. Also, the OS will make the screen less bright at...",
+          "aspect": "charging",
+          "sentiment": -0.0129852001555264,
+          "stars": 3,
+          "month": "2021-03"
+        },
+        {
+          "text": "Battery sucks. The phone has already lost so much battery power and it's not even been a year. And I'm so careful with charging and being sure not to overcharge, etc",
+          "aspect": "charging",
+          "sentiment": 0.2806135416030884,
+          "stars": 1,
+          "month": "2021-04"
+        },
+        {
+          "text": "dead after 9 months. don't buy this phone. software crash after only 9 months. stuck in a \"boot loop\" -- a problem that lots of pixel users experience. sent it in to google, and they said it wasn't under warranty because it had a scratch. give me a break. very disappointed in google.",
+          "aspect": "software",
+          "sentiment": -0.9871055602561682,
+          "stars": 1,
+          "month": "2021-05"
+        },
+        {
+          "text": "Will upgrade to another Pixel for sure. I don't use face recognition or fingerprint so I can't comment on that; that being said, I love this phone. I absolutely love it! When I replace this phone, I will be getting another Pixel, that's how much I love my phone. The camera shoots great pictures, and I especially love night sight. Google app integrates well; much better than my Microsoft products,...",
+          "aspect": "software",
+          "sentiment": 0.9819165482185781,
+          "stars": 5,
+          "month": "2021-03"
+        }
+      ]
+    },
+    {
+      "event_month": "2022-04-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "connectivity",
+          "delta": 0.9565196889452636,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "software",
+          "delta": -0.8107357462868094,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "battery",
+          "delta": 0.650984008167547,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 98.728729
+        },
+        {
+          "aspect": "camera",
+          "delta": -0.0231333283615337,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 1.271275
+        },
+        {
+          "aspect": "display",
+          "delta": NaN,
+          "direction": "unknown",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "battery",
+          "contribution_pct": 98.72872924804688
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 1.2712754011154175
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Half an inch of the screen with dead touch.. i'd just received my pixel 3a bought from Edge Cellular, the touchscreen has a half an inch column of where the digitizer it's dead. 1 star.",
+          "aspect": "connectivity",
+          "sentiment": -0.02563378866761923,
+          "stars": 1,
+          "month": "2022-04"
+        },
+        {
+          "text": "Phone seems to be ok.. BUT. The product was NOT UNLOCKED. Unbelievable. ZERO STARS. ***update: thankfully someone at Google new what was up and sent me a link to a YouTube video that helped, but it's pretty technical and you have to enter developer options and do some mild coding. Took it to Verizon first and they had no idea how to help. Thankful for the google dude and not having to go through...",
+          "aspect": "software",
+          "sentiment": -0.22219564206898212,
+          "stars": 2,
+          "month": "2022-05"
+        },
+        {
+          "text": "A nice phone. Nice battery life. But it shouldn't be upgraded to Android 12.",
+          "aspect": "software",
+          "sentiment": -0.9303511027246714,
+          "stars": 5,
+          "month": "2022-05"
+        },
+        {
+          "text": "UNRESPONSIVE SCREEN AFTER 2 MONTHS. IT WAS A GIFT TO SOMEONE.. Quit working. Screen turned unresponsive. Turned the power off and reboot it. Nothing.",
+          "aspect": "battery",
+          "sentiment": -0.6711856117472053,
+          "stars": 1,
+          "month": "2022-06"
+        },
+        {
+          "text": "Great Phone!!!!!. I really never do reviews but this was one of the best purchase, I've made. First of all. Shout out to the seller for the great deal and great service. Right out the box this phone was just what I was looking. Battery life is pretty good, I stream music most of the time. I highly recommend this product. PS My kids was impressed with this phone. They have Apple and want to get...",
+          "aspect": "battery",
+          "sentiment": 0.998590226561646,
+          "stars": 5,
+          "month": "2022-04"
+        }
+      ]
+    },
+    {
+      "event_month": "2023-01-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "camera",
+          "delta": -1.1704305306775495,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "charging",
+          "delta": 1.031441438011825,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "audio",
+          "delta": 0.5416352096362971,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 100.0
+        },
+        {
+          "aspect": "software",
+          "delta": -0.5345895646799667,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "display",
+          "delta": -0.3550508554908447,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.0
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "audio",
+          "contribution_pct": 100.0
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.0
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "strong",
+      "quotes": [
+        {
+          "text": "Not Unlocked - Photo - Hours of Verizon and Google Support couldn't fix it. Returned. Bought this for my son, added him to my GoogleFi plan. Spent several hours with Verizon and Google support to attempt to unlock the phone. Neither could help. Will update rating if the replacement is as advertised.",
+          "aspect": "camera",
+          "sentiment": -0.29556436371058226,
+          "stars": 1,
+          "month": "2023-03"
+        },
+        {
+          "text": "Pixels line is overhyped.. 3xl is Overhyped disposable poor excuse for a smart phone. After about 10 months the thin plastic border that wrapped around the entire screen started to peel off, and large black splotches developed on the left side of the screen. The pictures were good but not great, the thing had a measly 7x zoom and even less during video. cheaply manufactured, the back started...",
+          "aspect": "camera",
+          "sentiment": -0.9396169339306653,
+          "stars": 1,
+          "month": "2023-01"
+        },
+        {
+          "text": "In 2023, this is a good backup or experimental phone. February 6th 2023 - 12:30am After some careful research, I decided to purchase a Google Pixel 3a [with 64GB Memory Cell Phone (Unlocked) - Clearly White] to install the Ubuntu Touch OS on it, so once the UT people get VoLTE (Voice Over LTE or 4G) figured out, I'll have a phone that is completely free of Apple or Google data hoarding. Short...",
+          "aspect": "charging",
+          "sentiment": 0.041893959045410156,
+          "stars": 4,
+          "month": "2023-02"
+        },
+        {
+          "text": "Average phone.. This phone worked fine for three years until the sim card slot went bad. This is the second Google phone that went bad on me within three years. The first lasted about two years until the microphone went bad. No more Google phones for me.",
+          "aspect": "audio",
+          "sentiment": -0.9884841899620369,
+          "stars": 2,
+          "month": "2023-01"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-10-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "audio",
+          "delta": -0.31837686843953045,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 45.765434
+        },
+        {
+          "aspect": "connectivity",
+          "delta": -0.30415519256486545,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 3.420529
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.26256742065317107,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 29.250992
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.20563471310899983,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 2.555872
+        },
+        {
+          "aspect": "build",
+          "delta": -0.16690563319241997,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.400069
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "audio",
+          "contribution_pct": 45.76543426513672
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 29.250991821289062
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 10.533641815185547
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 6.046925067901611
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 3.4205291271209717
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 2.5558724403381348
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 1.471148133277893
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 0.5553903579711914
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.4000687003135681
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Counting down the days until it's unusable. This phone started out great. It was fast and did everything it was supposed to do. One day, I was listening to something through the speaker on the phone and it started to crackle. I thought I'd blown out the speaker at first. Additionally, when I answered the phone it took 3 solid seconds for anyone to be able to hear me and even when it kicked in...",
+          "aspect": "audio",
+          "sentiment": -0.637303352355957,
+          "stars": 2,
+          "month": "2019-12"
+        },
+        {
+          "text": "Buyer's remorse. The Good - the camera. The Bad - everything else. Feels cheap and plasticy - particularly the Power and Volume switches. The 3a size is fractionally too small - my last phone was a Samsung J6. Awkward placement of the back-button in lower left corner of the screen if you are right-handed. Poor battery life vs the much older J6. As an update 1 month after use, my opinion of this...",
+          "aspect": "audio",
+          "sentiment": -0.9928439607610926,
+          "stars": 1,
+          "month": "2019-10"
+        },
+        {
+          "text": "Junk. Liked this phone, but it would never connect to internet using data. Had to be near my WiFi for it to work. Also would not send or receive pictures through texts. Tried all the recommended fixes, but they failed to correct the problems. I returned the phone.",
+          "aspect": "connectivity",
+          "sentiment": -0.3697044844739139,
+          "stars": 1,
+          "month": "2019-12"
+        },
+        {
+          "text": "Not good. I hate this. I can't connect to my bluetooth headphones no matter what I try. There are not as many options as my Galaxy S9. There are no widgets, which I like because it let me organize my apps how I want.",
+          "aspect": "connectivity",
+          "sentiment": -0.9897947458084673,
+          "stars": 1,
+          "month": "2019-11"
+        },
+        {
+          "text": "It's a great phone, period.. I have had this phone a couple of weeks and it is great. Easily the best cell phone I have ever had, and Android 10 is really cool. Battery is good, charges quickly, very nice screen, super camera, vast selection of apps in the Play Store, the Internet page loading is really quick (at least compared to my old phone). It does not have cordless charging, and is not...",
+          "aspect": "charging",
+          "sentiment": -0.663455456495285,
+          "stars": 5,
+          "month": "2019-12"
+        },
+        {
+          "text": "Best phone out now. I'm in love with this phone Good battery life and fast charging Good quality pictures Very slim and light weight",
+          "aspect": "charging",
+          "sentiment": 0.9988105283555342,
+          "stars": 5,
+          "month": "2019-11"
+        }
+      ]
+    },
+    {
+      "event_month": "2020-03-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "software",
+          "delta": -0.23469795600054877,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 1.006229
+        },
+        {
+          "aspect": "charging",
+          "delta": -0.21223444431465568,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 51.614822
+        },
+        {
+          "aspect": "audio",
+          "delta": -0.2062821870075925,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.285139
+        },
+        {
+          "aspect": "connectivity",
+          "delta": 0.20327706362597248,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 30.378172
+        },
+        {
+          "aspect": "display",
+          "delta": -0.19300816724726136,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 6.653025
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "charging",
+          "contribution_pct": 51.61482238769531
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 30.378171920776367
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 6.653025150299072
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 3.680352210998535
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 3.6368303298950195
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 1.5238394737243652
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 1.2215871810913086
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 1.0062286853790283
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.285138875246048
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Great phone for a reasonable price. I have been using android phone from Samsung and Motorola. The last one was Moto G5. It worked well for my simple needs in the beginning but it gets slower and slower over time. I don't want a phone loaded with vendor-specific features that I can not remove so I opted for Pixel phones. I don't want to upgrade all the accessories so I chose 3A XL since it has...",
+          "aspect": "software",
+          "sentiment": 0.1725776786915958,
+          "stars": 5,
+          "month": "2020-03"
+        },
+        {
+          "text": "Non working phone and improper refund.. Could not update. I could not update apps transferred to phone or download any. Really couldn\u2019t get past startup . I also didn\u2019t get my money properly refunded. Instead of putting the money back on my credit card they refunded by an Amazon gift card. Useless!",
+          "aspect": "software",
+          "sentiment": -0.989635523990728,
+          "stars": 1,
+          "month": "2020-04"
+        },
+        {
+          "text": "Best phones we've ever owned. We've been iPhone owners for nearly a decade. After all the constant changes, forcing to face ID on most units, prices being jacked up, no headphone jack (really prices you out if you don't want BT headphones or dealing with charging them, etc), and just never ending issues with our iPhones (updates crashing apps, black screens, Apple always blaming us for any...",
+          "aspect": "charging",
+          "sentiment": -0.9495560070499778,
+          "stars": 5,
+          "month": "2020-05"
+        },
+        {
+          "text": "Broken charge port. Good phone but it's stopped charging now. It's less than a year old.",
+          "aspect": "charging",
+          "sentiment": -0.9805094934999943,
+          "stars": 1,
+          "month": "2020-04"
+        },
+        {
+          "text": "No volume control on the side!. Simply, I don't like this phone because it doesn't have call volume control on the side of the phone. You have to go into settings every time you want to silence the ringer. I get particularly annoyed with how it rings to show you how loud it is when you go to turn the sound down or back on. Might sound like something you can deal with and maybe that's the case for...",
+          "aspect": "audio",
+          "sentiment": -0.9742057230323553,
+          "stars": 1,
+          "month": "2020-03"
+        },
+        {
+          "text": "No more Google Pixels. Loved the first one that I got in late 2018, which cost something like $900 through Verizon. Back then, I would have written a 5-star review, much like all the ones that have been posted here. Early in 2020, however, I noticed the aftermarket case would no longer fit correctly on the phone. Finally took the case off and noticed that the battery had been slowly getting...",
+          "aspect": "audio",
+          "sentiment": -0.9935804852866568,
+          "stars": 1,
+          "month": "2020-05"
+        }
+      ]
+    },
+    {
+      "event_month": "2021-01-01",
+      "detector": "LSTM-AE",
+      "top_aspects": [
+        {
+          "aspect": "software",
+          "delta": 1.236453513172132,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 27.441252
+        },
+        {
+          "aspect": "battery",
+          "delta": 0.920337064377236,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 36.717472
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.7065788803350491,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 9.277968
+        },
+        {
+          "aspect": "connectivity",
+          "delta": 0.6615207712117505,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.868521
+        },
+        {
+          "aspect": "audio",
+          "delta": 0.3487985422770079,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.014405
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "battery",
+          "contribution_pct": 36.717472076416016
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 27.441251754760742
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 13.983264923095703
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 10.577109336853027
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 9.277968406677246
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 1.1200060844421387
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.8685212731361389
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.014405380003154278
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Great phone! Minor downsides, lots of upsides.. Overall I love my Pixel 3a! I've had it for almost a whole year and there are a lot of things I love about it. The fingerprint reader works great, the camera is awesome (my favorite feature) and the screen resolution is really nice. The 3a has a gyroscope so you can download a compass app and it will work, and you can view YouTube 360 videos. GPS...",
+          "aspect": "software",
+          "sentiment": 0.6702080154791474,
+          "stars": 5,
+          "month": "2021-02"
+        },
+        {
+          "text": "Absolutely love this phone!. Pro's: price, camera, latest android OS system with all the latest upgrades immediately. Con's: sometimes, on rare occasions its buggy and will act strange, but if you do a restart, its great for another month. I've been using this phone for well over a year! For the most part I give it an A+. Why anyone would pay $500-900 for a phone I just don't get when you can get...",
+          "aspect": "software",
+          "sentiment": 0.9975731704034843,
+          "stars": 5,
+          "month": "2021-02"
+        },
+        {
+          "text": "Great phone... IF the speakerphone works(known issue of this phone)!!!. Awesome camera for sure. Software is fairly nice, yet Google Pixel phones still may need some modifications to bring some excellent features that are sadly missing(such as delayed text, removal of Google bar, back/home/recents non-customizable by deafult, and most importantly NOTIFICATION LIGHT! is missing so a workaround is...",
+          "aspect": "battery",
+          "sentiment": 0.9839106437284499,
+          "stars": 4,
+          "month": "2021-02"
+        },
+        {
+          "text": "Great cell phone, one of the best Ive ever had. Overall great, and great battery life.",
+          "aspect": "battery",
+          "sentiment": 0.9984879692492541,
+          "stars": 5,
+          "month": "2021-03"
+        },
+        {
+          "text": "It's OK so far. Phone generally runs pretty smoothly, and seems to have a lot of storage (a lot more than my old phone, anyways). My main gripe is that the overlay menu functions weirdly. When it's supposed to disappear completely, it often just hangs out at the edges of the screen. Or it will just stay and not disappear, every once in a while. Also, the OS will make the screen less bright at...",
+          "aspect": "charging",
+          "sentiment": -0.0129852001555264,
+          "stars": 3,
+          "month": "2021-03"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "month": "2019-05-01",
+      "aspects": {
+        "audio": -0.2570630419504596,
+        "battery": 0.669517140420794,
+        "build": 0.2144544433322153,
+        "camera": 0.8353261376677048,
+        "charging": -0.2306269624645615,
+        "connectivity": 0.24759249194175936,
+        "display": 0.6144739051233046,
+        "performance": 0.854866421503671,
+        "software": 0.3346506304757592
+      }
+    },
+    {
+      "month": "2019-06-01",
+      "aspects": {
+        "audio": 0.2822913159488962,
+        "battery": 0.6180875979644833,
+        "build": -0.18484141211229144,
+        "camera": 0.8530453930772722,
+        "charging": 0.21668284786574077,
+        "connectivity": 0.2786435855581658,
+        "display": 0.5396936287704323,
+        "performance": 0.4748589241025911,
+        "software": 0.6942427864114507
+      }
+    },
+    {
+      "month": "2019-07-01",
+      "aspects": {
+        "audio": 0.0687020711796192,
+        "battery": 0.3012628947437909,
+        "build": 0.46312174391984146,
+        "camera": 0.704944748762955,
+        "charging": 0.2098553803510225,
+        "connectivity": -0.3029082125957267,
+        "display": 0.2079575249852496,
+        "performance": 0.4514293442541537,
+        "software": 0.4179065739735961
+      }
+    },
+    {
+      "month": "2019-08-01",
+      "aspects": {
+        "audio": 0.09120879074422798,
+        "battery": 0.6542324113600587,
+        "build": 0.3443314721131601,
+        "camera": 0.7373996243576451,
+        "charging": -0.2753090152135966,
+        "connectivity": 0.1938676757272333,
+        "display": 0.42547043302329257,
+        "performance": 0.4829120438859236,
+        "software": 0.5404194601260651
+      }
+    },
+    {
+      "month": "2019-09-01",
+      "aspects": {
+        "audio": -0.12419385862553359,
+        "battery": 0.6545388461858642,
+        "build": 0.3246942804835271,
+        "camera": 0.8181851256010828,
+        "charging": -0.4848273269362835,
+        "connectivity": 0.1477011669012427,
+        "display": 0.3557396181802134,
+        "performance": 0.545313058551983,
+        "software": 0.46246404080593495
+      }
+    },
+    {
+      "month": "2019-10-01",
+      "aspects": {
+        "audio": -0.7205959034451682,
+        "battery": 0.26630884266245025,
+        "build": -0.03310484987741802,
+        "camera": 0.8270770959859488,
+        "charging": 0.2390137985930778,
+        "connectivity": -0.1365887438878417,
+        "display": -0.01948749061005495,
+        "performance": 0.4888042041930021,
+        "software": 0.46447593621269334
+      }
+    },
+    {
+      "month": "2019-11-01",
+      "aspects": {
+        "audio": 0.08564940477001735,
+        "battery": 0.34092438006983783,
+        "build": 0.5013128888545907,
+        "camera": 0.7906586412792996,
+        "charging": 0.24558236578886863,
+        "connectivity": -0.5207658078907116,
+        "display": 0.5063507698678222,
+        "performance": 0.6226069624741891,
+        "software": 0.3501079023699276
+      }
+    },
+    {
+      "month": "2019-12-01",
+      "aspects": {
+        "audio": -0.2844671033451269,
+        "battery": 0.38589679023042617,
+        "build": 0.16322255796209598,
+        "camera": 0.7664982416368926,
+        "charging": -0.24717486422129073,
+        "connectivity": -0.21645039588329382,
+        "display": 0.05205673559939896,
+        "performance": 0.4723339312913595,
+        "software": 0.3067868287413755
+      }
+    },
+    {
+      "month": "2020-01-01",
+      "aspects": {
+        "audio": -0.25153174386509963,
+        "battery": 0.7086539375616172,
+        "build": 0.4284376385878525,
+        "camera": 0.7566912410063914,
+        "charging": -0.008099023980321363,
+        "connectivity": -0.02104065650524313,
+        "display": 0.32605673176951844,
+        "performance": 0.46652642985758247,
+        "software": 0.4821590850120248
+      }
+    },
+    {
+      "month": "2020-02-01",
+      "aspects": {
+        "audio": -0.46760339602129536,
+        "battery": 0.5030217224332006,
+        "build": 0.1994968478787033,
+        "camera": 0.8060058306209319,
+        "charging": -0.46910459688580075,
+        "connectivity": 0.030966635240474716,
+        "display": 0.09877399986597833,
+        "performance": 0.6793395209521501,
+        "software": 0.39855133749105415
+      }
+    },
+    {
+      "month": "2020-03-01",
+      "aspects": {
+        "audio": -0.5082992702417591,
+        "battery": 0.5309039799490165,
+        "build": 0.34030930388793684,
+        "camera": 0.7425711992737457,
+        "charging": -0.9258419008401688,
+        "connectivity": 0.4445884814951569,
+        "display": -0.1292904010376386,
+        "performance": 0.36571455435801503,
+        "software": 0.3716991171859263
+      }
+    },
+    {
+      "month": "2020-04-01",
+      "aspects": {
+        "audio": -0.6306178978884418,
+        "battery": 0.6938675382161119,
+        "build": -0.01807821546390187,
+        "camera": 0.6156361717750832,
+        "charging": -0.2941516064456664,
+        "connectivity": -0.36116259356494995,
+        "display": -0.1340150248117211,
+        "performance": 0.46408915973941994,
+        "software": 0.15208451061249328
+      }
+    },
+    {
+      "month": "2020-05-01",
+      "aspects": {
+        "audio": -0.48353163612409844,
+        "battery": 0.4306731268604237,
+        "build": 0.12883309845346957,
+        "camera": 0.8203802348778118,
+        "charging": -0.14108831074554473,
+        "connectivity": 0.31988088579964824,
+        "display": 0.1611683913424713,
+        "performance": 0.3221678608788352,
+        "software": -0.040380244555611476
+      }
+    },
+    {
+      "month": "2020-06-01",
+      "aspects": {
+        "audio": -0.7886707060582315,
+        "battery": 0.3046706783241548,
+        "build": 0.21644433550536632,
+        "camera": 0.4044458261036198,
+        "charging": -0.16748768339877845,
+        "connectivity": -0.6738474170560949,
+        "display": -0.0405585345281946,
+        "performance": 0.4099838811553127,
+        "software": -0.04109108340162493
+      }
+    },
+    {
+      "month": "2020-07-01",
+      "aspects": {
+        "audio": -0.24473165914449574,
+        "battery": 0.2600864694965172,
+        "build": 0.26849696262400935,
+        "camera": 0.6805974255540475,
+        "charging": -0.0725343671850472,
+        "connectivity": -0.2997435086232144,
+        "display": -0.04021541280203762,
+        "performance": 0.5258068647037196,
+        "software": 0.2761838338734709
+      }
+    },
+    {
+      "month": "2020-08-01",
+      "aspects": {
+        "audio": -0.6790129677891465,
+        "battery": 0.4152989005446822,
+        "build": 0.009674408856274871,
+        "camera": 0.8058000133039767,
+        "charging": -0.6330183091107756,
+        "connectivity": -0.3774616221897304,
+        "display": -0.061942705779354304,
+        "performance": -0.02771377970606813,
+        "software": 0.19606945073974202
+      }
+    },
+    {
+      "month": "2020-09-01",
+      "aspects": {
+        "audio": -0.368670060288423,
+        "battery": 0.5007942750409711,
+        "build": -0.327392352046445,
+        "camera": 0.9961012718995335,
+        "charging": -0.8431349582388066,
+        "connectivity": -0.23332401415973436,
+        "display": 0.04352781443158164,
+        "performance": 0.2425262706480377,
+        "software": 0.36040513969159554
+      }
+    },
+    {
+      "month": "2020-10-01",
+      "aspects": {
+        "battery": 0.305717548551911,
+        "camera": 0.3346127330708744,
+        "charging": -0.8558539748191833,
+        "connectivity": -0.8448650939390063,
+        "display": -0.32225222817699734,
+        "performance": -0.6390434318454936,
+        "software": -0.6454452705569566
+      }
+    },
+    {
+      "month": "2020-11-01",
+      "aspects": {
+        "audio": -0.9852963214507326,
+        "battery": -0.36088624969124794,
+        "camera": 0.3362490334645069,
+        "charging": -0.9852484359871596,
+        "display": -0.6503938136156648,
+        "performance": 0.8738626278936863,
+        "software": -0.14821071061305702
+      }
+    },
+    {
+      "month": "2020-12-01",
+      "aspects": {
+        "audio": -0.9744187855394557,
+        "battery": -0.9332528403901961,
+        "camera": 0.9027863158844411,
+        "charging": -0.9644586583017372,
+        "connectivity": -0.8732649756129831,
+        "display": 0.05561013659462333,
+        "performance": -0.49593870093425113,
+        "software": -0.9774454043557247
+      }
+    },
+    {
+      "month": "2021-01-01",
+      "aspects": {
+        "audio": -0.9854535185731947,
+        "battery": 0.9349606246687472,
+        "build": -0.9782117544673383,
+        "camera": 0.9970785808206225,
+        "charging": -0.9851672379299998,
+        "connectivity": -0.7385142926359549,
+        "display": -0.5537554939898351
+      }
+    },
+    {
+      "month": "2021-02-01",
+      "aspects": {
+        "audio": -0.02069197690191989,
+        "battery": 0.33424280360122793,
+        "build": -0.9888376640155911,
+        "camera": 0.4073981030465802,
+        "charging": 0.31232800998259336,
+        "connectivity": 0.34342576550746645,
+        "display": -0.034195750091125125,
+        "performance": 0.702757309351,
+        "software": 0.31025622110852663
+      }
+    },
+    {
+      "month": "2021-03-01",
+      "aspects": {
+        "audio": -0.8870315381791443,
+        "battery": 0.5033862233321997,
+        "build": -0.9517086599953473,
+        "camera": 0.9973158871434862,
+        "charging": -0.0129852001555264,
+        "display": -0.655051245354116,
+        "performance": -0.3065019111769895,
+        "software": 0.9819165482185781
+      }
+    },
+    {
+      "month": "2021-04-01",
+      "aspects": {
+        "battery": -0.987093660980463,
+        "charging": -0.3521426140796393
+      }
+    },
+    {
+      "month": "2021-05-01",
+      "aspects": {
+        "audio": -0.776048582047224,
+        "battery": 0.306359751150012,
+        "build": 0.39041805267333984,
+        "camera": 0.3264935649931431,
+        "display": 0.05298131750896573,
+        "performance": 0.9880210878327489,
+        "software": -0.9871055602561682
+      }
+    },
+    {
+      "month": "2021-06-01",
+      "aspects": {
+        "battery": 0.9353560137751629,
+        "camera": 0.9977100956020877,
+        "connectivity": -0.4034859770908952,
+        "display": 0.004002608242444694
+      }
+    },
+    {
+      "month": "2021-07-01",
+      "aspects": {
+        "battery": 0.011394766333978623,
+        "camera": 0.9982081146154087,
+        "charging": 0.015217124717310071,
+        "display": 0.9915816243737936,
+        "performance": 0.23559165462696305,
+        "software": -0.3731390588800423
+      }
+    },
+    {
+      "month": "2021-08-01",
+      "aspects": {
+        "battery": -0.8521474823355675,
+        "camera": 0.9982050816179253,
+        "charging": 0.7473141476511955,
+        "connectivity": -0.7807204812997952,
+        "display": -0.8997241300530732
+      }
+    },
+    {
+      "month": "2021-09-01",
+      "aspects": {
+        "audio": 0.6469510495662689,
+        "battery": 0.10203281044960022,
+        "camera": 0.9872707223985344,
+        "display": -0.982936424901709,
+        "software": -0.020309772284235805
+      }
+    },
+    {
+      "month": "2021-10-01",
+      "aspects": {
+        "audio": 0.5583832561969757,
+        "battery": -0.03895940794609487,
+        "build": -0.4351215958595276,
+        "camera": 0.972211339045316,
+        "performance": 0.6046357534069102,
+        "software": -0.9782871333882213
+      }
+    },
+    {
+      "month": "2021-11-01",
+      "aspects": {
+        "battery": 0.9984173178527271,
+        "camera": 0.9643618185073137,
+        "performance": 0.9980678846477531,
+        "software": -0.4632447671610862
+      }
+    },
+    {
+      "month": "2021-12-01",
+      "aspects": {
+        "audio": -0.4336321852169931,
+        "battery": 0.3348714477518418,
+        "build": 0.9906539742078166,
+        "camera": 0.9944765675500093,
+        "connectivity": 0.777504307217896,
+        "display": 0.9963498607976362,
+        "performance": 0.9868067010538653,
+        "software": 0.37632961268536747
+      }
+    },
+    {
+      "month": "2022-01-01",
+      "aspects": {
+        "connectivity": -0.9821534776128829,
+        "software": 0.9658591896295547
+      }
+    },
+    {
+      "month": "2022-02-01",
+      "aspects": {
+        "camera": 0.9977219012507703
+      }
+    },
+    {
+      "month": "2022-03-01",
+      "aspects": {
+        "battery": -0.6617024095418552,
+        "camera": 0.9966583997302223
+      }
+    },
+    {
+      "month": "2022-04-01",
+      "aspects": {
+        "audio": -0.9850429189391434,
+        "battery": -0.3217324335758652,
+        "camera": 0.997430422634352,
+        "charging": 0.7756269089877605,
+        "connectivity": -0.02563378866761923,
+        "display": -0.03183054265294535,
+        "software": 0.8865202590823174
+      }
+    },
+    {
+      "month": "2022-05-01",
+      "aspects": {
+        "audio": 0.9977120436378755,
+        "battery": 0.9958815024001524,
+        "build": -0.7453836987260729,
+        "camera": 0.9388922888829256,
+        "charging": -0.8771770354360342,
+        "display": 0.9525638530030847,
+        "performance": 0.8507530130445957,
+        "software": -0.5762733723968267
+      }
+    },
+    {
+      "month": "2022-06-01",
+      "aspects": {
+        "audio": 0.9983334710705094,
+        "battery": -0.7063042729472121,
+        "camera": 0.9858477548696101,
+        "display": 0.3361126983751698,
+        "performance": -0.885010551661253
+      }
+    },
+    {
+      "month": "2022-07-01",
+      "aspects": {
+        "battery": -0.011275694783156117,
+        "camera": 0.9982724630390294,
+        "display": 0.996358375181444,
+        "performance": -0.973964742384851,
+        "software": 0.008359210565686226
+      }
+    },
+    {
+      "month": "2022-08-01",
+      "aspects": {
+        "software": -0.2473166431300342
+      }
+    },
+    {
+      "month": "2022-09-01",
+      "aspects": {
+        "audio": 0.48542973678559065,
+        "battery": 0.007733866252237931,
+        "charging": -0.6743091959506273,
+        "connectivity": 0.9891586084850132,
+        "display": -0.8198741870000958,
+        "performance": -0.6025455892086029,
+        "software": 0.9963113572448492
+      }
+    },
+    {
+      "month": "2022-10-01",
+      "aspects": {
+        "charging": -0.9895474789664149,
+        "display": -0.42247262597084045
+      }
+    },
+    {
+      "month": "2022-11-01",
+      "aspects": {
+        "audio": -0.9804476145654917
+      }
+    },
+    {
+      "month": "2022-12-01",
+      "aspects": {
+        "audio": -0.9830769812688231,
+        "camera": 0.9850914236158133,
+        "display": -0.0193880801089108,
+        "software": 0.480552613735199
+      }
+    },
+    {
+      "month": "2023-01-01",
+      "aspects": {
+        "audio": -0.9884841899620369,
+        "battery": 0.4124096168598044,
+        "build": -0.9738184695597738,
+        "camera": -0.07511385041289032,
+        "connectivity": -0.40182309768473107,
+        "display": -0.1621062426129356,
+        "performance": -0.6054258113726974,
+        "software": -0.7299012974835932
+      }
+    },
+    {
+      "month": "2023-02-01",
+      "aspects": {
+        "audio": 0.10823001340031624,
+        "charging": 0.041893959045410156,
+        "connectivity": 0.07282498030690476,
+        "performance": 0.13432081881910563,
+        "software": 0.4490069017629139
+      }
+    },
+    {
+      "month": "2023-03-01",
+      "aspects": {
+        "camera": -0.29556436371058226,
+        "display": -0.989856174448505,
+        "performance": 0.9156207346823066,
+        "software": 0.11878354288637638
+      }
+    },
+    {
+      "month": "2023-04-01",
+      "aspects": {
+        "camera": 0.7076646275818348,
+        "software": 0.8928018249571323
+      }
+    },
+    {
+      "month": "2023-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2023-06-01",
+      "aspects": {}
+    },
+    {
+      "month": "2023-07-01",
+      "aspects": {}
+    }
+  ],
+  "action_items": [
+    {
+      "aspect": "camera",
+      "severity": 1.1704305306775495,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    },
+    {
+      "aspect": "software",
+      "severity": 0.8107357462868094,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    },
+    {
+      "aspect": "build",
+      "severity": 0.6561323571950197,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    },
+    {
+      "aspect": "charging",
+      "severity": 0.6037323364501828,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "performance",
+      "severity": 0.3851329840894482,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    }
+  ]
+}

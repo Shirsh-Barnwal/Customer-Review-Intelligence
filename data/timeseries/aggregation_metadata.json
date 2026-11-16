@@ -1,0 +1,30 @@
+{
+  "phase": "Phase 2 - Temporal Aggregation",
+  "date": "2026-04-13T16:35:41.084467",
+  "k_shrinkage": 5,
+  "mad_floor": 0.1,
+  "min_months_phase3": 24,
+  "n_products_eligible": 335,
+  "n_products_total": 338,
+  "n_aspects": 9,
+  "canonical_aspects": [
+    "audio",
+    "battery",
+    "build",
+    "camera",
+    "charging",
+    "connectivity",
+    "display",
+    "performance",
+    "software"
+  ],
+  "case_study_asins": [
+    "B019BX7F86",
+    "B07HD2X91Q",
+    "B0178GE72K",
+    "B0178GE4FU",
+    "B00OL4DEMC"
+  ],
+  "control_asin": "B01MPXRXR0",
+  "source_model": "pyabsa_apc"
+}

@@ -1,0 +1,1847 @@
+{
+  "parent_asin": "B086RM3DQS",
+  "product_name": "Apple iPhone 8",
+  "n_events": 8,
+  "events": [
+    {
+      "event_month": "2019-05-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "connectivity",
+          "delta": 1.092948240909512,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 3.366026
+        },
+        {
+          "aspect": "camera",
+          "delta": 0.6247558515945759,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 0.099595
+        },
+        {
+          "aspect": "audio",
+          "delta": -0.46977502240123514,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 0.101201
+        },
+        {
+          "aspect": "build",
+          "delta": -0.3476664920146706,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 49.116219
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.22740740713278573,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 3.806242
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "build",
+          "contribution_pct": 49.11621856689453
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 27.199262619018555
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 14.464704513549805
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 3.806241512298584
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 3.366025924682617
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 1.2334051132202148
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.6133413910865784
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.10120080411434174
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.09959476441144943
+        }
+      ],
+      "agreement": "none",
+      "quotes": [
+        {
+          "text": "Flawless Condition and Working Perfectly. I purchased this iphone 8 as a upgrade from my iphone 6 on a Verizon prepaid service. The phone was received in two days with Amazon Prime and it was excellent condition, I could not tell the difference between it and a new phone, there were not any scuffs or scratches on the phone at all and I received a space gray one. I was able to transfer all my...",
+          "aspect": "connectivity",
+          "sentiment": 0.04226422682404518,
+          "stars": 5,
+          "month": "2019-07"
+        },
+        {
+          "text": "Works great for me - Verizon in LA. I've heard mixed reviews from Verizon on these refurbished phones and especially in Los Angeles, where Verizon seems to be the only one with the least amount of dead zones- I was unwilling to switch carriers. This has worked great. No reception problems - I only had one issue with it connecting via Bluetooth with my car but it worked out after I took it to the...",
+          "aspect": "connectivity",
+          "sentiment": 0.9943224100861698,
+          "stars": 5,
+          "month": "2019-07"
+        },
+        {
+          "text": "Good but an issue. Overall this product was very well working! No visible scratches on my phone and upon arrival the battery health was at 96%, however the shutter noise for the camera will not turn off leading me to believe that this product originated from another country.",
+          "aspect": "camera",
+          "sentiment": -0.5155319692566991,
+          "stars": 3,
+          "month": "2019-06"
+        },
+        {
+          "text": "Great. Fantastic camera! Terrific pictures I can take with this! I have had no problems buying from the seller any of the phones I\u2019ve purchased from them. I even returned one that was not compatible and got a complete refund",
+          "aspect": "camera",
+          "sentiment": 0.9986021894728765,
+          "stars": 5,
+          "month": "2019-07"
+        },
+        {
+          "text": "Trouble hearing. Have trouble with the speaker",
+          "aspect": "audio",
+          "sentiment": -0.9812485645525157,
+          "stars": 3,
+          "month": "2019-07"
+        },
+        {
+          "text": "Microphone issues during calls. Half of my calls are muffled and people cannot hear me talking.",
+          "aspect": "audio",
+          "sentiment": -0.9885630139615387,
+          "stars": 1,
+          "month": "2019-07"
+        }
+      ]
+    },
+    {
+      "event_month": "2019-09-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "camera",
+          "delta": -0.4726088852605447,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 2.115395
+        },
+        {
+          "aspect": "build",
+          "delta": -0.39342614467230824,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.962714
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.38241432392209784,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 4.437441
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.31009891684733243,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 11.357013
+        },
+        {
+          "aspect": "audio",
+          "delta": -0.20881628857808648,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.903749
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 41.51268005371094
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 36.25542449951172
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 11.357012748718262
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 4.437441349029541
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 2.368879795074463
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 2.1153953075408936
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.9627135396003723
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 0.9037487506866455
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 0.0866977870464325
+        }
+      ],
+      "agreement": "none",
+      "quotes": [
+        {
+          "text": "International phones for sure. My son and I purchased 2 phones. The phones do indeed work, but some things we're not thrilled with. The battery of one phone doesn't charge to 100%. That's a bit of a bummer as refurbished should indeed charge to the full 100%. We also confirmed that these are international phones where certain functional aspects of iPhones of the United States don't work. That was...",
+          "aspect": "camera",
+          "sentiment": -0.9314952809363604,
+          "stars": 4,
+          "month": "2019-11"
+        },
+        {
+          "text": "Don\u2019t like the camera. Not happy with iPhone 8. I should of ordered the 8 plus.",
+          "aspect": "camera",
+          "sentiment": -0.9876367000397295,
+          "stars": 1,
+          "month": "2019-11"
+        },
+        {
+          "text": "Slightly defective. Whenever my phone breaks, I usually buy a replacement from someone on craigslist - I thought this would be a safer bet. Unfortunately seems not to be the case. Probably won't buy from this source again. I've had it for just a few days. The first day I used it, it kept shutting down at 25% battery (1 app open). On day 2, the thumbprint recognition stopped working. The edges of...",
+          "aspect": "build",
+          "sentiment": -0.25859639421105385,
+          "stars": 3,
+          "month": "2019-11"
+        },
+        {
+          "text": "Scratched, nicks on edges of glass, battery capacity only 90%. I'm very disappointed with the phone I received. There are visible scratches all over the back of it, there are nicks along the edges of the glass and the battery capacity is only at 90%. I will be returning this phone.",
+          "aspect": "build",
+          "sentiment": -0.9870677696308121,
+          "stars": 2,
+          "month": "2019-09"
+        },
+        {
+          "text": "Great value for like new phone. Nothing about this phone seems used. Extremely pleased with the appearance, quality and price. This \u2018used\u2019 phone had 4x the memory at a much lower price than the Apple Store store. Be smart and save your money. The phone came with an Apple charger and cube. Did not include the headphones but NBD.",
+          "aspect": "performance",
+          "sentiment": 0.883881381014362,
+          "stars": 5,
+          "month": "2019-11"
+        },
+        {
+          "text": "iphone 8 does the job. i love that amazon (or whoever they sub this out to) gave a warranty, that was one of the main reasons i purchased. Plus cost was cheaper than Best Buy. Not sure if this has to do w the phone, but my email is slow to load. I also dont like the fact that i cant plug normal headset in without adapter, but that is apples issue. Overall the phone was a good decision to purchase...",
+          "aspect": "performance",
+          "sentiment": -0.9907727397512645,
+          "stars": 4,
+          "month": "2019-11"
+        }
+      ]
+    },
+    {
+      "event_month": "2022-06-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "build",
+          "delta": -0.8326567102695762,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 2.484162
+        },
+        {
+          "aspect": "camera",
+          "delta": 0.6515139121067477,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 28.897699
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.2511246657574601,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 38.207748
+        },
+        {
+          "aspect": "display",
+          "delta": 0.2261686280783835,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 2.609892
+        },
+        {
+          "aspect": "software",
+          "delta": 0.18749025980165848,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.069805
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "performance",
+          "contribution_pct": 38.20774841308594
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 28.8976993560791
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 10.717996597290039
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 10.670623779296875
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 6.308480262756348
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 2.609891891479492
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 2.484161853790283
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.06980457901954651
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.03359108790755272
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Overall it's Worth it. Well for starters, I must say that I was surprised by the fact that I actually got a free screen protector with my device so thanks a lot for that. Despite its reality, the phone does come as if new, just not in an official apple box. You get a third-party charger so I suggested you invest in an original asap and overall everything does work as promised. However, it does...",
+          "aspect": "build",
+          "sentiment": -0.9852812869939953,
+          "stars": 4,
+          "month": "2022-08"
+        },
+        {
+          "text": "Beware. Do not purchase refurbished/renewed iPhones from Amazon or this vendor. I purchased this iPhone 8 for my son, last December. The phone started having problems in March, as it would not charge fully and would just shutdown at random times. By late May, the phone would no longer charge or turn on. I took it to the Apple Store, and after running a diagnostic, they determined that it no...",
+          "aspect": "build",
+          "sentiment": -0.9924648320302367,
+          "stars": 1,
+          "month": "2022-06"
+        },
+        {
+          "text": "Camera lens has glue on it.. All is well with the ph. except the camera lens It has a glue on the lens which distort the pics. Have tried to remove it with no luck.",
+          "aspect": "camera",
+          "sentiment": 0.13745497167110443,
+          "stars": 3,
+          "month": "2022-08"
+        },
+        {
+          "text": "Exactly like new. Refurbished from seller iBlueberry in exactly like new condition, good battery, camera, performance, no scratches or screen problems",
+          "aspect": "camera",
+          "sentiment": 0.9984776111668907,
+          "stars": 5,
+          "month": "2022-08"
+        },
+        {
+          "text": "Fast delivery. Phone works great. Thanks so very much. Fast delivery. Phone works great",
+          "aspect": "performance",
+          "sentiment": 0.8405364854261279,
+          "stars": 5,
+          "month": "2022-07"
+        },
+        {
+          "text": "Poor quality and not a true refurbished.. The phone battery performance is not optimAl. I accidentally dropped the phone and the front screen damaged, so I took it to a repair center for screen replacement and that\u2019s when we noticed there were several screws inside the phone are missing. The phone is not useless.",
+          "aspect": "performance",
+          "sentiment": -0.9899319175165147,
+          "stars": 3,
+          "month": "2022-08"
+        }
+      ]
+    },
+    {
+      "event_month": "2022-12-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "display",
+          "delta": 0.4245346967594272,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 4.318017
+        },
+        {
+          "aspect": "connectivity",
+          "delta": 0.31989842883841546,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 3.825386
+        },
+        {
+          "aspect": "build",
+          "delta": 0.29922358707941993,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.496883
+        },
+        {
+          "aspect": "camera",
+          "delta": 0.11941360035208554,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 6.295103
+        },
+        {
+          "aspect": "charging",
+          "delta": -0.08368963345525454,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 10.24668
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "performance",
+          "contribution_pct": 38.87290573120117
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 31.632801055908203
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 10.24668025970459
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 6.295103073120117
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 4.318016529083252
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 3.825385570526123
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 2.503089666366577
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 1.8091331720352173
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.4968830347061157
+        }
+      ],
+      "agreement": "none",
+      "quotes": [
+        {
+          "text": "I bought an 8. Some will come with a screen protector already placed, and others will not. I found this out the hard way.",
+          "aspect": "display",
+          "sentiment": 0.004069473594427109,
+          "stars": 5,
+          "month": "2022-12"
+        },
+        {
+          "text": "Works Great so Far. I just did a restore to this phone from my old phone. I'm very happy so far. The screen is very responsive and the phone doesn't lag when I tap an icon.",
+          "aspect": "display",
+          "sentiment": 0.9986226643668488,
+          "stars": 5,
+          "month": "2023-02"
+        },
+        {
+          "text": "Umm, initial thought\u2026\u2026wow!. Just came in the mail. Going to be for my son and daughter. Appears to be working on WiFi with no initial indications of blemishes. Cord and plug are not Apple, but are working. I will update review once I install SIMs.",
+          "aspect": "connectivity",
+          "sentiment": 0.24620802234858274,
+          "stars": 5,
+          "month": "2023-01"
+        },
+        {
+          "text": "Phone is fine, can't connect to service provider. I bought this as a trap phone since my parents took my other one and I was so worried that the phone was gonna be trashy because I looked through the reviews a little more AFTER I bought it, on top of that I bought it at acceptable condition. But it's perfectly fine. In the box: 2 invoice sheets, an Amazon renewed card, 3ft charger with a base...",
+          "aspect": "connectivity",
+          "sentiment": 0.9885224842000753,
+          "stars": 4,
+          "month": "2023-02"
+        },
+        {
+          "text": "Very Happy!. I bought this because my old iphone7 bit the dust. I got the iPhone 8 256g for a great price from this seller. It works well and arrived in good condition. I did have a shipping issue, it was delivered to the wrong address and I got real worried wondering if it was lost. The seller really had my back in this regard, which impressed me much. They were very responsive and diligent in...",
+          "aspect": "build",
+          "sentiment": 0.0028486698865890503,
+          "stars": 5,
+          "month": "2023-02"
+        },
+        {
+          "text": "The phone is great, but.... The phone is great, except for the health of the battery (83% only), and for the fact that two of the accessories they sent me were broken. On the upside, the screen and the metal casing have no scratches, they look like new. I'll definitely keep it (I was afraid I might have to return it).",
+          "aspect": "build",
+          "sentiment": 0.9649892651941627,
+          "stars": 1,
+          "month": "2023-02"
+        }
+      ]
+    },
+    {
+      "event_month": "2023-04-01",
+      "detector": "CUSUM",
+      "top_aspects": [
+        {
+          "aspect": "audio",
+          "delta": 1.3083163435674376,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 2.308769
+        },
+        {
+          "aspect": "build",
+          "delta": -1.0632635600280387,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 16.268854
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.5339047413823815,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 6.621284
+        },
+        {
+          "aspect": "performance",
+          "delta": 0.33453128448050445,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 20.905382
+        },
+        {
+          "aspect": "battery",
+          "delta": 0.18299334978804316,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 2.458764
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "display",
+          "contribution_pct": 42.56521224975586
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 20.90538215637207
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 16.26885414123535
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 6.621284008026123
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 6.293337821960449
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 2.5658907890319824
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 2.458763599395752
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 2.3087692260742188
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.012508264742791653
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Has no port to plug a separate speaker into. Works fine",
+          "aspect": "audio",
+          "sentiment": 0.2210170542821288,
+          "stars": 4,
+          "month": "2023-06"
+        },
+        {
+          "text": "No visible cosmetic damage, near perfect condition. The device was well packaged and showed no apparent signs of physical damage. The battery can be charged until full. The device does get hot very quickly but cool down was also quick with just a screen shutdown. Volume, Camera was wonderful. Thought screeen would have been larger. Storage was lacking but not a great turn-off. Great buy.",
+          "aspect": "audio",
+          "sentiment": 0.99186413991265,
+          "stars": 5,
+          "month": "2023-06"
+        },
+        {
+          "text": "Ehh !!!. Everything is good except the small scratches on the glass and the battery seems to drain quicker then normal other then that is OK.",
+          "aspect": "build",
+          "sentiment": -0.9816111684776843,
+          "stars": 2,
+          "month": "2023-05"
+        },
+        {
+          "text": "Good price for 256GB iPhone. I don't really care for the iPhone 8. I don't like how are you talking to the phone compared to the iPhone 7 I had. I am pleased that it didn't work with my provider. I did not like the big plastic screen protector camera because it is hard for the phone two read your swipe's. It shipped immediately as soon as you bumped it on anything. Every single corner has chipped...",
+          "aspect": "build",
+          "sentiment": -0.9833723662886769,
+          "stars": 4,
+          "month": "2023-04"
+        },
+        {
+          "text": "Very Pleased. Phone came quickly. Works perfect, synced and loaded my old phone to it no problems. Didn't know it would come with a screen protector and charger (maybe it was in the info and I missed it) so I am very pleased with my purchase!",
+          "aspect": "charging",
+          "sentiment": 0.020125863142311573,
+          "stars": 5,
+          "month": "2023-04"
+        },
+        {
+          "text": "It works like a charm. It works great good battery life and it came with a charger, SIM card eject tool, oh yeah also came with a screen protector almost forgot lol. It\u2019s a great phone though and worth buying",
+          "aspect": "charging",
+          "sentiment": 0.7620443364139646,
+          "stars": 5,
+          "month": "2023-06"
+        }
+      ]
+    },
+    {
+      "event_month": "2021-10-01",
+      "detector": "PELT",
+      "top_aspects": [
+        {
+          "aspect": "software",
+          "delta": -0.5404172048415241,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 4.436106
+        },
+        {
+          "aspect": "charging",
+          "delta": 0.3826338422370417,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 16.038771
+        },
+        {
+          "aspect": "build",
+          "delta": -0.3442097377693345,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.0
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.3171054935414022,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 34.482887
+        },
+        {
+          "aspect": "battery",
+          "delta": -0.20365491458090537,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 0.120937
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "performance",
+          "contribution_pct": 34.482887268066406
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 30.665525436401367
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 16.03877067565918
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 5.818545818328857
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 4.989042282104492
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 4.436105728149414
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 3.448187828063965
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.12093748897314072
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Didn't work. Brought it down to AT&T and they set me up with a number and a SIM card. But the service once set up would drop in and out (no service). The AT&T rep. told me to charge it completely and download the latest software to see if that helps. Well it didn't.. To expedite the process of return and reorder I accepted an immediate replacement of the same phone. I'm waiting on it. Can't...",
+          "aspect": "software",
+          "sentiment": -0.09792492538690567,
+          "stars": 1,
+          "month": "2021-12"
+        },
+        {
+          "text": "Worth buying refurbished. I bought this iPhone in March of 2020. I had always been an iPhone user before, but decided to try a google pixel\u2026 I hated the android phone. I didn\u2019t want to break the bank on a brand new phone which at the time was the iPhone 11. I purchased the 8 because it was very reasonably priced, and I just wanted an iPhone again badly. I didn\u2019t know what to expect from a...",
+          "aspect": "software",
+          "sentiment": -0.9875735775567591,
+          "stars": 5,
+          "month": "2021-11"
+        },
+        {
+          "text": "A great buy for our needs. Phone works great. Had no problems with activation from the carrier. Excellent condition just a couple scratches. The pink charging code was unexpected :).",
+          "aspect": "charging",
+          "sentiment": 0.34823006950318813,
+          "stars": 5,
+          "month": "2021-11"
+        },
+        {
+          "text": "Great charging cable, USB adapter, and bubble wrap!. The charging cable, USB adapter, and bubble wrap in the package were top quality. Unfortunately, the iPhone was stolen somewhere between the shipper and our house, and the seller refuses to deal with the matter. But I've used the charger and cable several times on my other phones, and they work great!",
+          "aspect": "charging",
+          "sentiment": 0.9987999947770732,
+          "stars": 1,
+          "month": "2021-12"
+        },
+        {
+          "text": "Good 2nd Time Experience With 3rd Party Seller - Renewed iPhone 8, 256GB, Silver. Review - Apple iPhone 8, US Version, 256GB, Silver - Unlocked (Renewed) - Good Experience with Second Time Purchasing from Chosen 3rd Party Seller - Two years ago I purchased a used (\u201crenewed\u201d) iPhone from the same 3rd Party seller that provided this 256GB iPhone 8, with just as good an experience. In my experience,...",
+          "aspect": "build",
+          "sentiment": 0.4258524945471436,
+          "stars": 5,
+          "month": "2021-10"
+        },
+        {
+          "text": "Scratched, gouged, and edges caked with dirt. As soon as I saw the phone, I noticed something was off. The screen just didn't look or feel like it fit the phone. There was dirt/a dark substance caked between the edge of the screen and the frame all around the phone. There was a scratch/gouge over the front camera lens and a deeper gouge on the upper left side of the screen. The metal frame...",
+          "aspect": "build",
+          "sentiment": -0.8563656713813543,
+          "stars": 2,
+          "month": "2021-12"
+        }
+      ]
+    },
+    {
+      "event_month": "2022-08-01",
+      "detector": "LSTM-AE",
+      "top_aspects": [
+        {
+          "aspect": "camera",
+          "delta": 0.6284192350112356,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 81.095863
+        },
+        {
+          "aspect": "performance",
+          "delta": -0.4176529023776917,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 9.941736
+        },
+        {
+          "aspect": "build",
+          "delta": 0.2618750273419815,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.820782
+        },
+        {
+          "aspect": "audio",
+          "delta": 0.20894608036795104,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 2.395142
+        },
+        {
+          "aspect": "display",
+          "delta": 0.20849334739086656,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 5.548138
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "camera",
+          "contribution_pct": 81.09586334228516
+        },
+        {
+          "aspect": "performance",
+          "contribution_pct": 9.941736221313477
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 5.548137664794922
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 2.3951423168182373
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 0.8207817673683167
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 0.1501539945602417
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 0.03583807498216629
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 0.012339455075562
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 0.0
+        }
+      ],
+      "agreement": "strong",
+      "quotes": [
+        {
+          "text": "Phone screen. The refurbishing on this phone is terrible! I bought this phone 6 months ago or so and immediately noticed something was off, it seemed like the screen was rising up but Ignored it and assumed it was just a quirk of having a refurbished phone. About a month later I noticed the corners of the screen beginning to chip and after that a couple larger cracks appeared from the smallest...",
+          "aspect": "camera",
+          "sentiment": -0.574878899846226,
+          "stars": 1,
+          "month": "2022-10"
+        },
+        {
+          "text": "Exactly like new. Refurbished from seller iBlueberry in exactly like new condition, good battery, camera, performance, no scratches or screen problems",
+          "aspect": "camera",
+          "sentiment": 0.9984776111668907,
+          "stars": 5,
+          "month": "2022-08"
+        },
+        {
+          "text": "Good product. Good price.. Don\u2019t need a lot of bells and whistles but wanted more memory than I had on my IPhone 5. Got what a wanted for a good price.",
+          "aspect": "performance",
+          "sentiment": 0.1282559442333877,
+          "stars": 5,
+          "month": "2022-10"
+        },
+        {
+          "text": "Poor quality and not a true refurbished.. The phone battery performance is not optimAl. I accidentally dropped the phone and the front screen damaged, so I took it to a repair center for screen replacement and that\u2019s when we noticed there were several screws inside the phone are missing. The phone is not useless.",
+          "aspect": "performance",
+          "sentiment": -0.9899319175165147,
+          "stars": 3,
+          "month": "2022-08"
+        },
+        {
+          "text": "Very durable and arrived in pristine condition.. Was hesitant to upgrade my old SE, but I am very glad I did. Slightly bigger screen, larger gig capacity and seems to be stronger to connect to Wi-Fi and Bluetooth sites. Seems to have a faster processor and I like the wireless charging capability.",
+          "aspect": "build",
+          "sentiment": 0.9982633542094845,
+          "stars": 5,
+          "month": "2022-09"
+        }
+      ]
+    },
+    {
+      "event_month": "2023-03-01",
+      "detector": "LSTM-AE",
+      "top_aspects": [
+        {
+          "aspect": "connectivity",
+          "delta": -1.2737179859412007,
+          "direction": "deterioration",
+          "confidence": "low",
+          "recon_contrib": 6.505672
+        },
+        {
+          "aspect": "build",
+          "delta": -0.7720576019916432,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 16.35689
+        },
+        {
+          "aspect": "camera",
+          "delta": 0.4612066939874139,
+          "direction": "improvement",
+          "confidence": "high",
+          "recon_contrib": 0.020026
+        },
+        {
+          "aspect": "display",
+          "delta": -0.35775525063929514,
+          "direction": "deterioration",
+          "confidence": "high",
+          "recon_contrib": 28.768454
+        },
+        {
+          "aspect": "audio",
+          "delta": 0.27971830675637144,
+          "direction": "improvement",
+          "confidence": "low",
+          "recon_contrib": 2.704671
+        }
+      ],
+      "recon_breakdown": [
+        {
+          "aspect": "performance",
+          "contribution_pct": 35.140968322753906
+        },
+        {
+          "aspect": "display",
+          "contribution_pct": 28.76845359802246
+        },
+        {
+          "aspect": "build",
+          "contribution_pct": 16.356889724731445
+        },
+        {
+          "aspect": "connectivity",
+          "contribution_pct": 6.505672454833984
+        },
+        {
+          "aspect": "software",
+          "contribution_pct": 5.099428653717041
+        },
+        {
+          "aspect": "charging",
+          "contribution_pct": 3.6683850288391113
+        },
+        {
+          "aspect": "audio",
+          "contribution_pct": 2.7046713829040527
+        },
+        {
+          "aspect": "battery",
+          "contribution_pct": 1.7355058193206787
+        },
+        {
+          "aspect": "camera",
+          "contribution_pct": 0.02002622000873089
+        }
+      ],
+      "agreement": "partial",
+      "quotes": [
+        {
+          "text": "Sort of happy w it.. Worked okay for a few months then slowed down so much it almost had been thrown across the room. Most apps can\u2019t run because the processor I\u2019m guessing. It will try it but then close the app. Sometimes goes to a frozen screen and can\u2019t do anything until you do a hard reset. This was my first refurbished phone and not impressed. Even on 5g Wi-Fi it\u2019s slow. I know it\u2019s this...",
+          "aspect": "connectivity",
+          "sentiment": -0.9797757691703737,
+          "stars": 3,
+          "month": "2023-03"
+        },
+        {
+          "text": "Ehh !!!. Everything is good except the small scratches on the glass and the battery seems to drain quicker then normal other then that is OK.",
+          "aspect": "build",
+          "sentiment": -0.9816111684776843,
+          "stars": 2,
+          "month": "2023-05"
+        },
+        {
+          "text": "Good price for 256GB iPhone. I don't really care for the iPhone 8. I don't like how are you talking to the phone compared to the iPhone 7 I had. I am pleased that it didn't work with my provider. I did not like the big plastic screen protector camera because it is hard for the phone two read your swipe's. It shipped immediately as soon as you bumped it on anything. Every single corner has chipped...",
+          "aspect": "build",
+          "sentiment": -0.9833723662886769,
+          "stars": 4,
+          "month": "2023-04"
+        },
+        {
+          "text": "Nice quality. Loved it. Qualitative phone for its price.Works really well, camera is good. Overall good quality",
+          "aspect": "camera",
+          "sentiment": 0.998077674099477,
+          "stars": 3,
+          "month": "2023-04"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "month": "2018-02-01",
+      "aspects": {
+        "audio": -0.991801731986925,
+        "build": -0.9538637585937977,
+        "charging": -0.03179865702986717,
+        "performance": -0.019526971562299877
+      }
+    },
+    {
+      "month": "2018-03-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-04-01",
+      "aspects": {
+        "build": -0.636045053601265,
+        "charging": 0.2550233848160133,
+        "performance": -0.9854149376042187
+      }
+    },
+    {
+      "month": "2018-05-01",
+      "aspects": {}
+    },
+    {
+      "month": "2018-06-01",
+      "aspects": {
+        "audio": -0.9723132873186842,
+        "connectivity": -0.5128862336277962,
+        "software": 0.3540969304740429
+      }
+    },
+    {
+      "month": "2018-07-01",
+      "aspects": {
+        "audio": -0.1860552583821118,
+        "display": -0.8911589508643374,
+        "performance": -0.961131514981389
+      }
+    },
+    {
+      "month": "2018-08-01",
+      "aspects": {
+        "audio": 0.020131759578362107,
+        "charging": -0.19231258472427726,
+        "connectivity": -0.29289558238815516,
+        "display": -0.030732754501514137,
+        "software": 0.19989175163209438
+      }
+    },
+    {
+      "month": "2018-09-01",
+      "aspects": {
+        "audio": -0.9774645012803376,
+        "camera": -0.9683089663740247,
+        "charging": -0.984782395302318,
+        "software": 0.03912740247324109
+      }
+    },
+    {
+      "month": "2018-10-01",
+      "aspects": {
+        "audio": -0.9724124823696911,
+        "build": 0.12016308680176735,
+        "camera": -0.9556186310946941,
+        "charging": -0.6246296032331884,
+        "display": -0.45480551617220044,
+        "performance": -0.010310306213796139,
+        "software": -0.9919342232169583
+      }
+    },
+    {
+      "month": "2018-11-01",
+      "aspects": {
+        "battery": -0.0366077097132802,
+        "connectivity": 0.8293016254901886,
+        "display": 0.004004301204986405,
+        "performance": 0.9974576560198329,
+        "software": 0.9412561291828752
+      }
+    },
+    {
+      "month": "2018-12-01",
+      "aspects": {
+        "battery": -0.5499512859067182,
+        "charging": -0.9755589497702507,
+        "display": -0.034725179022643715,
+        "performance": -0.9323900782619603,
+        "software": -0.8297207211144269
+      }
+    },
+    {
+      "month": "2019-01-01",
+      "aspects": {
+        "audio": -0.9905848510097712,
+        "battery": -0.43435409711673856,
+        "charging": -0.959781426936388,
+        "display": 0.9238011945271865,
+        "performance": -0.9679203545674682,
+        "software": 0.3309687648434192
+      }
+    },
+    {
+      "month": "2019-02-01",
+      "aspects": {
+        "battery": 0.9269156668160576,
+        "charging": -0.14816929399967194,
+        "performance": 0.9964627479203045
+      }
+    },
+    {
+      "month": "2019-03-01",
+      "aspects": {
+        "audio": -0.11232767184264958,
+        "battery": 0.34765320302904,
+        "build": 0.5115007609128952,
+        "camera": -0.9722658261889592,
+        "charging": 0.726711381226778,
+        "connectivity": -0.9782471026992425,
+        "display": 0.2846642382792197,
+        "performance": 0.4099865863099694,
+        "software": -0.13208043947815895
+      }
+    },
+    {
+      "month": "2019-04-01",
+      "aspects": {
+        "battery": 0.5059168005500396,
+        "charging": -0.9750619693659246,
+        "connectivity": -0.9451575810089707,
+        "display": -0.5871509791759308,
+        "performance": 0.9934952672338113
+      }
+    },
+    {
+      "month": "2019-05-01",
+      "aspects": {
+        "audio": -0.9855899326503277,
+        "battery": 0.47490673954598606,
+        "build": 0.6850275297959646,
+        "camera": -0.8397357761859894,
+        "charging": -0.3309528714511544,
+        "connectivity": 0.4920260258950293,
+        "display": 0.3566448246794088,
+        "performance": 0.9523058753693476,
+        "software": 0.028639952070079744
+      }
+    },
+    {
+      "month": "2019-06-01",
+      "aspects": {
+        "audio": -0.2726958269267925,
+        "battery": 0.21415379330470127,
+        "build": 0.18362469082057942,
+        "camera": -0.2628468475304544,
+        "charging": -0.4485359315960003,
+        "connectivity": -0.4110459369549062,
+        "display": -0.29420977470484405,
+        "performance": 0.09902393315375473,
+        "software": 0.05083486710209399
+      }
+    },
+    {
+      "month": "2019-07-01",
+      "aspects": {
+        "audio": -0.4880223231545339,
+        "battery": 0.6805783858258759,
+        "build": -0.3771494139218703,
+        "camera": 0.06005269993329421,
+        "charging": 0.18874203907696277,
+        "connectivity": 0.312757608226093,
+        "display": -0.07767535352402112,
+        "performance": 0.6663925715426254,
+        "software": -0.5462000789896896
+      }
+    },
+    {
+      "month": "2019-08-01",
+      "aspects": {
+        "audio": -0.6447125385166146,
+        "battery": 0.30217481453367107,
+        "build": 0.1959086233317586,
+        "camera": 0.26589550011461444,
+        "charging": 0.13649851531954482,
+        "connectivity": -0.6193695981055498,
+        "display": 0.5816214818478329,
+        "performance": 0.7709418624484291,
+        "software": 0.34342958633205856
+      }
+    },
+    {
+      "month": "2019-09-01",
+      "aspects": {
+        "audio": -0.627548691019183,
+        "battery": 0.37475550825402026,
+        "build": -0.5187839397112839,
+        "camera": -0.19296683825086802,
+        "charging": 0.10586677107494324,
+        "connectivity": -0.844948848321413,
+        "display": 0.4033406607166398,
+        "performance": 0.847170527864364,
+        "software": 0.37031914194813
+      }
+    },
+    {
+      "month": "2019-10-01",
+      "aspects": {
+        "audio": -0.8320840468630195,
+        "battery": 0.12071134442833552,
+        "build": -0.9853567066602409,
+        "camera": -0.8565338293168073,
+        "charging": 0.056766211507945426,
+        "connectivity": -0.1797677870684614,
+        "display": 0.29279171623056754,
+        "performance": -0.8322985619306564,
+        "software": -0.4582402801606804
+      }
+    },
+    {
+      "month": "2019-11-01",
+      "aspects": {
+        "audio": -0.5722468164499982,
+        "battery": -0.22885660956010476,
+        "build": 0.32624611258506775,
+        "camera": -0.30522463569650427,
+        "charging": -0.2594865990336984,
+        "connectivity": -0.0745827304199338,
+        "display": -0.746317435366412,
+        "performance": 0.3742434294448079,
+        "software": -0.4180609512142837
+      }
+    },
+    {
+      "month": "2019-12-01",
+      "aspects": {
+        "audio": -0.8165258142463345,
+        "battery": -0.188375542407933,
+        "build": -0.6423521766555496,
+        "camera": -0.3191127489803226,
+        "charging": -0.1134687977610156,
+        "connectivity": 0.4036557322659064,
+        "display": -0.45372882830906747,
+        "performance": 0.48194029384467285,
+        "software": 0.17870847322046757
+      }
+    },
+    {
+      "month": "2020-01-01",
+      "aspects": {
+        "audio": -0.8165550194564275,
+        "battery": -0.04016676980439418,
+        "build": 0.3739816229790449,
+        "camera": -0.6927596430889227,
+        "charging": -0.24771547965938226,
+        "connectivity": 0.5062137193453964,
+        "display": -0.2950682384096301,
+        "performance": 0.5816119363254983,
+        "software": 0.1369430430466309
+      }
+    },
+    {
+      "month": "2020-02-01",
+      "aspects": {
+        "audio": -0.5844224349514532,
+        "battery": 0.11016988559692566,
+        "build": -0.15516346130364886,
+        "camera": -0.7157545478548855,
+        "charging": 0.1900391059541355,
+        "connectivity": -0.4526543051179033,
+        "display": -0.3788138795829251,
+        "performance": 0.44589617829317124,
+        "software": -0.0232659097891883
+      }
+    },
+    {
+      "month": "2020-03-01",
+      "aspects": {
+        "audio": -0.5334439002750018,
+        "battery": 0.15398200917302463,
+        "build": -0.12715953190086615,
+        "camera": -0.3375136115573696,
+        "charging": 0.06087014150530608,
+        "connectivity": -0.10501721062464639,
+        "display": -0.04626096674974178,
+        "performance": 0.3927902896442295,
+        "software": 0.15724063816014677
+      }
+    },
+    {
+      "month": "2020-04-01",
+      "aspects": {
+        "audio": -0.9762449879975369,
+        "battery": -0.08316176407313305,
+        "build": 0.5657761663242127,
+        "camera": -0.2667073255537876,
+        "charging": 0.23483563231171242,
+        "connectivity": 0.3544798858347349,
+        "display": 0.05413015054000425,
+        "performance": 0.696245354218263,
+        "software": -0.18645710900558957
+      }
+    },
+    {
+      "month": "2020-05-01",
+      "aspects": {
+        "audio": -0.9786210103775375,
+        "battery": 0.15961963107326516,
+        "build": 0.05809585144743323,
+        "camera": -0.21873974555961062,
+        "charging": -0.1919084500754252,
+        "connectivity": -0.5260602750931866,
+        "display": -0.21111192984099034,
+        "performance": 0.22466141349702543,
+        "software": 0.10437177287531085
+      }
+    },
+    {
+      "month": "2020-06-01",
+      "aspects": {
+        "audio": -0.37318985031119417,
+        "battery": 0.03768583979237721,
+        "build": 0.007460489578079432,
+        "camera": -0.17483193738007685,
+        "charging": -0.2784859256602691,
+        "connectivity": -0.20318842896570763,
+        "display": -0.2266020210214871,
+        "performance": 0.3817517992720241,
+        "software": 0.025754685571882874
+      }
+    },
+    {
+      "month": "2020-07-01",
+      "aspects": {
+        "audio": -0.11017215933861735,
+        "battery": -0.07100925910162914,
+        "build": 0.7934036210062914,
+        "camera": -0.0911393370188307,
+        "charging": -0.38094289489725436,
+        "connectivity": -0.3417005033988971,
+        "display": -0.12663796987776135,
+        "performance": 0.3636998740956187,
+        "software": -0.28251181247954565
+      }
+    },
+    {
+      "month": "2020-08-01",
+      "aspects": {
+        "audio": -0.9531152271831941,
+        "battery": 0.26569501117112604,
+        "build": 0.8153438746812753,
+        "camera": -0.34576523292344064,
+        "charging": 0.05553090625575611,
+        "connectivity": -0.41829143464565277,
+        "display": 0.1366037475047051,
+        "performance": 0.8990732477977872,
+        "software": 0.16924273843566576
+      }
+    },
+    {
+      "month": "2020-09-01",
+      "aspects": {
+        "audio": -0.6444021647198084,
+        "battery": -0.14949294029689295,
+        "build": -0.14428269690833986,
+        "camera": -0.3811128400765093,
+        "charging": -0.3973248256476257,
+        "connectivity": -0.2888104160083458,
+        "display": -0.09049152130527156,
+        "performance": 0.7345587934541982,
+        "software": 0.2689375726185972
+      }
+    },
+    {
+      "month": "2020-10-01",
+      "aspects": {
+        "audio": -0.8438900703797116,
+        "battery": -0.11879979795333423,
+        "build": -0.04000455878364543,
+        "camera": -0.1360828984408207,
+        "charging": -0.08238311039749532,
+        "connectivity": -0.26747764996252954,
+        "display": -0.2354930180268926,
+        "performance": 0.2228219104654272,
+        "software": -0.03163748730107078
+      }
+    },
+    {
+      "month": "2020-11-01",
+      "aspects": {
+        "audio": -0.573088811387101,
+        "battery": -0.20564145517554216,
+        "build": 0.07404787594956967,
+        "camera": -0.03665088224806823,
+        "charging": -0.21799468915336406,
+        "connectivity": -0.00477547774426057,
+        "display": -0.28004294364945964,
+        "performance": 0.19490970727305726,
+        "software": -0.13551761966664344
+      }
+    },
+    {
+      "month": "2020-12-01",
+      "aspects": {
+        "audio": -0.8616575130581623,
+        "battery": 0.027117198283251907,
+        "build": 0.4371611188980751,
+        "camera": -0.12249989502809265,
+        "charging": -0.5388842958103245,
+        "connectivity": -0.4238553752657026,
+        "display": -0.37900645678746514,
+        "performance": 0.38869902328811945,
+        "software": -0.16882985876873136
+      }
+    },
+    {
+      "month": "2021-01-01",
+      "aspects": {
+        "audio": -0.38857320798243483,
+        "battery": -0.06742672381967298,
+        "build": 0.07282935820985585,
+        "camera": -0.3551256751913267,
+        "charging": -0.41009370107591775,
+        "connectivity": -0.02855345748996894,
+        "display": -0.38372930022079443,
+        "performance": 0.39137201298823737,
+        "software": -0.5944065422518179
+      }
+    },
+    {
+      "month": "2021-02-01",
+      "aspects": {
+        "audio": -0.6423478024022188,
+        "battery": -0.07234319066494783,
+        "build": -0.10834423452615738,
+        "camera": 0.008649465007086595,
+        "charging": -0.35800314830039104,
+        "connectivity": 0.16577788590220735,
+        "display": 0.21239281006173455,
+        "performance": 0.548092764134708,
+        "software": 0.011006182479572349
+      }
+    },
+    {
+      "month": "2021-03-01",
+      "aspects": {
+        "audio": -0.6082336023909092,
+        "battery": 0.02077033811864177,
+        "build": 0.002799348112603184,
+        "camera": 0.016450744288401136,
+        "charging": -0.28861393479367153,
+        "connectivity": -0.5404669686831767,
+        "display": -0.424731753826398,
+        "performance": 0.4869574750661671,
+        "software": -0.11380117131629959
+      }
+    },
+    {
+      "month": "2021-04-01",
+      "aspects": {
+        "audio": -0.7783575562285617,
+        "battery": -0.11693305300909139,
+        "build": -0.32042575235986576,
+        "camera": -0.31918905544055937,
+        "charging": -0.1756557695955659,
+        "connectivity": -0.1965383133724875,
+        "display": -0.00045598989319322366,
+        "performance": 0.6225687068019231,
+        "software": -0.08775091657451795
+      }
+    },
+    {
+      "month": "2021-05-01",
+      "aspects": {
+        "audio": -0.5412173722899751,
+        "battery": -0.1255038608548656,
+        "build": 0.031403835921082646,
+        "camera": -0.3352766635626639,
+        "charging": -0.007047181231124948,
+        "connectivity": -0.2301186716252811,
+        "display": -0.328882607193211,
+        "performance": 0.25557032156939385,
+        "software": 0.015857043117284773
+      }
+    },
+    {
+      "month": "2021-06-01",
+      "aspects": {
+        "audio": -0.6566617277421756,
+        "battery": -0.11681871327313917,
+        "build": -0.655084308818914,
+        "camera": -0.05670389469661233,
+        "charging": -0.35176188754849136,
+        "connectivity": 0.27406433077218634,
+        "display": -0.42615943642771237,
+        "performance": 0.560972874542296,
+        "software": -0.16732673378040394
+      }
+    },
+    {
+      "month": "2021-07-01",
+      "aspects": {
+        "audio": -0.5644119802904739,
+        "battery": 0.01291605997539591,
+        "build": 0.018600542709464207,
+        "camera": -0.28358211187878624,
+        "charging": -0.1331963880220428,
+        "connectivity": -0.3789687667740509,
+        "display": -0.5119723358434652,
+        "performance": 0.5817929162367363,
+        "software": 0.7096827208685378
+      }
+    },
+    {
+      "month": "2021-08-01",
+      "aspects": {
+        "audio": -0.5442819807813066,
+        "battery": -0.13617716444132383,
+        "build": 0.982688213000074,
+        "camera": -0.28372572422247483,
+        "charging": -0.31035255722651656,
+        "connectivity": -0.42232632607920095,
+        "display": -0.38127613240794744,
+        "performance": 0.35630236660862075,
+        "software": 0.4746957357108061
+      }
+    },
+    {
+      "month": "2021-09-01",
+      "aspects": {
+        "audio": -0.9783189540030435,
+        "battery": -0.025050999488859603,
+        "camera": -0.38656339375302196,
+        "charging": -0.4853045665076934,
+        "connectivity": -0.6056495577795431,
+        "display": -0.15074933983932068,
+        "performance": 0.9921879846265905,
+        "software": 0.027278055669739842
+      }
+    },
+    {
+      "month": "2021-10-01",
+      "aspects": {
+        "audio": -0.6242661592550576,
+        "battery": -0.31130302947928645,
+        "build": 0.22660851598872492,
+        "camera": -0.4701951874012593,
+        "charging": 0.10776794206758496,
+        "connectivity": 0.09287658726680093,
+        "display": -0.3319500123357607,
+        "performance": 0.4796543038683012,
+        "software": -0.035264698206447065
+      }
+    },
+    {
+      "month": "2021-11-01",
+      "aspects": {
+        "audio": -0.8339730511361267,
+        "battery": -0.23215948728442704,
+        "build": 0.6626750613140757,
+        "camera": -0.0888924761758452,
+        "charging": 0.037457426498804125,
+        "connectivity": -0.4621474343002774,
+        "display": 0.39611468021212204,
+        "performance": 0.054018801217898725,
+        "software": -0.5825840989127755
+      }
+    },
+    {
+      "month": "2021-12-01",
+      "aspects": {
+        "audio": -0.8865660196558262,
+        "battery": -0.21581433093379018,
+        "build": -0.41997965704649687,
+        "camera": -0.20955441677360795,
+        "charging": 0.0738226463884833,
+        "connectivity": -0.7418389356074234,
+        "display": -0.6300561628039841,
+        "performance": 0.44529368176154094,
+        "software": 0.20825369484373368
+      }
+    },
+    {
+      "month": "2022-01-01",
+      "aspects": {
+        "audio": -0.5812613885384053,
+        "battery": -0.31532992914700037,
+        "camera": 0.14510676785721444,
+        "charging": -0.5365975261333266,
+        "connectivity": -0.8180828841868788,
+        "display": -0.6837613447251815,
+        "performance": 0.20914769867279878,
+        "software": -0.3027796179521829
+      }
+    },
+    {
+      "month": "2022-02-01",
+      "aspects": {
+        "audio": -0.7452701713773422,
+        "battery": -0.38931628941050306,
+        "build": -0.31333813862875104,
+        "camera": 0.15279055836920938,
+        "charging": -0.012052591395331547,
+        "display": -0.3992595966119552,
+        "performance": 0.43217283562407827,
+        "software": 0.14399773251110068
+      }
+    },
+    {
+      "month": "2022-03-01",
+      "aspects": {
+        "audio": -0.6646323647873942,
+        "battery": 0.05377226729303532,
+        "build": -0.2930877999557803,
+        "camera": -0.8405319094657898,
+        "charging": -0.5332673615776002,
+        "display": -0.5687238079408417,
+        "performance": 0.32389451521642815,
+        "software": -0.40326597339784104
+      }
+    },
+    {
+      "month": "2022-04-01",
+      "aspects": {
+        "audio": -0.6064614866045304,
+        "battery": -0.4547982764696436,
+        "build": 0.8982569184154272,
+        "charging": -0.4902689530426869,
+        "connectivity": -0.9316731519065797,
+        "display": -0.6012942988309078,
+        "performance": 0.34164281385407475,
+        "software": 0.3083061729557812
+      }
+    },
+    {
+      "month": "2022-05-01",
+      "aspects": {
+        "audio": -0.9804110168945044,
+        "battery": -0.09550854748795246,
+        "build": -0.5529709622205701,
+        "camera": -0.9738111254409887,
+        "charging": 0.16128365451004356,
+        "connectivity": -0.24666969235986472,
+        "display": -0.5305951116273978,
+        "performance": 0.9266938267974183,
+        "software": -0.14721605895708004
+      }
+    },
+    {
+      "month": "2022-06-01",
+      "aspects": {
+        "audio": -0.988383931069014,
+        "battery": -0.25529810164690664,
+        "build": -0.6729521569019804,
+        "camera": -0.5524348258040845,
+        "charging": -0.6956459354065979,
+        "display": -0.8401868456664184,
+        "performance": 0.32797476234069717,
+        "software": -0.07962825824506581
+      }
+    },
+    {
+      "month": "2022-07-01",
+      "aspects": {
+        "audio": -0.8271555787456842,
+        "battery": -0.42992592193499707,
+        "camera": -0.9866783579345793,
+        "charging": -0.32572473119944334,
+        "display": -0.08910469552696061,
+        "performance": 0.5815859455266036,
+        "software": 0.5279041787143797
+      }
+    },
+    {
+      "month": "2022-08-01",
+      "aspects": {
+        "audio": -0.5872608892386779,
+        "battery": -0.3641239820914756,
+        "build": -0.957562492811121,
+        "camera": 0.7721403676987393,
+        "charging": -0.3796055986895226,
+        "display": -0.09281579297061802,
+        "performance": -0.07070354927175988,
+        "software": -0.12798100046347827
+      }
+    },
+    {
+      "month": "2022-09-01",
+      "aspects": {
+        "audio": -0.7472035320970463,
+        "battery": -0.4112445900910129,
+        "build": 0.31389952931931475,
+        "camera": -0.8736469643190503,
+        "charging": -0.13624641669130969,
+        "connectivity": 0.004621381318429485,
+        "display": -0.18891508225483863,
+        "performance": 0.5187695610162336,
+        "software": -0.4423659862950444
+      }
+    },
+    {
+      "month": "2022-10-01",
+      "aspects": {
+        "audio": -0.8346478642696249,
+        "battery": -0.32457050711215873,
+        "build": -0.40959663316607475,
+        "camera": -0.5261600075256345,
+        "charging": -0.2557337935237835,
+        "connectivity": -0.139421338099055,
+        "display": -0.5526757354227205,
+        "performance": 0.13522981578717008,
+        "software": 0.32477711513638496
+      }
+    },
+    {
+      "month": "2022-11-01",
+      "aspects": {
+        "audio": -0.5253831332229311,
+        "battery": -0.2941796837813771,
+        "build": 0.05057234544074163,
+        "camera": -0.15913572724336214,
+        "charging": -0.6434730823384598,
+        "connectivity": 0.05693132057785988,
+        "display": -0.06885867630626308,
+        "performance": -0.6418232197673726,
+        "software": 0.27632853950490244
+      }
+    },
+    {
+      "month": "2022-12-01",
+      "aspects": {
+        "audio": -0.2162732221186161,
+        "battery": -0.5081107946957841,
+        "build": -0.007023957092314959,
+        "camera": -0.452469961058038,
+        "charging": -0.36525882309069857,
+        "connectivity": -0.30541120496733737,
+        "display": -0.05360346035117151,
+        "performance": -0.05236540685291402,
+        "software": -0.0014420191873796284
+      }
+    },
+    {
+      "month": "2023-01-01",
+      "aspects": {
+        "audio": -0.979024471443457,
+        "battery": -0.30309037030603964,
+        "camera": 0.22967764243367128,
+        "charging": -0.7422965019359253,
+        "connectivity": 0.1987153710797429,
+        "display": -0.19690249834384305,
+        "performance": -0.492678983231599,
+        "software": -0.5459255730733276
+      }
+    },
+    {
+      "month": "2023-02-01",
+      "aspects": {
+        "audio": -0.7559163826517761,
+        "battery": -0.14240570061115754,
+        "build": 0.5753879589804759,
+        "camera": -0.9779095794074237,
+        "charging": -0.17896686789269248,
+        "connectivity": 0.9885224842000753,
+        "display": 0.7136605549894739,
+        "performance": 0.5448647463461385,
+        "software": 0.9124931041151285
+      }
+    },
+    {
+      "month": "2023-03-01",
+      "aspects": {
+        "audio": -0.3706863853149116,
+        "battery": -0.7076365562388673,
+        "camera": 0.9942891665268689,
+        "charging": -0.3521690944908187,
+        "connectivity": -0.9797757691703737,
+        "display": -0.5223594882492242,
+        "performance": -0.8225780331219236,
+        "software": -0.2503501991741359
+      }
+    },
+    {
+      "month": "2023-04-01",
+      "aspects": {
+        "battery": -0.6826373391623537,
+        "build": -0.9833723662886769,
+        "camera": -0.5583987969846931,
+        "charging": -0.5906988016601341,
+        "display": -0.7531159406159228,
+        "performance": 0.24990780430380255,
+        "software": 0.07078836485743523
+      }
+    },
+    {
+      "month": "2023-05-01",
+      "aspects": {
+        "battery": -0.32092895610003325,
+        "build": 0.007621164193551522,
+        "camera": -0.25297218561172485,
+        "charging": 0.15693622507387772,
+        "display": 0.6653642732417211,
+        "performance": 0.8129009303462226
+      }
+    },
+    {
+      "month": "2023-06-01",
+      "aspects": {
+        "audio": 0.6064405970973894,
+        "battery": 0.39941371747045196,
+        "camera": 0.9866035007871687,
+        "charging": 0.7620443364139646,
+        "display": -0.15275537393366298,
+        "performance": -0.829607151215896,
+        "software": 0.09569415799342096
+      }
+    },
+    {
+      "month": "2023-07-01",
+      "aspects": {
+        "audio": -0.990032524918206,
+        "battery": -0.8143562062565858,
+        "charging": -0.9788826089352369,
+        "display": -0.9907318871701136,
+        "performance": -0.9784798840992153,
+        "software": -0.8464485174044967
+      }
+    },
+    {
+      "month": "2023-08-01",
+      "aspects": {
+        "battery": -0.9880876722745597,
+        "performance": 0.9749828896601684
+      }
+    }
+  ],
+  "action_items": [
+    {
+      "aspect": "connectivity",
+      "severity": 1.2737179859412007,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    },
+    {
+      "aspect": "build",
+      "severity": 1.0632635600280387,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    },
+    {
+      "aspect": "software",
+      "severity": 0.5404172048415241,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "camera",
+      "severity": 0.4726088852605447,
+      "direction": "deterioration",
+      "evidence_strength": "high"
+    },
+    {
+      "aspect": "audio",
+      "severity": 0.46977502240123514,
+      "direction": "deterioration",
+      "evidence_strength": "low"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "phase": "Phase 3 - Drift Detection",
+  "comparison": [
+    { "Method": "LSTM-AE", "Recall": 0.335, "Mean Delay": 0.687, "Mean Events/Product": 4.625 },
+    { "Method": "PELT", "Recall": 0.155, "Mean Delay": 0.645, "Mean Events/Product": 1.1 },
+    { "Method": "CUSUM", "Recall": 0.57, "Mean Delay": 1.105, "Mean Events/Product": 4.71 },
+    { "Method": "Star Rating", "Recall": 0.01, "Mean Delay": 1.5, "Mean Events/Product": 0.395 }
+  ],
+  "by_drift_type": [
+    { "Drift Type": "step", "LSTM-AE": 0.446, "PELT": 0.161, "CUSUM": 0.643, "Star Rating": 0.018 },
+    { "Drift Type": "gradual", "LSTM-AE": 0.341, "PELT": 0.205, "CUSUM": 0.432, "Star Rating": 0.023 },
+    { "Drift Type": "transient", "LSTM-AE": 0.229, "PELT": 0.104, "CUSUM": 0.438, "Star Rating": 0.0 },
+    { "Drift Type": "multi_aspect", "LSTM-AE": 0.308, "PELT": 0.154, "CUSUM": 0.731, "Star Rating": 0.0 }
+  ],
+  "lstm_ae": {
+    "hidden_dim": 32,
+    "latent_dim": 8,
+    "seq_len": 6,
+    "n_seeds": 3,
+    "best_val_loss": 0.722,
+    "threshold": 2.197,
+    "anomaly_rate_drift": 0.151,
+    "anomaly_rate_normal": 0.095
+  },
+  "n_synthetic_cases": 200,
+  "n_normal_train": 156,
+  "n_normal_val": 34,
+  "n_normal_test": 34,
+  "n_drift_products": 111
+}
